@@ -1,0 +1,332 @@
+{
+ "id": "board-cbse-12-science",
+ "course": "board",
+ "level": "cbse-12-science",
+ "name": "CBSE · Class 12 · Science",
+ "version": 1,
+ "board": "cbse",
+ "class": "12",
+ "stream": "science",
+ "subjects": [
+  {
+   "name": "Physics",
+   "modules": [
+    {
+     "name": "Electric Charges and Fields",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Electrostatic Potential and Capacitance",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Current Electricity",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Moving Charges and Magnetism",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Magnetism and Matter",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Electromagnetic Induction",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Alternating Current",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Electromagnetic Waves",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Ray Optics and Optical Instruments",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Wave Optics",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Dual Nature of Radiation and Matter",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Atoms",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Nuclei",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Semiconductor Electronics",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    }
+   ]
+  },
+  {
+   "name": "Chemistry",
+   "modules": [
+    {
+     "name": "Solutions",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Electrochemistry",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Chemical Kinetics",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "d and f Block Elements",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Coordination Compounds",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Haloalkanes and Haloarenes",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Alcohols, Phenols and Ethers",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Aldehydes, Ketones and Carboxylic Acids",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Amines",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Biomolecules",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    }
+   ]
+  },
+  {
+   "name": "Mathematics",
+   "modules": [
+    {
+     "name": "Relations and Functions",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Inverse Trigonometric Functions",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Matrices",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Determinants",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Continuity and Differentiability",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Application of Derivatives",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Integrals",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Application of Integrals",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Differential Equations",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Vector Algebra",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Three Dimensional Geometry",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Linear Programming",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Probability",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  },
+  {
+   "name": "Biology",
+   "modules": [
+    {
+     "name": "Sexual Reproduction in Flowering Plants",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Human Reproduction",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Reproductive Health",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Principles of Inheritance and Variation",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Molecular Basis of Inheritance",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Evolution",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Human Health and Disease",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Microbes in Human Welfare",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Biotechnology: Principles and Processes",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Biotechnology and its Applications",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Organisms and Populations",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Ecosystem",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Biodiversity and Conservation",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  }
+ ]
+}

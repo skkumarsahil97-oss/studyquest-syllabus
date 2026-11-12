@@ -1,0 +1,327 @@
+{
+ "id": "board-bihar-10",
+ "course": "board",
+ "level": "bihar-10",
+ "name": "Bihar Board · Class 10",
+ "version": 1,
+ "board": "bihar",
+ "class": "10",
+ "stream": null,
+ "subjects": [
+  {
+   "name": "Science",
+   "modules": [
+    {
+     "name": "Prakash ka Paravartan tatha Apavartan",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Manav Netra tatha Rangbiranga Sansar",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Vidyut",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Vidyut Dhara ke Chumbakiya Prabhav",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Rasayanik Abhikriyayein",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Amla, Bhasma aur Lavan",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Dhatu aur Adhatu",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Carbon aur uske Yaugik",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Jaiv Prakram",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Niyantran aur Samanvay",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Jeev Janan kaise karte hai",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Anuvanshiktva",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Hamara Paryavaran",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  },
+  {
+   "name": "Mathematics",
+   "modules": [
+    {
+     "name": "Bahupad",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Do char wale Raikhik Samikaran",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Dwigat Samikaran",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Samantar Shreni",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Tribhuj",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Vrit",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Rachnayein",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Nirdeshank Jyamiti",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Vastavik Sankhyayein",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Trikonmiti ka Parichay",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Trikonmiti ke Anuprayog",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Vrit se Sambandhit Kshetrafal",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Prishthiya Kshetrafal aur Aayatan",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Sankhyiki",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Prayikta",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  },
+  {
+   "name": "Social Science",
+   "modules": [
+    {
+     "name": "History: Rise of Nationalism in Europe",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "History: Nationalism in India",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "History: The Making of a Global World",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "History: The Age of Industrialisation",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "History: Print Culture and the Modern World",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Geography: Resources and Development",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Geography: Forest and Wildlife Resources",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Geography: Water Resources",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Geography: Agriculture",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Geography: Minerals and Energy Resources",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Geography: Manufacturing Industries",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Geography: Lifelines of National Economy",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Civics: Power Sharing",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Civics: Federalism",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Civics: Gender, Religion and Caste",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Civics: Political Parties",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Civics: Outcomes of Democracy",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Economics: Development",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Economics: Sectors of the Indian Economy",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Economics: Money and Credit",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Economics: Globalisation and the Indian Economy",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Economics: Consumer Rights",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  }
+ ]
+}

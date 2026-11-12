@@ -1,0 +1,332 @@
+{
+ "id": "board-bihar-12-science",
+ "course": "board",
+ "level": "bihar-12-science",
+ "name": "Bihar Board · Class 12 · Science",
+ "version": 1,
+ "board": "bihar",
+ "class": "12",
+ "stream": "science",
+ "subjects": [
+  {
+   "name": "Physics",
+   "modules": [
+    {
+     "name": "Vaidyut Avesh tatha Kshetra",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Sthir Vaidyut Vibhav",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Vidyut Dhara",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Gatiman Avesh aur Chumbakatva",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Kiran Prakashiki",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Tarang Prakashiki",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Vikiran tatha Dravya ki Dwait Prakriti",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Nabhik",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Ardhchalak",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Chumbakatva evam Dravya",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Vaidyut Chumbakiya Prerna",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Pratyavarti Dhara",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Vaidyut Chumbakiya Tarange",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Parmanu",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  },
+  {
+   "name": "Chemistry",
+   "modules": [
+    {
+     "name": "Solutions",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Electrochemistry",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Chemical Kinetics",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "d and f Block Elements",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Coordination Compounds",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Haloalkanes and Haloarenes",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Alcohols, Phenols and Ethers",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Aldehydes, Ketones and Carboxylic Acids",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Amines",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Biomolecules",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    }
+   ]
+  },
+  {
+   "name": "Mathematics",
+   "modules": [
+    {
+     "name": "Relations and Functions",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Inverse Trigonometric Functions",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Matrices",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Determinants",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Continuity and Differentiability",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Application of Derivatives",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Integrals",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Application of Integrals",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Differential Equations",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Vector Algebra",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Three Dimensional Geometry",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Linear Programming",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Probability",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  },
+  {
+   "name": "Biology",
+   "modules": [
+    {
+     "name": "Sexual Reproduction in Flowering Plants",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Human Reproduction",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Reproductive Health",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Principles of Inheritance and Variation",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Molecular Basis of Inheritance",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Evolution",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Human Health and Disease",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Microbes in Human Welfare",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Biotechnology: Principles and Processes",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Biotechnology and its Applications",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Organisms and Populations",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Ecosystem",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Biodiversity and Conservation",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,248 @@
+{
+ "id": "board-maharashtra-12-commerce",
+ "course": "board",
+ "level": "maharashtra-12-commerce",
+ "name": "Maharashtra Board · Class 12 · Commerce",
+ "version": 1,
+ "board": "maharashtra",
+ "class": "12",
+ "stream": "commerce",
+ "subjects": [
+  {
+   "name": "Organisation of Commerce & Management",
+   "modules": [
+    {
+     "name": "Principles of Management",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Functions of Management",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Entrepreneurship Development",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Business Services",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Emerging Modes of Business",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Social Responsibilities of Business",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Consumer Protection",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Marketing",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    }
+   ]
+  },
+  {
+   "name": "Secretarial Practice",
+   "modules": [
+    {
+     "name": "Introduction to Corporate Finance",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Sources of Corporate Finance",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Issue of Shares",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Issue of Debentures",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Deposits",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Correspondence with Members",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Correspondence with Debentureholders",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Depository System",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Payment of Dividend and Interest",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    }
+   ]
+  },
+  {
+   "name": "Book-Keeping & Accountancy",
+   "modules": [
+    {
+     "name": "Introduction to Partnership and Final Accounts",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Reconstitution of Partnership (Admission)",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Reconstitution of Partnership (Retirement/Death)",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Dissolution of Partnership Firm",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Accounts of Not-for-Profit Concerns",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Bills of Exchange",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Analysis of Financial Statements",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Computer in Accounting",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  },
+  {
+   "name": "Economics",
+   "modules": [
+    {
+     "name": "Introduction to Micro Economics",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Utility Analysis",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Demand Analysis",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Elasticity of Demand",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Supply Analysis",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Forms of Market",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Index Numbers",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "National Income",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Public Finance in India",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Money Market and Capital Market in India",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Foreign Trade of India",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    }
+   ]
+  }
+ ]
+}

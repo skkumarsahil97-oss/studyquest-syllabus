@@ -1,0 +1,314 @@
+{
+ "id": "board-others-12-arts",
+ "course": "board",
+ "level": "others-12-arts",
+ "name": "Other boards (NCERT-based) · Class 12 · Arts",
+ "version": 1,
+ "board": "others",
+ "class": "12",
+ "stream": "arts",
+ "subjects": [
+  {
+   "name": "History",
+   "modules": [
+    {
+     "name": "Bricks, Beads and Bones (Harappan)",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Kings, Farmers and Towns",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Kinship, Caste and Class",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Thinkers, Beliefs and Buildings",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Through the Eyes of Travellers",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Bhakti-Sufi Traditions",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "An Imperial Capital: Vijayanagara",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Peasants, Zamindars and the State",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Colonialism and the Countryside",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Rebels and the Raj",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Mahatma Gandhi and the Nationalist Movement",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Framing the Constitution",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  },
+  {
+   "name": "Political Science",
+   "modules": [
+    {
+     "name": "The End of Bipolarity",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "New Centres of Power",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Contemporary South Asia",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "International Organisations",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Environment and Natural Resources",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Challenges of Nation Building",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Planned Development",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "India's External Relations",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Democratic Resurgence",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Regional Aspirations",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    }
+   ]
+  },
+  {
+   "name": "Geography",
+   "modules": [
+    {
+     "name": "Human Geography: Nature and Scope",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "The World Population",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Human Development",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Primary Activities",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Secondary Activities",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Tertiary and Quaternary Activities",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Transport and Communication (World)",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "International Trade (World)",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "India: Population",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "India: Human Settlements",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "India: Land Resources and Agriculture",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "India: Water Resources",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "India: Mineral and Energy Resources",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "India: Planning and Sustainable Development",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "India: Transport and Communication",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "India: International Trade",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Geographical Perspective on Selected Issues",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  },
+  {
+   "name": "Economics",
+   "modules": [
+    {
+     "name": "Macro: National Income Accounting",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Macro: Money and Banking",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Macro: Determination of Income and Employment",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Macro: Government Budget and the Economy",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Macro: Balance of Payments",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Indian Economy: Development Experience (1947–90) and Reforms since 1991",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Indian Economy: Current Challenges",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Indian Economy: Comparison with Neighbours",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,83 @@
+{
+ "id": "board-maharashtra-12-arts",
+ "course": "board",
+ "level": "maharashtra-12-arts",
+ "name": "Maharashtra Board · Class 12 · Arts",
+ "version": 1,
+ "board": "maharashtra",
+ "class": "12",
+ "stream": "arts",
+ "subjects": [
+  {
+   "name": "Economics",
+   "modules": [
+    {
+     "name": "Introduction to Micro Economics",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Utility Analysis",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Demand Analysis",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Elasticity of Demand",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Supply Analysis",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Forms of Market",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Index Numbers",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "National Income",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Public Finance in India",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Money Market and Capital Market in India",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Foreign Trade of India",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    }
+   ]
+  }
+ ]
+}

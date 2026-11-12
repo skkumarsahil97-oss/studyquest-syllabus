@@ -1,0 +1,404 @@
+{
+ "id": "board-maharashtra-12-science",
+ "course": "board",
+ "level": "maharashtra-12-science",
+ "name": "Maharashtra Board · Class 12 · Science",
+ "version": 1,
+ "board": "maharashtra",
+ "class": "12",
+ "stream": "science",
+ "subjects": [
+  {
+   "name": "Physics",
+   "modules": [
+    {
+     "name": "Rotational Dynamics",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Mechanical Properties of Fluids",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Kinetic Theory of Gases and Radiation",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Thermodynamics",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Oscillations",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Superposition of Waves",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Wave Optics",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Electrostatics",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Current Electricity",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Magnetic Fields due to Electric Current",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Dual Nature of Radiation",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Structure of Atoms",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Magnetic Materials",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Electromagnetic Induction",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "AC Circuits",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Semiconductor Devices",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  },
+  {
+   "name": "Chemistry",
+   "modules": [
+    {
+     "name": "Solid State",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Solutions",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Ionic Equilibria",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Chemical Thermodynamics",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Electrochemistry",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Chemical Kinetics",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Elements of Groups 16, 17 and 18",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Transition and Inner Transition Elements",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Coordination Compounds",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Halogen Derivatives",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Alcohols, Phenols and Ethers",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Aldehydes, Ketones and Carboxylic Acids",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Amines",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Biomolecules",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Introduction to Polymer Chemistry",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Green Chemistry and Nanochemistry",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  },
+  {
+   "name": "Mathematics",
+   "modules": [
+    {
+     "name": "Mathematical Logic",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Matrices",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Trigonometric Functions",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Pair of Straight Lines",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Vectors",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Line and Plane",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Linear Programming",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Differentiation",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Applications of Derivatives",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Indefinite Integration",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Definite Integration",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Application of Definite Integration",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Differential Equations",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Probability Distributions",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Binomial Distribution",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  },
+  {
+   "name": "Biology",
+   "modules": [
+    {
+     "name": "Reproduction in Lower and Higher Plants",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Reproduction in Lower and Higher Animals",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Inheritance and Variation",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Molecular Basis of Inheritance",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Origin and Evolution of Life",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Plant Water Relation",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Plant Growth and Mineral Nutrition",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Respiration and Circulation",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Control and Co-ordination",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Human Health and Diseases",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Enhancement of Food Production",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Biotechnology",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Organisms and Populations",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Ecosystems and Energy Flow",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Biodiversity, Conservation and Environmental Issues",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  }
+ ]
+}

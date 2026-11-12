@@ -1,0 +1,321 @@
+{
+ "id": "board-others-10",
+ "course": "board",
+ "level": "others-10",
+ "name": "Other boards (NCERT-based) · Class 10",
+ "version": 1,
+ "board": "others",
+ "class": "10",
+ "stream": null,
+ "subjects": [
+  {
+   "name": "Science",
+   "modules": [
+    {
+     "name": "Chemical Reactions and Equations",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Acids, Bases and Salts",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Metals and Non-metals",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Carbon and its Compounds",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Life Processes",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Control and Coordination",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "How do Organisms Reproduce?",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Heredity and Evolution",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Light: Reflection and Refraction",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Human Eye and Colourful World",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Electricity",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Magnetic Effects of Electric Current",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Our Environment",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  },
+  {
+   "name": "Mathematics",
+   "modules": [
+    {
+     "name": "Real Numbers",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Polynomials",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Pair of Linear Equations",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Quadratic Equations",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Arithmetic Progressions",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Triangles",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Coordinate Geometry",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Introduction to Trigonometry",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Some Applications of Trigonometry",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Circles",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Areas Related to Circles",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Surface Areas and Volumes",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Statistics",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Probability",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    }
+   ]
+  },
+  {
+   "name": "Social Science",
+   "modules": [
+    {
+     "name": "History: Rise of Nationalism in Europe",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "History: Nationalism in India",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "History: The Making of a Global World",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "History: The Age of Industrialisation",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "History: Print Culture and the Modern World",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Geography: Resources and Development",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Geography: Forest and Wildlife Resources",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Geography: Water Resources",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Geography: Agriculture",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Geography: Minerals and Energy Resources",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Geography: Manufacturing Industries",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Geography: Lifelines of National Economy",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Civics: Power Sharing",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Civics: Federalism",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Civics: Gender, Religion and Caste",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Civics: Political Parties",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Civics: Outcomes of Democracy",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Economics: Development",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Economics: Sectors of the Indian Economy",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Economics: Money and Credit",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Economics: Globalisation and the Indian Economy",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Economics: Consumer Rights",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  }
+ ]
+}

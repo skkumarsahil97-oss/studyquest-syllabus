@@ -1,0 +1,224 @@
+{
+ "id": "board-bihar-12-commerce",
+ "course": "board",
+ "level": "bihar-12-commerce",
+ "name": "Bihar Board · Class 12 · Commerce",
+ "version": 1,
+ "board": "bihar",
+ "class": "12",
+ "stream": "commerce",
+ "subjects": [
+  {
+   "name": "Entrepreneurship",
+   "modules": [
+    {
+     "name": "Sensing and Identification of Entrepreneurial Opportunities",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Environment Scanning",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Market Assessment",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Formulation of Project Report",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Resource Assessment",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Financial Planning",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Marketing Mix",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    }
+   ]
+  },
+  {
+   "name": "Accountancy",
+   "modules": [
+    {
+     "name": "Accounting for Partnership: Basic Concepts",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Reconstitution of Partnership (Admission/Retirement/Death)",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Dissolution of Partnership Firm",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Accounting for Share Capital",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Issue and Redemption of Debentures",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Analysis of Financial Statements",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Accounting Ratios",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Cash Flow Statement",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    }
+   ]
+  },
+  {
+   "name": "Business Studies",
+   "modules": [
+    {
+     "name": "Nature and Significance of Management",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Principles of Management",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Business Environment",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Planning & Organizing",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Staffing, Directing & Controlling",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Financial Management",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Financial Markets",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Marketing Management",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Consumer Protection",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    }
+   ]
+  },
+  {
+   "name": "Economics",
+   "modules": [
+    {
+     "name": "Macro: National Income Accounting",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Macro: Money and Banking",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Macro: Determination of Income and Employment",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Macro: Government Budget and the Economy",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Macro: Balance of Payments",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Indian Economy: Development Experience (1947–90) and Reforms since 1991",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Indian Economy: Current Challenges",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Indian Economy: Comparison with Neighbours",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  }
+ ]
+}

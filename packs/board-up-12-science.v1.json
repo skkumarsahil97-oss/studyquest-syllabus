@@ -1,0 +1,326 @@
+{
+ "id": "board-up-12-science",
+ "course": "board",
+ "level": "up-12-science",
+ "name": "UP Board · Class 12 · Science",
+ "version": 1,
+ "board": "up",
+ "class": "12",
+ "stream": "science",
+ "subjects": [
+  {
+   "name": "Physics",
+   "modules": [
+    {
+     "name": "Electric Charges and Fields",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Electrostatic Potential and Capacitance",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Current Electricity",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Moving Charges and Magnetism",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Magnetism and Matter",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Electromagnetic Induction",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Alternating Current",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Electromagnetic Waves",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Ray Optics and Optical Instruments",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Wave Optics",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Dual Nature of Radiation and Matter",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Atoms",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Nuclei",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Semiconductor Electronics",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    }
+   ]
+  },
+  {
+   "name": "Chemistry",
+   "modules": [
+    {
+     "name": "Solutions",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Electrochemistry",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Chemical Kinetics",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "d and f Block Elements",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Coordination Compounds",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Haloalkanes and Haloarenes",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Alcohols, Phenols and Ethers",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Aldehydes, Ketones and Carboxylic Acids",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Amines",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Biomolecules",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    }
+   ]
+  },
+  {
+   "name": "Mathematics",
+   "modules": [
+    {
+     "name": "Relations and Functions",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Inverse Trigonometric Functions",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Matrices",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Determinants",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Continuity and Differentiability",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Application of Derivatives",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Integrals",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Application of Integrals",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Differential Equations",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Vector Algebra",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Three Dimensional Geometry",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Linear Programming",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Probability",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  },
+  {
+   "name": "Biology",
+   "modules": [
+    {
+     "name": "Pushpi Padapon mein Laingik Janan",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Manav Janan",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Janan Swasthya",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Vanshagati tatha Vividhta ke Siddhant",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Vanshagati ke Aanvik Aadhar",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Vikas (Evolution)",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Manav Swasthya tatha Rog",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Jaiv Praudyogiki (Biotech)",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Jaiv Vividhata evam Sanrakshan",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Manav Kalyan mein Sukshmjeev",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Jeev aur Samashti",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Paritantra",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  }
+ ]
+}

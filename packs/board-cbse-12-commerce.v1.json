@@ -1,0 +1,260 @@
+{
+ "id": "board-cbse-12-commerce",
+ "course": "board",
+ "level": "cbse-12-commerce",
+ "name": "CBSE · Class 12 · Commerce",
+ "version": 1,
+ "board": "cbse",
+ "class": "12",
+ "stream": "commerce",
+ "subjects": [
+  {
+   "name": "Accountancy",
+   "modules": [
+    {
+     "name": "Accounting for Partnership: Basic Concepts",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Reconstitution of Partnership (Admission/Retirement/Death)",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Dissolution of Partnership Firm",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Accounting for Share Capital",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Issue and Redemption of Debentures",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Analysis of Financial Statements",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Accounting Ratios",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Cash Flow Statement",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    }
+   ]
+  },
+  {
+   "name": "Business Studies",
+   "modules": [
+    {
+     "name": "Nature and Significance of Management",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Principles of Management",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Business Environment",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Planning & Organizing",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Staffing, Directing & Controlling",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Financial Management",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Financial Markets",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Marketing Management",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Consumer Protection",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    }
+   ]
+  },
+  {
+   "name": "Economics",
+   "modules": [
+    {
+     "name": "Macro: National Income Accounting",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Macro: Money and Banking",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Macro: Determination of Income and Employment",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Macro: Government Budget and the Economy",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Macro: Balance of Payments",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Indian Economy: Development Experience (1947–90) and Reforms since 1991",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Indian Economy: Current Challenges",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Indian Economy: Comparison with Neighbours",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  },
+  {
+   "name": "Mathematics",
+   "modules": [
+    {
+     "name": "Relations and Functions",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Inverse Trigonometric Functions",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Matrices",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Determinants",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Continuity and Differentiability",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Application of Derivatives",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Integrals",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Application of Integrals",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Differential Equations",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Vector Algebra",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Three Dimensional Geometry",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Linear Programming",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Probability",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  }
+ ]
+}

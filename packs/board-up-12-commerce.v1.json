@@ -1,0 +1,165 @@
+{
+ "id": "board-up-12-commerce",
+ "course": "board",
+ "level": "up-12-commerce",
+ "name": "UP Board · Class 12 · Commerce",
+ "version": 1,
+ "board": "up",
+ "class": "12",
+ "stream": "commerce",
+ "subjects": [
+  {
+   "name": "Accountancy",
+   "modules": [
+    {
+     "name": "Sajhedari ka Pravesh",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Avkash Grahan tatha Mrityu",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Sajhedari ka Vighatan",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Ansho ka Nirgaman evam Haran",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Rinpatro ka Nirgaman",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Company ke Antim Khaate",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    }
+   ]
+  },
+  {
+   "name": "Business Studies",
+   "modules": [
+    {
+     "name": "Nature and Significance of Management",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Principles of Management",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Business Environment",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Planning & Organizing",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Staffing, Directing & Controlling",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Financial Management",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Financial Markets",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Marketing Management",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Consumer Protection",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    }
+   ]
+  },
+  {
+   "name": "Economics",
+   "modules": [
+    {
+     "name": "Macro: National Income Accounting",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Macro: Money and Banking",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Macro: Determination of Income and Employment",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Macro: Government Budget and the Economy",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Macro: Balance of Payments",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Indian Economy: Development Experience (1947–90) and Reforms since 1991",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Indian Economy: Current Challenges",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Indian Economy: Comparison with Neighbours",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  }
+ ]
+}

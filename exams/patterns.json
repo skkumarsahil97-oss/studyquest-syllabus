@@ -353,5 +353,563 @@
     "note": "90 questions in the full paper"
    }
   }
+ },
+ "board/cbse-10": {
+  "total": "3 theory papers",
+  "paper": "",
+  "subjects": {
+   "Science": {
+    "mode": "written",
+    "duration": 180,
+    "marks": 80,
+    "note": "Board theory paper (+ internal/practical marks)"
+   },
+   "Mathematics": {
+    "mode": "written",
+    "duration": 180,
+    "marks": 80,
+    "note": "Board theory paper (+ internal/practical marks)"
+   },
+   "Social Science": {
+    "mode": "written",
+    "duration": 180,
+    "marks": 80,
+    "note": "Board theory paper (+ internal/practical marks)"
+   }
+  }
+ },
+ "board/cbse-12-science": {
+  "total": "4 theory papers",
+  "paper": "",
+  "subjects": {
+   "Physics": {
+    "mode": "written",
+    "duration": 180,
+    "marks": 80,
+    "note": "Board theory paper (+ internal/practical marks)"
+   },
+   "Chemistry": {
+    "mode": "written",
+    "duration": 180,
+    "marks": 80,
+    "note": "Board theory paper (+ internal/practical marks)"
+   },
+   "Mathematics": {
+    "mode": "written",
+    "duration": 180,
+    "marks": 80,
+    "note": "Board theory paper (+ internal/practical marks)"
+   },
+   "Biology": {
+    "mode": "written",
+    "duration": 180,
+    "marks": 80,
+    "note": "Board theory paper (+ internal/practical marks)"
+   }
+  }
+ },
+ "board/cbse-12-commerce": {
+  "total": "4 theory papers",
+  "paper": "",
+  "subjects": {
+   "Accountancy": {
+    "mode": "written",
+    "duration": 180,
+    "marks": 80,
+    "note": "Board theory paper (+ internal/practical marks)"
+   },
+   "Business Studies": {
+    "mode": "written",
+    "duration": 180,
+    "marks": 80,
+    "note": "Board theory paper (+ internal/practical marks)"
+   },
+   "Economics": {
+    "mode": "written",
+    "duration": 180,
+    "marks": 80,
+    "note": "Board theory paper (+ internal/practical marks)"
+   },
+   "Mathematics": {
+    "mode": "written",
+    "duration": 180,
+    "marks": 80,
+    "note": "Board theory paper (+ internal/practical marks)"
+   }
+  }
+ },
+ "board/cbse-12-arts": {
+  "total": "4 theory papers",
+  "paper": "",
+  "subjects": {
+   "History": {
+    "mode": "written",
+    "duration": 180,
+    "marks": 80,
+    "note": "Board theory paper (+ internal/practical marks)"
+   },
+   "Political Science": {
+    "mode": "written",
+    "duration": 180,
+    "marks": 80,
+    "note": "Board theory paper (+ internal/practical marks)"
+   },
+   "Geography": {
+    "mode": "written",
+    "duration": 180,
+    "marks": 80,
+    "note": "Board theory paper (+ internal/practical marks)"
+   },
+   "Economics": {
+    "mode": "written",
+    "duration": 180,
+    "marks": 80,
+    "note": "Board theory paper (+ internal/practical marks)"
+   }
+  }
+ },
+ "board/up-10": {
+  "total": "4 theory papers",
+  "paper": "",
+  "subjects": {
+   "Hindi": {
+    "mode": "written",
+    "duration": 180,
+    "marks": null,
+    "note": "Board theory paper (+ internal/practical marks) · check your board pattern"
+   },
+   "Science": {
+    "mode": "written",
+    "duration": 180,
+    "marks": null,
+    "note": "Board theory paper (+ internal/practical marks) · check your board pattern"
+   },
+   "Mathematics": {
+    "mode": "written",
+    "duration": 180,
+    "marks": null,
+    "note": "Board theory paper (+ internal/practical marks) · check your board pattern"
+   },
+   "Social Science": {
+    "mode": "written",
+    "duration": 180,
+    "marks": null,
+    "note": "Board theory paper (+ internal/practical marks) · check your board pattern"
+   }
+  }
+ },
+ "board/up-12-science": {
+  "total": "4 theory papers",
+  "paper": "",
+  "subjects": {
+   "Physics": {
+    "mode": "written",
+    "duration": 180,
+    "marks": null,
+    "note": "Board theory paper (+ internal/practical marks) · check your board pattern"
+   },
+   "Chemistry": {
+    "mode": "written",
+    "duration": 180,
+    "marks": null,
+    "note": "Board theory paper (+ internal/practical marks) · check your board pattern"
+   },
+   "Mathematics": {
+    "mode": "written",
+    "duration": 180,
+    "marks": null,
+    "note": "Board theory paper (+ internal/practical marks) · check your board pattern"
+   },
+   "Biology": {
+    "mode": "written",
+    "duration": 180,
+    "marks": null,
+    "note": "Board theory paper (+ internal/practical marks) · check your board pattern"
+   }
+  }
+ },
+ "board/up-12-commerce": {
+  "total": "3 theory papers",
+  "paper": "",
+  "subjects": {
+   "Accountancy": {
+    "mode": "written",
+    "duration": 180,
+    "marks": null,
+    "note": "Board theory paper (+ internal/practical marks) · check your board pattern"
+   },
+   "Business Studies": {
+    "mode": "written",
+    "duration": 180,
+    "marks": null,
+    "note": "Board theory paper (+ internal/practical marks) · check your board pattern"
+   },
+   "Economics": {
+    "mode": "written",
+    "duration": 180,
+    "marks": null,
+    "note": "Board theory paper (+ internal/practical marks) · check your board pattern"
+   }
+  }
+ },
+ "board/up-12-arts": {
+  "total": "4 theory papers",
+  "paper": "",
+  "subjects": {
+   "Geography": {
+    "mode": "written",
+    "duration": 180,
+    "marks": null,
+    "note": "Board theory paper (+ internal/practical marks) · check your board pattern"
+   },
+   "History": {
+    "mode": "written",
+    "duration": 180,
+    "marks": null,
+    "note": "Board theory paper (+ internal/practical marks) · check your board pattern"
+   },
+   "Political Science": {
+    "mode": "written",
+    "duration": 180,
+    "marks": null,
+    "note": "Board theory paper (+ internal/practical marks) · check your board pattern"
+   },
+   "Economics": {
+    "mode": "written",
+    "duration": 180,
+    "marks": null,
+    "note": "Board theory paper (+ internal/practical marks) · check your board pattern"
+   }
+  }
+ },
+ "board/bihar-10": {
+  "total": "3 theory papers",
+  "paper": "",
+  "subjects": {
+   "Science": {
+    "mode": "written",
+    "duration": 180,
+    "marks": null,
+    "note": "Board theory paper (+ internal/practical marks) · check your board pattern"
+   },
+   "Mathematics": {
+    "mode": "written",
+    "duration": 180,
+    "marks": null,
+    "note": "Board theory paper (+ internal/practical marks) · check your board pattern"
+   },
+   "Social Science": {
+    "mode": "written",
+    "duration": 180,
+    "marks": null,
+    "note": "Board theory paper (+ internal/practical marks) · check your board pattern"
+   }
+  }
+ },
+ "board/bihar-12-science": {
+  "total": "4 theory papers",
+  "paper": "",
+  "subjects": {
+   "Physics": {
+    "mode": "written",
+    "duration": 180,
+    "marks": null,
+    "note": "Board theory paper (+ internal/practical marks) · check your board pattern"
+   },
+   "Chemistry": {
+    "mode": "written",
+    "duration": 180,
+    "marks": null,
+    "note": "Board theory paper (+ internal/practical marks) · check your board pattern"
+   },
+   "Mathematics": {
+    "mode": "written",
+    "duration": 180,
+    "marks": null,
+    "note": "Board theory paper (+ internal/practical marks) · check your board pattern"
+   },
+   "Biology": {
+    "mode": "written",
+    "duration": 180,
+    "marks": null,
+    "note": "Board theory paper (+ internal/practical marks) · check your board pattern"
+   }
+  }
+ },
+ "board/bihar-12-commerce": {
+  "total": "4 theory papers",
+  "paper": "",
+  "subjects": {
+   "Entrepreneurship": {
+    "mode": "written",
+    "duration": 180,
+    "marks": null,
+    "note": "Board theory paper (+ internal/practical marks) · check your board pattern"
+   },
+   "Accountancy": {
+    "mode": "written",
+    "duration": 180,
+    "marks": null,
+    "note": "Board theory paper (+ internal/practical marks) · check your board pattern"
+   },
+   "Business Studies": {
+    "mode": "written",
+    "duration": 180,
+    "marks": null,
+    "note": "Board theory paper (+ internal/practical marks) · check your board pattern"
+   },
+   "Economics": {
+    "mode": "written",
+    "duration": 180,
+    "marks": null,
+    "note": "Board theory paper (+ internal/practical marks) · check your board pattern"
+   }
+  }
+ },
+ "board/bihar-12-arts": {
+  "total": "4 theory papers",
+  "paper": "",
+  "subjects": {
+   "History": {
+    "mode": "written",
+    "duration": 180,
+    "marks": null,
+    "note": "Board theory paper (+ internal/practical marks) · check your board pattern"
+   },
+   "Political Science": {
+    "mode": "written",
+    "duration": 180,
+    "marks": null,
+    "note": "Board theory paper (+ internal/practical marks) · check your board pattern"
+   },
+   "Geography": {
+    "mode": "written",
+    "duration": 180,
+    "marks": null,
+    "note": "Board theory paper (+ internal/practical marks) · check your board pattern"
+   },
+   "Economics": {
+    "mode": "written",
+    "duration": 180,
+    "marks": null,
+    "note": "Board theory paper (+ internal/practical marks) · check your board pattern"
+   }
+  }
+ },
+ "board/maharashtra-10": {
+  "total": "4 theory papers",
+  "paper": "",
+  "subjects": {
+   "Science & Technology Part 1": {
+    "mode": "written",
+    "duration": 180,
+    "marks": null,
+    "note": "Board theory paper (+ internal/practical marks) · check your board pattern"
+   },
+   "Science & Technology Part 2": {
+    "mode": "written",
+    "duration": 180,
+    "marks": null,
+    "note": "Board theory paper (+ internal/practical marks) · check your board pattern"
+   },
+   "Mathematics Part 1 (Algebra)": {
+    "mode": "written",
+    "duration": 180,
+    "marks": null,
+    "note": "Board theory paper (+ internal/practical marks) · check your board pattern"
+   },
+   "Mathematics Part 2 (Geometry)": {
+    "mode": "written",
+    "duration": 180,
+    "marks": null,
+    "note": "Board theory paper (+ internal/practical marks) · check your board pattern"
+   }
+  }
+ },
+ "board/maharashtra-12-science": {
+  "total": "4 theory papers",
+  "paper": "",
+  "subjects": {
+   "Physics": {
+    "mode": "written",
+    "duration": 180,
+    "marks": null,
+    "note": "Board theory paper (+ internal/practical marks) · check your board pattern"
+   },
+   "Chemistry": {
+    "mode": "written",
+    "duration": 180,
+    "marks": null,
+    "note": "Board theory paper (+ internal/practical marks) · check your board pattern"
+   },
+   "Mathematics": {
+    "mode": "written",
+    "duration": 180,
+    "marks": null,
+    "note": "Board theory paper (+ internal/practical marks) · check your board pattern"
+   },
+   "Biology": {
+    "mode": "written",
+    "duration": 180,
+    "marks": null,
+    "note": "Board theory paper (+ internal/practical marks) · check your board pattern"
+   }
+  }
+ },
+ "board/maharashtra-12-commerce": {
+  "total": "4 theory papers",
+  "paper": "",
+  "subjects": {
+   "Organisation of Commerce & Management": {
+    "mode": "written",
+    "duration": 180,
+    "marks": null,
+    "note": "Board theory paper (+ internal/practical marks) · check your board pattern"
+   },
+   "Secretarial Practice": {
+    "mode": "written",
+    "duration": 180,
+    "marks": null,
+    "note": "Board theory paper (+ internal/practical marks) · check your board pattern"
+   },
+   "Book-Keeping & Accountancy": {
+    "mode": "written",
+    "duration": 180,
+    "marks": null,
+    "note": "Board theory paper (+ internal/practical marks) · check your board pattern"
+   },
+   "Economics": {
+    "mode": "written",
+    "duration": 180,
+    "marks": null,
+    "note": "Board theory paper (+ internal/practical marks) · check your board pattern"
+   }
+  }
+ },
+ "board/maharashtra-12-arts": {
+  "total": "1 theory papers",
+  "paper": "",
+  "subjects": {
+   "Economics": {
+    "mode": "written",
+    "duration": 180,
+    "marks": null,
+    "note": "Board theory paper (+ internal/practical marks) · check your board pattern"
+   }
+  }
+ },
+ "board/others-10": {
+  "total": "3 theory papers",
+  "paper": "",
+  "subjects": {
+   "Science": {
+    "mode": "written",
+    "duration": 180,
+    "marks": 80,
+    "note": "Board theory paper (+ internal/practical marks)"
+   },
+   "Mathematics": {
+    "mode": "written",
+    "duration": 180,
+    "marks": 80,
+    "note": "Board theory paper (+ internal/practical marks)"
+   },
+   "Social Science": {
+    "mode": "written",
+    "duration": 180,
+    "marks": 80,
+    "note": "Board theory paper (+ internal/practical marks)"
+   }
+  }
+ },
+ "board/others-12-science": {
+  "total": "4 theory papers",
+  "paper": "",
+  "subjects": {
+   "Physics": {
+    "mode": "written",
+    "duration": 180,
+    "marks": 80,
+    "note": "Board theory paper (+ internal/practical marks)"
+   },
+   "Chemistry": {
+    "mode": "written",
+    "duration": 180,
+    "marks": 80,
+    "note": "Board theory paper (+ internal/practical marks)"
+   },
+   "Mathematics": {
+    "mode": "written",
+    "duration": 180,
+    "marks": 80,
+    "note": "Board theory paper (+ internal/practical marks)"
+   },
+   "Biology": {
+    "mode": "written",
+    "duration": 180,
+    "marks": 80,
+    "note": "Board theory paper (+ internal/practical marks)"
+   }
+  }
+ },
+ "board/others-12-commerce": {
+  "total": "4 theory papers",
+  "paper": "",
+  "subjects": {
+   "Accountancy": {
+    "mode": "written",
+    "duration": 180,
+    "marks": 80,
+    "note": "Board theory paper (+ internal/practical marks)"
+   },
+   "Business Studies": {
+    "mode": "written",
+    "duration": 180,
+    "marks": 80,
+    "note": "Board theory paper (+ internal/practical marks)"
+   },
+   "Economics": {
+    "mode": "written",
+    "duration": 180,
+    "marks": 80,
+    "note": "Board theory paper (+ internal/practical marks)"
+   },
+   "Mathematics": {
+    "mode": "written",
+    "duration": 180,
+    "marks": 80,
+    "note": "Board theory paper (+ internal/practical marks)"
+   }
+  }
+ },
+ "board/others-12-arts": {
+  "total": "4 theory papers",
+  "paper": "",
+  "subjects": {
+   "History": {
+    "mode": "written",
+    "duration": 180,
+    "marks": 80,
+    "note": "Board theory paper (+ internal/practical marks)"
+   },
+   "Political Science": {
+    "mode": "written",
+    "duration": 180,
+    "marks": 80,
+    "note": "Board theory paper (+ internal/practical marks)"
+   },
+   "Geography": {
+    "mode": "written",
+    "duration": 180,
+    "marks": 80,
+    "note": "Board theory paper (+ internal/practical marks)"
+   },
+   "Economics": {
+    "mode": "written",
+    "duration": 180,
+    "marks": 80,
+    "note": "Board theory paper (+ internal/practical marks)"
+   }
+  }
  }
 }

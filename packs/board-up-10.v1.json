@@ -1,0 +1,314 @@
+{
+ "id": "board-up-10",
+ "course": "board",
+ "level": "up-10",
+ "name": "UP Board · Class 10",
+ "version": 1,
+ "board": "up",
+ "class": "10",
+ "stream": null,
+ "subjects": [
+  {
+   "name": "Hindi",
+   "modules": [
+    {
+     "name": "Gadya: Mitrata (Ramchandra Shukla)",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Gadya: Mamta (Jaishankar Prasad)",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Gadya: Bhartiya Sanskriti (Rajendra Prasad)",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Kavya: Surdas - Pad",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Kavya: Tulsidas - Dhanush Bhang",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Kavya: Raskhan - Savaiye",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Sanskrit: Varanasi",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Sanskrit: Deshbhakt Chandrashekhar",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Sanskrit: Jeevan Sutrani",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    }
+   ]
+  },
+  {
+   "name": "Science",
+   "modules": [
+    {
+     "name": "Chemical Reactions and Equations",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Acids, Bases and Salts",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Metals and Non-metals",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Carbon and its Compounds",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Life Processes",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Control and Coordination",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "How do Organisms Reproduce?",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Heredity and Evolution",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Light: Reflection and Refraction",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Human Eye and Colourful World",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Electricity",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Magnetic Effects of Electric Current",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Our Environment",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  },
+  {
+   "name": "Mathematics",
+   "modules": [
+    {
+     "name": "Real Numbers",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Polynomials",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Pair of Linear Equations",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Quadratic Equations",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Arithmetic Progressions",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Triangles",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Coordinate Geometry",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Introduction to Trigonometry",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Some Applications of Trigonometry",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Circles",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Areas Related to Circles",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Surface Areas and Volumes",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Statistics",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Probability",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    }
+   ]
+  },
+  {
+   "name": "Social Science",
+   "modules": [
+    {
+     "name": "Itihas: Europe me Rashtravad ka Uday",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Itihas: Bharat me Rashtravad",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Itihas: Bhumandalikrit Vishwa ka Banna",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Bhugol: Sansadhan evam Vikas",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Bhugol: Van aur Vanya Jeev",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Bhugol: Jal Sansadhan",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Bhugol: Krishi",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Nagrik Shastra: Satta ki Sajhedari",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Nagrik Shastra: Sanghvad",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Arthashastra: Vikas",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Arthashastra: Bharatiya Arthvyavastha ke Kshetrak",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    }
+   ]
+  }
+ ]
+}

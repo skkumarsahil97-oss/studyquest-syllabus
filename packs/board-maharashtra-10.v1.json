@@ -1,0 +1,224 @@
+{
+ "id": "board-maharashtra-10",
+ "course": "board",
+ "level": "maharashtra-10",
+ "name": "Maharashtra Board · Class 10",
+ "version": 1,
+ "board": "maharashtra",
+ "class": "10",
+ "stream": null,
+ "subjects": [
+  {
+   "name": "Science & Technology Part 1",
+   "modules": [
+    {
+     "name": "Gravitation",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Periodic Classification of Elements",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Chemical Reactions and Equations",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Effects of Electric Current",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Heat",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Refraction of Light",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Space Missions",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Lenses",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Metallurgy",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Carbon Compounds",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  },
+  {
+   "name": "Science & Technology Part 2",
+   "modules": [
+    {
+     "name": "Heredity and Evolution",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Life Processes in Living Organisms",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Environmental Management",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Towards Green Energy",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Animal Classification",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Disaster Management",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Introduction to Microbiology",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Cell Biology and Biotechnology",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "name": "Social Health",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  },
+  {
+   "name": "Mathematics Part 1 (Algebra)",
+   "modules": [
+    {
+     "name": "Linear Equations in Two Variables",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Quadratic Equations",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Arithmetic Progression",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Financial Planning",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Probability",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Statistics",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    }
+   ]
+  },
+  {
+   "name": "Mathematics Part 2 (Geometry)",
+   "modules": [
+    {
+     "name": "Similarity",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Pythagoras Theorem",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Circle",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Geometric Constructions",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Coordinate Geometry",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Trigonometry",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    },
+    {
+     "name": "Mensuration",
+     "group": null,
+     "topics": [],
+     "status": "verified"
+    }
+   ]
+  }
+ ]
+}
