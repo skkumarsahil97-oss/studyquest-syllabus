@@ -1,0 +1,9 @@
+{
+ "version": 1,
+ "chapters": {
+  "cuetpg/management/verbal-logical-reasoning/analogy-syllogism": "questions/cuetpg-management/verbal-logical-reasoning__analogy-syllogism.json"
+ },
+ "counts": {
+  "cuetpg/management/verbal-logical-reasoning/analogy-syllogism": 13
+ }
+}
