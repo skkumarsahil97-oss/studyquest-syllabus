@@ -1,0 +1,49 @@
+{
+ "_help": "on: true/false shows or hides a button. exams: course ids where it shows (upsc, cuetpg, board, ca, jee, neet). Max 4 shown.",
+ "sections": [
+  {
+   "id": "gk",
+   "title": "GK",
+   "emoji": "🧠",
+   "on": true,
+   "exams": [
+    "upsc",
+    "cuetpg",
+    "board"
+   ],
+   "pack": "library/gk.json"
+  },
+  {
+   "id": "hindu",
+   "title": "The Hindu",
+   "emoji": "📰",
+   "on": true,
+   "exams": [
+    "upsc"
+   ],
+   "pack": "library/hindu.json"
+  },
+  {
+   "id": "current",
+   "title": "Current Affairs",
+   "emoji": "🌍",
+   "on": true,
+   "exams": [
+    "upsc",
+    "cuetpg"
+   ],
+   "pack": "library/current-affairs.json"
+  },
+  {
+   "id": "schemes",
+   "title": "Govt Schemes",
+   "emoji": "🏛️",
+   "on": true,
+   "exams": [
+    "upsc",
+    "cuetpg"
+   ],
+   "pack": "library/schemes.json"
+  }
+ ]
+}
