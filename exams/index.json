@@ -13,7 +13,10 @@
    "duration": 30,
    "price": 49,
    "pack": "exams/ca-f-law-demo.v1.json",
-   "demo": true
+   "demo": true,
+   "rehearsal": true
   }
- ]
+ ],
+ "rehearsalPrice": 49,
+ "rehearsalWindowDays": 15
 }
