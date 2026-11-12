@@ -3,7 +3,7 @@
  "course": "board",
  "level": "bihar-12-arts",
  "name": "Bihar Board · Class 12 · Arts",
- "version": 2,
+ "version": 3,
  "board": "bihar",
  "class": "12",
  "stream": "arts",
@@ -39,6 +39,42 @@
     {
      "id": "writing-letter-essay-report",
      "name": "Writing: Letter, Essay, Report",
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  },
+  {
+   "id": "hindi",
+   "name": "Hindi",
+   "modules": [
+    {
+     "id": "godhuli-digant-gadya-khand",
+     "name": "Godhuli / Digant: Gadya Khand",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "godhuli-digant-kavya-khand",
+     "name": "Godhuli / Digant: Kavya Khand",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "varnika-antral",
+     "name": "Varnika / Antral",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "vyakaran",
+     "name": "Vyakaran",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "nibandh-evam-patra-lekhan",
+     "name": "Nibandh evam Patra Lekhan",
      "topics": [],
      "status": "verify"
     }
@@ -325,6 +361,210 @@
     }
    ],
    "id": "economics"
+  },
+  {
+   "id": "sociology",
+   "name": "Sociology",
+   "modules": [
+    {
+     "id": "introducing-indian-society",
+     "name": "Introducing Indian Society",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "the-demographic-structure-of-indian-society",
+     "name": "The Demographic Structure of Indian Society",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "social-institutions-continuity-and-change",
+     "name": "Social Institutions: Continuity and Change",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "the-market-as-a-social-institution",
+     "name": "The Market as a Social Institution",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "patterns-of-social-inequality-and-exclusion",
+     "name": "Patterns of Social Inequality and Exclusion",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "the-challenges-of-cultural-diversity",
+     "name": "The Challenges of Cultural Diversity",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "structural-change",
+     "name": "Structural Change",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "cultural-change",
+     "name": "Cultural Change",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "change-and-development-in-rural-society",
+     "name": "Change and Development in Rural Society",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "change-and-development-in-industrial-society",
+     "name": "Change and Development in Industrial Society",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "globalisation-and-social-change",
+     "name": "Globalisation and Social Change",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "mass-media-and-communications",
+     "name": "Mass Media and Communications",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "social-movements",
+     "name": "Social Movements",
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  },
+  {
+   "id": "psychology",
+   "name": "Psychology",
+   "modules": [
+    {
+     "id": "variations-in-psychological-attributes",
+     "name": "Variations in Psychological Attributes",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "self-and-personality",
+     "name": "Self and Personality",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "meeting-life-challenges",
+     "name": "Meeting Life Challenges",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "psychological-disorders",
+     "name": "Psychological Disorders",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "therapeutic-approaches",
+     "name": "Therapeutic Approaches",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "attitude-and-social-cognition",
+     "name": "Attitude and Social Cognition",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "social-influence-and-group-processes",
+     "name": "Social Influence and Group Processes",
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  },
+  {
+   "id": "philosophy",
+   "name": "Philosophy",
+   "modules": [
+    {
+     "id": "indian-philosophy-schools-and-thinkers",
+     "name": "Indian Philosophy: Schools and Thinkers",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "western-philosophy-major-thinkers",
+     "name": "Western Philosophy: Major Thinkers",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "logic",
+     "name": "Logic",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "ethics",
+     "name": "Ethics",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "philosophy-of-religion",
+     "name": "Philosophy of Religion",
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  },
+  {
+   "id": "home-science",
+   "name": "Home Science",
+   "modules": [
+    {
+     "id": "human-development",
+     "name": "Human Development",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "food-and-nutrition",
+     "name": "Food and Nutrition",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "resource-management",
+     "name": "Resource Management",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "fabric-and-apparel",
+     "name": "Fabric and Apparel",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "communication-and-extension",
+     "name": "Communication and Extension",
+     "topics": [],
+     "status": "verify"
+    }
+   ]
   }
  ]
 }

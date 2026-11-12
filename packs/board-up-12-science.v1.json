@@ -3,7 +3,7 @@
  "course": "board",
  "level": "up-12-science",
  "name": "UP Board · Class 12 · Science",
- "version": 2,
+ "version": 3,
  "board": "up",
  "class": "12",
  "stream": "science",
@@ -135,6 +135,84 @@
     {
      "id": "writing-notice-invitation-letter-article-report",
      "name": "Writing: Notice, Invitation, Letter, Article, Report",
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  },
+  {
+   "id": "samanya-hindi",
+   "name": "Samanya Hindi",
+   "modules": [
+    {
+     "id": "gadya-khand",
+     "name": "Gadya Khand",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "kavya-khand",
+     "name": "Kavya Khand",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "sanskrit-digdarshika",
+     "name": "Sanskrit Digdarshika",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "kavya-saundarya-ras-chhand-alankar",
+     "name": "Kavya Saundarya (Ras, Chhand, Alankar)",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "nibandh-evam-patra-lekhan",
+     "name": "Nibandh evam Patra Lekhan",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "vyakaran",
+     "name": "Vyakaran",
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  },
+  {
+   "id": "sanskrit",
+   "name": "Sanskrit",
+   "modules": [
+    {
+     "id": "gadya-bhag",
+     "name": "Gadya Bhag",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "padya-bhag",
+     "name": "Padya Bhag",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "vyakaran-sandhi-samas-karak-pratyay",
+     "name": "Vyakaran (Sandhi, Samas, Karak, Pratyay)",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "anuvad",
+     "name": "Anuvad",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "rachana-patra-anuchchhed",
+     "name": "Rachana (Patra, Anuchchhed)",
      "topics": [],
      "status": "verify"
     }

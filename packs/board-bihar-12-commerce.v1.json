@@ -3,7 +3,7 @@
  "course": "board",
  "level": "bihar-12-commerce",
  "name": "Bihar Board · Class 12 · Commerce",
- "version": 2,
+ "version": 3,
  "board": "bihar",
  "class": "12",
  "stream": "commerce",
@@ -39,6 +39,42 @@
     {
      "id": "writing-letter-essay-report",
      "name": "Writing: Letter, Essay, Report",
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  },
+  {
+   "id": "hindi",
+   "name": "Hindi",
+   "modules": [
+    {
+     "id": "godhuli-digant-gadya-khand",
+     "name": "Godhuli / Digant: Gadya Khand",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "godhuli-digant-kavya-khand",
+     "name": "Godhuli / Digant: Kavya Khand",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "varnika-antral",
+     "name": "Varnika / Antral",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "vyakaran",
+     "name": "Vyakaran",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "nibandh-evam-patra-lekhan",
+     "name": "Nibandh evam Patra Lekhan",
      "topics": [],
      "status": "verify"
     }

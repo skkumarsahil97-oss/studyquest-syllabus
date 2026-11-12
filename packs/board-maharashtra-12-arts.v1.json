@@ -3,7 +3,7 @@
  "course": "board",
  "level": "maharashtra-12-arts",
  "name": "Maharashtra Board · Class 12 · Arts",
- "version": 2,
+ "version": 3,
  "board": "maharashtra",
  "class": "12",
  "stream": "arts",
@@ -45,6 +45,42 @@
     {
      "id": "reading-unseen-passages",
      "name": "Reading: Unseen Passages",
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  },
+  {
+   "id": "marathi-hindi-2nd-language",
+   "name": "Marathi / Hindi (2nd language)",
+   "modules": [
+    {
+     "id": "kumarbharati-yuvakbharati-gadya",
+     "name": "Kumarbharati / Yuvakbharati: Gadya",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "padya",
+     "name": "Padya",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "upayojit-lekhan",
+     "name": "Upayojit Lekhan",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "vyakaran",
+     "name": "Vyakaran",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "sthulvachan",
+     "name": "Sthulvachan",
      "topics": [],
      "status": "verify"
     }
@@ -121,6 +157,186 @@
     }
    ],
    "id": "economics"
+  },
+  {
+   "id": "history",
+   "name": "History",
+   "modules": [
+    {
+     "id": "europe-and-india",
+     "name": "Europe and India",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "colonialism-and-imperialism",
+     "name": "Colonialism and Imperialism",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "india-freedom-struggle",
+     "name": "India: Freedom Struggle",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "post-independence-india",
+     "name": "Post-Independence India",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "world-after-1945",
+     "name": "World after 1945",
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  },
+  {
+   "id": "geography",
+   "name": "Geography",
+   "modules": [
+    {
+     "id": "population",
+     "name": "Population",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "human-settlements",
+     "name": "Human Settlements",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "primary-secondary-and-tertiary-activities",
+     "name": "Primary, Secondary and Tertiary Activities",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "regional-development",
+     "name": "Regional Development",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "purpose-and-practice-of-geography",
+     "name": "Purpose and Practice of Geography",
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  },
+  {
+   "id": "political-science",
+   "name": "Political Science",
+   "modules": [
+    {
+     "id": "world-politics-after-cold-war",
+     "name": "World Politics after Cold War",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "contemporary-issues",
+     "name": "Contemporary Issues",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "indian-democracy",
+     "name": "Indian Democracy",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "india-and-the-world",
+     "name": "India and the World",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "good-governance",
+     "name": "Good Governance",
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  },
+  {
+   "id": "psychology",
+   "name": "Psychology",
+   "modules": [
+    {
+     "id": "psychological-attributes",
+     "name": "Psychological Attributes",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "self-and-personality",
+     "name": "Self and Personality",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "stress-and-health",
+     "name": "Stress and Health",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "psychological-disorders-and-therapy",
+     "name": "Psychological Disorders and Therapy",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "social-psychology",
+     "name": "Social Psychology",
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  },
+  {
+   "id": "sociology",
+   "name": "Sociology",
+   "modules": [
+    {
+     "id": "indian-society-structure",
+     "name": "Indian Society: Structure",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "social-change-in-india",
+     "name": "Social Change in India",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "rural-and-urban-society",
+     "name": "Rural and Urban Society",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "social-problems",
+     "name": "Social Problems",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "social-movements",
+     "name": "Social Movements",
+     "topics": [],
+     "status": "verify"
+    }
+   ]
   }
  ]
 }

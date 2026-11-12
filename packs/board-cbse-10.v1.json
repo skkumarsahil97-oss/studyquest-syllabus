@@ -3,7 +3,7 @@
  "course": "board",
  "level": "cbse-10",
  "name": "CBSE · Class 10",
- "version": 2,
+ "version": 3,
  "board": "cbse",
  "class": "10",
  "stream": null,
@@ -195,6 +195,78 @@
     {
      "id": "writing-skills",
      "name": "Writing Skills",
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  },
+  {
+   "id": "hindi",
+   "name": "Hindi",
+   "modules": [
+    {
+     "id": "kshitij-sparsh-gadya-khand",
+     "name": "Kshitij / Sparsh: Gadya Khand",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "kshitij-sparsh-kavya-khand",
+     "name": "Kshitij / Sparsh: Kavya Khand",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "kritika-sanchayan",
+     "name": "Kritika / Sanchayan",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "vyakaran",
+     "name": "Vyakaran",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "lekhan-patra-anuchchhed-vigyapan",
+     "name": "Lekhan (Patra, Anuchchhed, Vigyapan)",
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  },
+  {
+   "id": "sanskrit",
+   "name": "Sanskrit",
+   "modules": [
+    {
+     "id": "gadya-bhag",
+     "name": "Gadya Bhag",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "padya-bhag",
+     "name": "Padya Bhag",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "vyakaran-sandhi-samas-karak-pratyay",
+     "name": "Vyakaran (Sandhi, Samas, Karak, Pratyay)",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "anuvad",
+     "name": "Anuvad",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "rachana-patra-anuchchhed",
+     "name": "Rachana (Patra, Anuchchhed)",
      "topics": [],
      "status": "verify"
     }

@@ -3,7 +3,7 @@
  "course": "board",
  "level": "cbse-12-commerce",
  "name": "CBSE · Class 12 · Commerce",
- "version": 2,
+ "version": 3,
  "board": "cbse",
  "class": "12",
  "stream": "commerce",
@@ -135,6 +135,42 @@
     {
      "id": "writing-notice-invitation-letter-article-report",
      "name": "Writing: Notice, Invitation, Letter, Article, Report",
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  },
+  {
+   "id": "hindi-core",
+   "name": "Hindi Core",
+   "modules": [
+    {
+     "id": "aroh-kavya-khand",
+     "name": "Aroh: Kavya Khand",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "aroh-gadya-khand",
+     "name": "Aroh: Gadya Khand",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "vitan",
+     "name": "Vitan",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "abhivyakti-aur-madhyam",
+     "name": "Abhivyakti aur Madhyam",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "lekhan-nibandh-patra-feature",
+     "name": "Lekhan (Nibandh, Patra, Feature)",
      "topics": [],
      "status": "verify"
     }
@@ -391,6 +427,132 @@
     }
    ],
    "id": "mathematics"
+  },
+  {
+   "id": "physical-education",
+   "name": "Physical Education",
+   "modules": [
+    {
+     "id": "management-of-sporting-events",
+     "name": "Management of Sporting Events",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "children-and-women-in-sports",
+     "name": "Children and Women in Sports",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "yoga-as-preventive-measure-for-lifestyle-disease",
+     "name": "Yoga as Preventive Measure for Lifestyle Disease",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "physical-education-and-sports-for-cwsn",
+     "name": "Physical Education and Sports for CWSN",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "sports-and-nutrition",
+     "name": "Sports and Nutrition",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "test-and-measurement-in-sports",
+     "name": "Test and Measurement in Sports",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "physiology-and-injuries-in-sports",
+     "name": "Physiology and Injuries in Sports",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "biomechanics-and-sports",
+     "name": "Biomechanics and Sports",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "psychology-and-sports",
+     "name": "Psychology and Sports",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "training-in-sports",
+     "name": "Training in Sports",
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  },
+  {
+   "id": "computer-science",
+   "name": "Computer Science",
+   "modules": [
+    {
+     "id": "python-revision-tour",
+     "name": "Python Revision Tour",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "working-with-functions",
+     "name": "Working with Functions",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "exception-handling",
+     "name": "Exception Handling",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "file-handling",
+     "name": "File Handling",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "data-structure-stack",
+     "name": "Data Structure: Stack",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "computer-networks",
+     "name": "Computer Networks",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "database-concepts",
+     "name": "Database Concepts",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "structured-query-language-sql",
+     "name": "Structured Query Language (SQL)",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "interface-python-with-mysql",
+     "name": "Interface Python with MySQL",
+     "topics": [],
+     "status": "verify"
+    }
+   ]
   }
  ]
 }

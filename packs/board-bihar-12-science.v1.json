@@ -3,7 +3,7 @@
  "course": "board",
  "level": "bihar-12-science",
  "name": "Bihar Board · Class 12 · Science",
- "version": 2,
+ "version": 3,
  "board": "bihar",
  "class": "12",
  "stream": "science",
@@ -39,6 +39,42 @@
     {
      "id": "writing-letter-essay-report",
      "name": "Writing: Letter, Essay, Report",
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  },
+  {
+   "id": "hindi",
+   "name": "Hindi",
+   "modules": [
+    {
+     "id": "godhuli-digant-gadya-khand",
+     "name": "Godhuli / Digant: Gadya Khand",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "godhuli-digant-kavya-khand",
+     "name": "Godhuli / Digant: Kavya Khand",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "varnika-antral",
+     "name": "Varnika / Antral",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "vyakaran",
+     "name": "Vyakaran",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "nibandh-evam-patra-lekhan",
+     "name": "Nibandh evam Patra Lekhan",
      "topics": [],
      "status": "verify"
     }
@@ -367,6 +403,66 @@
     }
    ],
    "id": "biology"
+  },
+  {
+   "id": "computer-science",
+   "name": "Computer Science",
+   "modules": [
+    {
+     "id": "python-revision-tour",
+     "name": "Python Revision Tour",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "working-with-functions",
+     "name": "Working with Functions",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "exception-handling",
+     "name": "Exception Handling",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "file-handling",
+     "name": "File Handling",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "data-structure-stack",
+     "name": "Data Structure: Stack",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "computer-networks",
+     "name": "Computer Networks",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "database-concepts",
+     "name": "Database Concepts",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "structured-query-language-sql",
+     "name": "Structured Query Language (SQL)",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "interface-python-with-mysql",
+     "name": "Interface Python with MySQL",
+     "topics": [],
+     "status": "verify"
+    }
+   ]
   }
  ]
 }

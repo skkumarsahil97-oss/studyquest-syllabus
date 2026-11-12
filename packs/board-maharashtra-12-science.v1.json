@@ -3,7 +3,7 @@
  "course": "board",
  "level": "maharashtra-12-science",
  "name": "Maharashtra Board · Class 12 · Science",
- "version": 2,
+ "version": 3,
  "board": "maharashtra",
  "class": "12",
  "stream": "science",
@@ -45,6 +45,42 @@
     {
      "id": "reading-unseen-passages",
      "name": "Reading: Unseen Passages",
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  },
+  {
+   "id": "marathi-hindi-2nd-language",
+   "name": "Marathi / Hindi (2nd language)",
+   "modules": [
+    {
+     "id": "kumarbharati-yuvakbharati-gadya",
+     "name": "Kumarbharati / Yuvakbharati: Gadya",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "padya",
+     "name": "Padya",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "upayojit-lekhan",
+     "name": "Upayojit Lekhan",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "vyakaran",
+     "name": "Vyakaran",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "sthulvachan",
+     "name": "Sthulvachan",
      "topics": [],
      "status": "verify"
     }
@@ -445,6 +481,48 @@
     }
    ],
    "id": "biology"
+  },
+  {
+   "id": "information-technology",
+   "name": "Information Technology",
+   "modules": [
+    {
+     "id": "advanced-web-designing",
+     "name": "Advanced Web Designing",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "introduction-to-seo",
+     "name": "Introduction to SEO",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "advanced-javascript",
+     "name": "Advanced JavaScript",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "emerging-technologies",
+     "name": "Emerging Technologies",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "server-side-scripting-php",
+     "name": "Server Side Scripting (PHP)",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "e-commerce-and-e-governance",
+     "name": "E-Commerce and E-Governance",
+     "topics": [],
+     "status": "verify"
+    }
+   ]
   }
  ]
 }

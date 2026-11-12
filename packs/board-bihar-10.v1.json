@@ -3,7 +3,7 @@
  "course": "board",
  "level": "bihar-10",
  "name": "Bihar Board · Class 10",
- "version": 2,
+ "version": 3,
  "board": "bihar",
  "class": "10",
  "stream": null,
@@ -39,6 +39,78 @@
     {
      "id": "writing-letter-application-essay",
      "name": "Writing: Letter, Application, Essay",
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  },
+  {
+   "id": "hindi",
+   "name": "Hindi",
+   "modules": [
+    {
+     "id": "godhuli-digant-gadya-khand",
+     "name": "Godhuli / Digant: Gadya Khand",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "godhuli-digant-kavya-khand",
+     "name": "Godhuli / Digant: Kavya Khand",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "varnika-antral",
+     "name": "Varnika / Antral",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "vyakaran",
+     "name": "Vyakaran",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "nibandh-evam-patra-lekhan",
+     "name": "Nibandh evam Patra Lekhan",
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  },
+  {
+   "id": "sanskrit",
+   "name": "Sanskrit",
+   "modules": [
+    {
+     "id": "gadya-bhag",
+     "name": "Gadya Bhag",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "padya-bhag",
+     "name": "Padya Bhag",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "vyakaran-sandhi-samas-karak-pratyay",
+     "name": "Vyakaran (Sandhi, Samas, Karak, Pratyay)",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "anuvad",
+     "name": "Anuvad",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "rachana-patra-anuchchhed",
+     "name": "Rachana (Patra, Anuchchhed)",
      "topics": [],
      "status": "verify"
     }

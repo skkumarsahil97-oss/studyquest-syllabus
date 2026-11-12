@@ -3,7 +3,7 @@
  "course": "board",
  "level": "maharashtra-10",
  "name": "Maharashtra Board · Class 10",
- "version": 2,
+ "version": 3,
  "board": "maharashtra",
  "class": "10",
  "stream": null,
@@ -39,6 +39,72 @@
     {
      "id": "writing-skills",
      "name": "Writing Skills",
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  },
+  {
+   "id": "marathi",
+   "name": "Marathi",
+   "modules": [
+    {
+     "id": "kumarbharati-yuvakbharati-gadya",
+     "name": "Kumarbharati / Yuvakbharati: Gadya",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "padya",
+     "name": "Padya",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "upayojit-lekhan",
+     "name": "Upayojit Lekhan",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "vyakaran",
+     "name": "Vyakaran",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "sthulvachan",
+     "name": "Sthulvachan",
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  },
+  {
+   "id": "hindi",
+   "name": "Hindi",
+   "modules": [
+    {
+     "id": "lokbharati-yuvakbharati-gadya",
+     "name": "Lokbharati / Yuvakbharati: Gadya",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "padya",
+     "name": "Padya",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "vyakaran",
+     "name": "Vyakaran",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "rachana-vibhag",
+     "name": "Rachana Vibhag",
      "topics": [],
      "status": "verify"
     }
@@ -259,6 +325,156 @@
     }
    ],
    "id": "mathematics-part-2-geometry"
+  },
+  {
+   "id": "history-political-science",
+   "name": "History & Political Science",
+   "modules": [
+    {
+     "id": "history-historiography-development-in-the-west",
+     "name": "History: Historiography – Development in the West",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "history-historiography-indian-tradition",
+     "name": "History: Historiography – Indian Tradition",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "history-applied-history",
+     "name": "History: Applied History",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "history-history-of-indian-arts",
+     "name": "History: History of Indian Arts",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "history-mass-media-and-history",
+     "name": "History: Mass Media and History",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "history-entertainment-and-history",
+     "name": "History: Entertainment and History",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "history-sports-and-history",
+     "name": "History: Sports and History",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "history-tourism-and-history",
+     "name": "History: Tourism and History",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "history-heritage-management",
+     "name": "History: Heritage Management",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "political-science-working-of-the-constitution",
+     "name": "Political Science: Working of the Constitution",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "political-science-the-electoral-process",
+     "name": "Political Science: The Electoral Process",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "political-science-political-parties",
+     "name": "Political Science: Political Parties",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "political-science-social-and-political-movements",
+     "name": "Political Science: Social and Political Movements",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "political-science-challenges-faced-by-indian-democracy",
+     "name": "Political Science: Challenges faced by Indian Democracy",
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  },
+  {
+   "id": "geography",
+   "name": "Geography",
+   "modules": [
+    {
+     "id": "field-visit",
+     "name": "Field Visit",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "location-and-extent",
+     "name": "Location and Extent",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "physiography-and-drainage",
+     "name": "Physiography and Drainage",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "climate",
+     "name": "Climate",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "natural-vegetation-and-wildlife",
+     "name": "Natural Vegetation and Wildlife",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "population",
+     "name": "Population",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "human-settlements",
+     "name": "Human Settlements",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "economy-and-occupations",
+     "name": "Economy and Occupations",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "tourism-transport-and-communication",
+     "name": "Tourism, Transport and Communication",
+     "topics": [],
+     "status": "verify"
+    }
+   ]
   }
  ]
 }

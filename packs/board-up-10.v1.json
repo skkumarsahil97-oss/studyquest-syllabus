@@ -3,7 +3,7 @@
  "course": "board",
  "level": "up-10",
  "name": "UP Board · Class 10",
- "version": 2,
+ "version": 3,
  "board": "up",
  "class": "10",
  "stream": null,
@@ -195,6 +195,42 @@
     {
      "id": "writing-skills",
      "name": "Writing Skills",
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  },
+  {
+   "id": "sanskrit",
+   "name": "Sanskrit",
+   "modules": [
+    {
+     "id": "gadya-bhag",
+     "name": "Gadya Bhag",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "padya-bhag",
+     "name": "Padya Bhag",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "vyakaran-sandhi-samas-karak-pratyay",
+     "name": "Vyakaran (Sandhi, Samas, Karak, Pratyay)",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "anuvad",
+     "name": "Anuvad",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "rachana-patra-anuchchhed",
+     "name": "Rachana (Patra, Anuchchhed)",
      "topics": [],
      "status": "verify"
     }
