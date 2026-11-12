@@ -13,309 +13,312 @@
    "modules": [
     {
      "name": "Chemical Reactions and Equations",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "chemical-reactions-and-equations"
     },
     {
      "name": "Acids, Bases and Salts",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "acids-bases-and-salts"
     },
     {
      "name": "Metals and Non-metals",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "metals-and-non-metals"
     },
     {
      "name": "Carbon and its Compounds",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "carbon-and-its-compounds"
     },
     {
      "name": "Life Processes",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "life-processes"
     },
     {
      "name": "Control and Coordination",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "control-and-coordination"
     },
     {
      "name": "How do Organisms Reproduce?",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "how-do-organisms-reproduce"
     },
     {
      "name": "Heredity and Evolution",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "heredity-and-evolution"
     },
     {
      "name": "Light: Reflection and Refraction",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "light-reflection-and-refraction"
     },
     {
      "name": "Human Eye and Colourful World",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "human-eye-and-colourful-world"
     },
     {
      "name": "Electricity",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "electricity"
     },
     {
      "name": "Magnetic Effects of Electric Current",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "magnetic-effects-of-electric-current"
     },
     {
      "name": "Our Environment",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "our-environment"
     }
-   ]
+   ],
+   "id": "science"
   },
   {
    "name": "Mathematics",
    "modules": [
     {
      "name": "Real Numbers",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "real-numbers"
     },
     {
      "name": "Polynomials",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "polynomials"
     },
     {
      "name": "Pair of Linear Equations",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "pair-of-linear-equations"
     },
     {
      "name": "Quadratic Equations",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "quadratic-equations"
     },
     {
      "name": "Arithmetic Progressions",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "arithmetic-progressions"
     },
     {
      "name": "Triangles",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "triangles"
     },
     {
      "name": "Coordinate Geometry",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "coordinate-geometry"
     },
     {
      "name": "Introduction to Trigonometry",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "introduction-to-trigonometry"
     },
     {
      "name": "Some Applications of Trigonometry",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "some-applications-of-trigonometry"
     },
     {
      "name": "Circles",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "circles"
     },
     {
      "name": "Areas Related to Circles",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "areas-related-to-circles"
     },
     {
      "name": "Surface Areas and Volumes",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "surface-areas-and-volumes"
     },
     {
      "name": "Statistics",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "statistics"
     },
     {
      "name": "Probability",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "probability"
     }
-   ]
+   ],
+   "id": "mathematics"
   },
   {
    "name": "Social Science",
    "modules": [
     {
      "name": "History: Rise of Nationalism in Europe",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "history-rise-of-nationalism-in-europe"
     },
     {
      "name": "History: Nationalism in India",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "history-nationalism-in-india"
     },
     {
      "name": "History: The Making of a Global World",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "history-the-making-of-a-global-world"
     },
     {
      "name": "History: The Age of Industrialisation",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "history-the-age-of-industrialisation"
     },
     {
      "name": "History: Print Culture and the Modern World",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "history-print-culture-and-the-modern-world"
     },
     {
      "name": "Geography: Resources and Development",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "geography-resources-and-development"
     },
     {
      "name": "Geography: Forest and Wildlife Resources",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "geography-forest-and-wildlife-resources"
     },
     {
      "name": "Geography: Water Resources",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "geography-water-resources"
     },
     {
      "name": "Geography: Agriculture",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "geography-agriculture"
     },
     {
      "name": "Geography: Minerals and Energy Resources",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "geography-minerals-and-energy-resources"
     },
     {
      "name": "Geography: Manufacturing Industries",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "geography-manufacturing-industries"
     },
     {
      "name": "Geography: Lifelines of National Economy",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "geography-lifelines-of-national-economy"
     },
     {
      "name": "Civics: Power Sharing",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "civics-power-sharing"
     },
     {
      "name": "Civics: Federalism",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "civics-federalism"
     },
     {
      "name": "Civics: Gender, Religion and Caste",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "civics-gender-religion-and-caste"
     },
     {
      "name": "Civics: Political Parties",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "civics-political-parties"
     },
     {
      "name": "Civics: Outcomes of Democracy",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "civics-outcomes-of-democracy"
     },
     {
      "name": "Economics: Development",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "economics-development"
     },
     {
      "name": "Economics: Sectors of the Indian Economy",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "economics-sectors-of-the-indian-economy"
     },
     {
      "name": "Economics: Money and Credit",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "economics-money-and-credit"
     },
     {
      "name": "Economics: Globalisation and the Indian Economy",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "economics-globalisation-and-the-indian-economy"
     },
     {
      "name": "Economics: Consumer Rights",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "economics-consumer-rights"
     }
-   ]
+   ],
+   "id": "social-science"
   }
  ]
 }

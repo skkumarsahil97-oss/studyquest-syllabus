@@ -13,212 +13,216 @@
    "modules": [
     {
      "name": "Gravitation",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "gravitation"
     },
     {
      "name": "Periodic Classification of Elements",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "periodic-classification-of-elements"
     },
     {
      "name": "Chemical Reactions and Equations",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "chemical-reactions-and-equations"
     },
     {
      "name": "Effects of Electric Current",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "effects-of-electric-current"
     },
     {
      "name": "Heat",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "heat"
     },
     {
      "name": "Refraction of Light",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "refraction-of-light"
     },
     {
      "name": "Space Missions",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "space-missions"
     },
     {
      "name": "Lenses",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "lenses"
     },
     {
      "name": "Metallurgy",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "metallurgy"
     },
     {
      "name": "Carbon Compounds",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "carbon-compounds"
     }
-   ]
+   ],
+   "id": "science-technology-part-1"
   },
   {
    "name": "Science & Technology Part 2",
    "modules": [
     {
      "name": "Heredity and Evolution",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "heredity-and-evolution"
     },
     {
      "name": "Life Processes in Living Organisms",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "life-processes-in-living-organisms"
     },
     {
      "name": "Environmental Management",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "environmental-management"
     },
     {
      "name": "Towards Green Energy",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "towards-green-energy"
     },
     {
      "name": "Animal Classification",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "animal-classification"
     },
     {
      "name": "Disaster Management",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "disaster-management"
     },
     {
      "name": "Introduction to Microbiology",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "introduction-to-microbiology"
     },
     {
      "name": "Cell Biology and Biotechnology",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "cell-biology-and-biotechnology"
     },
     {
      "name": "Social Health",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "social-health"
     }
-   ]
+   ],
+   "id": "science-technology-part-2"
   },
   {
    "name": "Mathematics Part 1 (Algebra)",
    "modules": [
     {
      "name": "Linear Equations in Two Variables",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "linear-equations-in-two-variables"
     },
     {
      "name": "Quadratic Equations",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "quadratic-equations"
     },
     {
      "name": "Arithmetic Progression",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "arithmetic-progression"
     },
     {
      "name": "Financial Planning",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "financial-planning"
     },
     {
      "name": "Probability",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "probability"
     },
     {
      "name": "Statistics",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "statistics"
     }
-   ]
+   ],
+   "id": "mathematics-part-1-algebra"
   },
   {
    "name": "Mathematics Part 2 (Geometry)",
    "modules": [
     {
      "name": "Similarity",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "similarity"
     },
     {
      "name": "Pythagoras Theorem",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "pythagoras-theorem"
     },
     {
      "name": "Circle",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "circle"
     },
     {
      "name": "Geometric Constructions",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "geometric-constructions"
     },
     {
      "name": "Coordinate Geometry",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "coordinate-geometry"
     },
     {
      "name": "Trigonometry",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "trigonometry"
     },
     {
      "name": "Mensuration",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "mensuration"
     }
-   ]
+   ],
+   "id": "mathematics-part-2-geometry"
   }
  ]
 }

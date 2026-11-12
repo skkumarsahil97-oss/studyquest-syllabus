@@ -13,71 +13,72 @@
    "modules": [
     {
      "name": "Introduction to Micro Economics",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "introduction-to-micro-economics"
     },
     {
      "name": "Utility Analysis",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "utility-analysis"
     },
     {
      "name": "Demand Analysis",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "demand-analysis"
     },
     {
      "name": "Elasticity of Demand",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "elasticity-of-demand"
     },
     {
      "name": "Supply Analysis",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "supply-analysis"
     },
     {
      "name": "Forms of Market",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "forms-of-market"
     },
     {
      "name": "Index Numbers",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "index-numbers"
     },
     {
      "name": "National Income",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "national-income"
     },
     {
      "name": "Public Finance in India",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "public-finance-in-india"
     },
     {
      "name": "Money Market and Capital Market in India",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "money-market-and-capital-market-in-india"
     },
     {
      "name": "Foreign Trade of India",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "foreign-trade-of-india"
     }
-   ]
+   ],
+   "id": "economics"
   }
  ]
 }

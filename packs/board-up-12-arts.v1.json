@@ -13,248 +13,252 @@
    "modules": [
     {
      "name": "Manav Bhugol - Prakriti evam Vishay Kshetra",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "manav-bhugol-prakriti-evam-vishay-kshetra"
     },
     {
      "name": "Vishwa Jansankhya",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "vishwa-jansankhya"
     },
     {
      "name": "Manav Vikas",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "manav-vikas"
     },
     {
      "name": "Prathmik & Ditiyak Kriyayein",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "prathmik-ditiyak-kriyayein"
     },
     {
      "name": "Jansankhya Vitran",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "jansankhya-vitran"
     },
     {
      "name": "Pravas",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "pravas"
     },
     {
      "name": "Manav Basti",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "manav-basti"
     },
     {
      "name": "Bhu-Sansadhan tatha Krishi",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "bhu-sansadhan-tatha-krishi"
     }
-   ]
+   ],
+   "id": "geography"
   },
   {
    "name": "History",
    "modules": [
     {
      "name": "Bricks, Beads and Bones (Harappan)",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "bricks-beads-and-bones-harappan"
     },
     {
      "name": "Kings, Farmers and Towns",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "kings-farmers-and-towns"
     },
     {
      "name": "Kinship, Caste and Class",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "kinship-caste-and-class"
     },
     {
      "name": "Thinkers, Beliefs and Buildings",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "thinkers-beliefs-and-buildings"
     },
     {
      "name": "Through the Eyes of Travellers",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "through-the-eyes-of-travellers"
     },
     {
      "name": "Bhakti-Sufi Traditions",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "bhakti-sufi-traditions"
     },
     {
      "name": "An Imperial Capital: Vijayanagara",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "an-imperial-capital-vijayanagara"
     },
     {
      "name": "Peasants, Zamindars and the State",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "peasants-zamindars-and-the-state"
     },
     {
      "name": "Colonialism and the Countryside",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "colonialism-and-the-countryside"
     },
     {
      "name": "Rebels and the Raj",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "rebels-and-the-raj"
     },
     {
      "name": "Mahatma Gandhi and the Nationalist Movement",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "mahatma-gandhi-and-the-nationalist-movement"
     },
     {
      "name": "Framing the Constitution",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "framing-the-constitution"
     }
-   ]
+   ],
+   "id": "history"
   },
   {
    "name": "Political Science",
    "modules": [
     {
      "name": "The End of Bipolarity",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "the-end-of-bipolarity"
     },
     {
      "name": "New Centres of Power",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "new-centres-of-power"
     },
     {
      "name": "Contemporary South Asia",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "contemporary-south-asia"
     },
     {
      "name": "International Organisations",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "international-organisations"
     },
     {
      "name": "Environment and Natural Resources",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "environment-and-natural-resources"
     },
     {
      "name": "Challenges of Nation Building",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "challenges-of-nation-building"
     },
     {
      "name": "Planned Development",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "planned-development"
     },
     {
      "name": "India's External Relations",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "india-s-external-relations"
     },
     {
      "name": "Democratic Resurgence",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "democratic-resurgence"
     },
     {
      "name": "Regional Aspirations",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "regional-aspirations"
     }
-   ]
+   ],
+   "id": "political-science"
   },
   {
    "name": "Economics",
    "modules": [
     {
      "name": "Macro: National Income Accounting",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "macro-national-income-accounting"
     },
     {
      "name": "Macro: Money and Banking",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "macro-money-and-banking"
     },
     {
      "name": "Macro: Determination of Income and Employment",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "macro-determination-of-income-and-employment"
     },
     {
      "name": "Macro: Government Budget and the Economy",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "macro-government-budget-and-the-economy"
     },
     {
      "name": "Macro: Balance of Payments",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "macro-balance-of-payments"
     },
     {
      "name": "Indian Economy: Development Experience (1947–90) and Reforms since 1991",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "indian-economy-development-experience-1947-90-and-reforms-since-1991"
     },
     {
      "name": "Indian Economy: Current Challenges",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "indian-economy-current-challenges"
     },
     {
      "name": "Indian Economy: Comparison with Neighbours",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "indian-economy-comparison-with-neighbours"
     }
-   ]
+   ],
+   "id": "economics"
   }
  ]
 }

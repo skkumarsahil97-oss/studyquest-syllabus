@@ -13,315 +13,318 @@
    "modules": [
     {
      "name": "Prakash ka Paravartan tatha Apavartan",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "prakash-ka-paravartan-tatha-apavartan"
     },
     {
      "name": "Manav Netra tatha Rangbiranga Sansar",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "manav-netra-tatha-rangbiranga-sansar"
     },
     {
      "name": "Vidyut",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "vidyut"
     },
     {
      "name": "Vidyut Dhara ke Chumbakiya Prabhav",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "vidyut-dhara-ke-chumbakiya-prabhav"
     },
     {
      "name": "Rasayanik Abhikriyayein",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "rasayanik-abhikriyayein"
     },
     {
      "name": "Amla, Bhasma aur Lavan",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "amla-bhasma-aur-lavan"
     },
     {
      "name": "Dhatu aur Adhatu",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "dhatu-aur-adhatu"
     },
     {
      "name": "Carbon aur uske Yaugik",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "carbon-aur-uske-yaugik"
     },
     {
      "name": "Jaiv Prakram",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "jaiv-prakram"
     },
     {
      "name": "Niyantran aur Samanvay",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "niyantran-aur-samanvay"
     },
     {
      "name": "Jeev Janan kaise karte hai",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "jeev-janan-kaise-karte-hai"
     },
     {
      "name": "Anuvanshiktva",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "anuvanshiktva"
     },
     {
      "name": "Hamara Paryavaran",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "hamara-paryavaran"
     }
-   ]
+   ],
+   "id": "science"
   },
   {
    "name": "Mathematics",
    "modules": [
     {
      "name": "Bahupad",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "bahupad"
     },
     {
      "name": "Do char wale Raikhik Samikaran",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "do-char-wale-raikhik-samikaran"
     },
     {
      "name": "Dwigat Samikaran",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "dwigat-samikaran"
     },
     {
      "name": "Samantar Shreni",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "samantar-shreni"
     },
     {
      "name": "Tribhuj",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "tribhuj"
     },
     {
      "name": "Vrit",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "vrit"
     },
     {
      "name": "Rachnayein",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "rachnayein"
     },
     {
      "name": "Nirdeshank Jyamiti",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "nirdeshank-jyamiti"
     },
     {
      "name": "Vastavik Sankhyayein",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "vastavik-sankhyayein"
     },
     {
      "name": "Trikonmiti ka Parichay",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "trikonmiti-ka-parichay"
     },
     {
      "name": "Trikonmiti ke Anuprayog",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "trikonmiti-ke-anuprayog"
     },
     {
      "name": "Vrit se Sambandhit Kshetrafal",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "vrit-se-sambandhit-kshetrafal"
     },
     {
      "name": "Prishthiya Kshetrafal aur Aayatan",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "prishthiya-kshetrafal-aur-aayatan"
     },
     {
      "name": "Sankhyiki",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "sankhyiki"
     },
     {
      "name": "Prayikta",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "prayikta"
     }
-   ]
+   ],
+   "id": "mathematics"
   },
   {
    "name": "Social Science",
    "modules": [
     {
      "name": "History: Rise of Nationalism in Europe",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "history-rise-of-nationalism-in-europe"
     },
     {
      "name": "History: Nationalism in India",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "history-nationalism-in-india"
     },
     {
      "name": "History: The Making of a Global World",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "history-the-making-of-a-global-world"
     },
     {
      "name": "History: The Age of Industrialisation",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "history-the-age-of-industrialisation"
     },
     {
      "name": "History: Print Culture and the Modern World",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "history-print-culture-and-the-modern-world"
     },
     {
      "name": "Geography: Resources and Development",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "geography-resources-and-development"
     },
     {
      "name": "Geography: Forest and Wildlife Resources",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "geography-forest-and-wildlife-resources"
     },
     {
      "name": "Geography: Water Resources",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "geography-water-resources"
     },
     {
      "name": "Geography: Agriculture",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "geography-agriculture"
     },
     {
      "name": "Geography: Minerals and Energy Resources",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "geography-minerals-and-energy-resources"
     },
     {
      "name": "Geography: Manufacturing Industries",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "geography-manufacturing-industries"
     },
     {
      "name": "Geography: Lifelines of National Economy",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "geography-lifelines-of-national-economy"
     },
     {
      "name": "Civics: Power Sharing",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "civics-power-sharing"
     },
     {
      "name": "Civics: Federalism",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "civics-federalism"
     },
     {
      "name": "Civics: Gender, Religion and Caste",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "civics-gender-religion-and-caste"
     },
     {
      "name": "Civics: Political Parties",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "civics-political-parties"
     },
     {
      "name": "Civics: Outcomes of Democracy",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "civics-outcomes-of-democracy"
     },
     {
      "name": "Economics: Development",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "economics-development"
     },
     {
      "name": "Economics: Sectors of the Indian Economy",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "economics-sectors-of-the-indian-economy"
     },
     {
      "name": "Economics: Money and Credit",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "economics-money-and-credit"
     },
     {
      "name": "Economics: Globalisation and the Indian Economy",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "economics-globalisation-and-the-indian-economy"
     },
     {
      "name": "Economics: Consumer Rights",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "economics-consumer-rights"
     }
-   ]
+   ],
+   "id": "social-science"
   }
  ]
 }

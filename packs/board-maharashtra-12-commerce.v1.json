@@ -13,236 +13,240 @@
    "modules": [
     {
      "name": "Principles of Management",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "principles-of-management"
     },
     {
      "name": "Functions of Management",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "functions-of-management"
     },
     {
      "name": "Entrepreneurship Development",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "entrepreneurship-development"
     },
     {
      "name": "Business Services",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "business-services"
     },
     {
      "name": "Emerging Modes of Business",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "emerging-modes-of-business"
     },
     {
      "name": "Social Responsibilities of Business",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "social-responsibilities-of-business"
     },
     {
      "name": "Consumer Protection",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "consumer-protection"
     },
     {
      "name": "Marketing",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "marketing"
     }
-   ]
+   ],
+   "id": "organisation-of-commerce-management"
   },
   {
    "name": "Secretarial Practice",
    "modules": [
     {
      "name": "Introduction to Corporate Finance",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "introduction-to-corporate-finance"
     },
     {
      "name": "Sources of Corporate Finance",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "sources-of-corporate-finance"
     },
     {
      "name": "Issue of Shares",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "issue-of-shares"
     },
     {
      "name": "Issue of Debentures",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "issue-of-debentures"
     },
     {
      "name": "Deposits",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "deposits"
     },
     {
      "name": "Correspondence with Members",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "correspondence-with-members"
     },
     {
      "name": "Correspondence with Debentureholders",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "correspondence-with-debentureholders"
     },
     {
      "name": "Depository System",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "depository-system"
     },
     {
      "name": "Payment of Dividend and Interest",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "payment-of-dividend-and-interest"
     }
-   ]
+   ],
+   "id": "secretarial-practice"
   },
   {
    "name": "Book-Keeping & Accountancy",
    "modules": [
     {
      "name": "Introduction to Partnership and Final Accounts",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "introduction-to-partnership-and-final-accounts"
     },
     {
      "name": "Reconstitution of Partnership (Admission)",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "reconstitution-of-partnership-admission"
     },
     {
      "name": "Reconstitution of Partnership (Retirement/Death)",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "reconstitution-of-partnership-retirement-death"
     },
     {
      "name": "Dissolution of Partnership Firm",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "dissolution-of-partnership-firm"
     },
     {
      "name": "Accounts of Not-for-Profit Concerns",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "accounts-of-not-for-profit-concerns"
     },
     {
      "name": "Bills of Exchange",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "bills-of-exchange"
     },
     {
      "name": "Analysis of Financial Statements",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "analysis-of-financial-statements"
     },
     {
      "name": "Computer in Accounting",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "computer-in-accounting"
     }
-   ]
+   ],
+   "id": "book-keeping-accountancy"
   },
   {
    "name": "Economics",
    "modules": [
     {
      "name": "Introduction to Micro Economics",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "introduction-to-micro-economics"
     },
     {
      "name": "Utility Analysis",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "utility-analysis"
     },
     {
      "name": "Demand Analysis",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "demand-analysis"
     },
     {
      "name": "Elasticity of Demand",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "elasticity-of-demand"
     },
     {
      "name": "Supply Analysis",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "supply-analysis"
     },
     {
      "name": "Forms of Market",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "forms-of-market"
     },
     {
      "name": "Index Numbers",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "index-numbers"
     },
     {
      "name": "National Income",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "national-income"
     },
     {
      "name": "Public Finance in India",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "public-finance-in-india"
     },
     {
      "name": "Money Market and Capital Market in India",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "money-market-and-capital-market-in-india"
     },
     {
      "name": "Foreign Trade of India",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "foreign-trade-of-india"
     }
-   ]
+   ],
+   "id": "economics"
   }
  ]
 }

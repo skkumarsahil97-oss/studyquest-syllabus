@@ -13,153 +13,156 @@
    "modules": [
     {
      "name": "Sajhedari ka Pravesh",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "sajhedari-ka-pravesh"
     },
     {
      "name": "Avkash Grahan tatha Mrityu",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "avkash-grahan-tatha-mrityu"
     },
     {
      "name": "Sajhedari ka Vighatan",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "sajhedari-ka-vighatan"
     },
     {
      "name": "Ansho ka Nirgaman evam Haran",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "ansho-ka-nirgaman-evam-haran"
     },
     {
      "name": "Rinpatro ka Nirgaman",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "rinpatro-ka-nirgaman"
     },
     {
      "name": "Company ke Antim Khaate",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "company-ke-antim-khaate"
     }
-   ]
+   ],
+   "id": "accountancy"
   },
   {
    "name": "Business Studies",
    "modules": [
     {
      "name": "Nature and Significance of Management",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "nature-and-significance-of-management"
     },
     {
      "name": "Principles of Management",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "principles-of-management"
     },
     {
      "name": "Business Environment",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "business-environment"
     },
     {
      "name": "Planning & Organizing",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "planning-organizing"
     },
     {
      "name": "Staffing, Directing & Controlling",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "staffing-directing-controlling"
     },
     {
      "name": "Financial Management",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "financial-management"
     },
     {
      "name": "Financial Markets",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "financial-markets"
     },
     {
      "name": "Marketing Management",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "marketing-management"
     },
     {
      "name": "Consumer Protection",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "consumer-protection"
     }
-   ]
+   ],
+   "id": "business-studies"
   },
   {
    "name": "Economics",
    "modules": [
     {
      "name": "Macro: National Income Accounting",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "macro-national-income-accounting"
     },
     {
      "name": "Macro: Money and Banking",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "macro-money-and-banking"
     },
     {
      "name": "Macro: Determination of Income and Employment",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "macro-determination-of-income-and-employment"
     },
     {
      "name": "Macro: Government Budget and the Economy",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "macro-government-budget-and-the-economy"
     },
     {
      "name": "Macro: Balance of Payments",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "macro-balance-of-payments"
     },
     {
      "name": "Indian Economy: Development Experience (1947–90) and Reforms since 1991",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "indian-economy-development-experience-1947-90-and-reforms-since-1991"
     },
     {
      "name": "Indian Economy: Current Challenges",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "indian-economy-current-challenges"
     },
     {
      "name": "Indian Economy: Comparison with Neighbours",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "indian-economy-comparison-with-neighbours"
     }
-   ]
+   ],
+   "id": "economics"
   }
  ]
 }

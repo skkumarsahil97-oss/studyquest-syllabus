@@ -13,392 +13,396 @@
    "modules": [
     {
      "name": "Rotational Dynamics",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "rotational-dynamics"
     },
     {
      "name": "Mechanical Properties of Fluids",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "mechanical-properties-of-fluids"
     },
     {
      "name": "Kinetic Theory of Gases and Radiation",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "kinetic-theory-of-gases-and-radiation"
     },
     {
      "name": "Thermodynamics",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "thermodynamics"
     },
     {
      "name": "Oscillations",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "oscillations"
     },
     {
      "name": "Superposition of Waves",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "superposition-of-waves"
     },
     {
      "name": "Wave Optics",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "wave-optics"
     },
     {
      "name": "Electrostatics",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "electrostatics"
     },
     {
      "name": "Current Electricity",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "current-electricity"
     },
     {
      "name": "Magnetic Fields due to Electric Current",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "magnetic-fields-due-to-electric-current"
     },
     {
      "name": "Dual Nature of Radiation",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "dual-nature-of-radiation"
     },
     {
      "name": "Structure of Atoms",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "structure-of-atoms"
     },
     {
      "name": "Magnetic Materials",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "magnetic-materials"
     },
     {
      "name": "Electromagnetic Induction",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "electromagnetic-induction"
     },
     {
      "name": "AC Circuits",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "ac-circuits"
     },
     {
      "name": "Semiconductor Devices",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "semiconductor-devices"
     }
-   ]
+   ],
+   "id": "physics"
   },
   {
    "name": "Chemistry",
    "modules": [
     {
      "name": "Solid State",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "solid-state"
     },
     {
      "name": "Solutions",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "solutions"
     },
     {
      "name": "Ionic Equilibria",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "ionic-equilibria"
     },
     {
      "name": "Chemical Thermodynamics",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "chemical-thermodynamics"
     },
     {
      "name": "Electrochemistry",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "electrochemistry"
     },
     {
      "name": "Chemical Kinetics",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "chemical-kinetics"
     },
     {
      "name": "Elements of Groups 16, 17 and 18",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "elements-of-groups-16-17-and-18"
     },
     {
      "name": "Transition and Inner Transition Elements",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "transition-and-inner-transition-elements"
     },
     {
      "name": "Coordination Compounds",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "coordination-compounds"
     },
     {
      "name": "Halogen Derivatives",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "halogen-derivatives"
     },
     {
      "name": "Alcohols, Phenols and Ethers",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "alcohols-phenols-and-ethers"
     },
     {
      "name": "Aldehydes, Ketones and Carboxylic Acids",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "aldehydes-ketones-and-carboxylic-acids"
     },
     {
      "name": "Amines",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "amines"
     },
     {
      "name": "Biomolecules",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "biomolecules"
     },
     {
      "name": "Introduction to Polymer Chemistry",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "introduction-to-polymer-chemistry"
     },
     {
      "name": "Green Chemistry and Nanochemistry",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "green-chemistry-and-nanochemistry"
     }
-   ]
+   ],
+   "id": "chemistry"
   },
   {
    "name": "Mathematics",
    "modules": [
     {
      "name": "Mathematical Logic",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "mathematical-logic"
     },
     {
      "name": "Matrices",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "matrices"
     },
     {
      "name": "Trigonometric Functions",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "trigonometric-functions"
     },
     {
      "name": "Pair of Straight Lines",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "pair-of-straight-lines"
     },
     {
      "name": "Vectors",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "vectors"
     },
     {
      "name": "Line and Plane",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "line-and-plane"
     },
     {
      "name": "Linear Programming",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "linear-programming"
     },
     {
      "name": "Differentiation",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "differentiation"
     },
     {
      "name": "Applications of Derivatives",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "applications-of-derivatives"
     },
     {
      "name": "Indefinite Integration",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "indefinite-integration"
     },
     {
      "name": "Definite Integration",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "definite-integration"
     },
     {
      "name": "Application of Definite Integration",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "application-of-definite-integration"
     },
     {
      "name": "Differential Equations",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "differential-equations"
     },
     {
      "name": "Probability Distributions",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "probability-distributions"
     },
     {
      "name": "Binomial Distribution",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "binomial-distribution"
     }
-   ]
+   ],
+   "id": "mathematics"
   },
   {
    "name": "Biology",
    "modules": [
     {
      "name": "Reproduction in Lower and Higher Plants",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "reproduction-in-lower-and-higher-plants"
     },
     {
      "name": "Reproduction in Lower and Higher Animals",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "reproduction-in-lower-and-higher-animals"
     },
     {
      "name": "Inheritance and Variation",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "inheritance-and-variation"
     },
     {
      "name": "Molecular Basis of Inheritance",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "molecular-basis-of-inheritance"
     },
     {
      "name": "Origin and Evolution of Life",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "origin-and-evolution-of-life"
     },
     {
      "name": "Plant Water Relation",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "plant-water-relation"
     },
     {
      "name": "Plant Growth and Mineral Nutrition",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "plant-growth-and-mineral-nutrition"
     },
     {
      "name": "Respiration and Circulation",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "respiration-and-circulation"
     },
     {
      "name": "Control and Co-ordination",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "control-and-co-ordination"
     },
     {
      "name": "Human Health and Diseases",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "human-health-and-diseases"
     },
     {
      "name": "Enhancement of Food Production",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "enhancement-of-food-production"
     },
     {
      "name": "Biotechnology",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "biotechnology"
     },
     {
      "name": "Organisms and Populations",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "organisms-and-populations"
     },
     {
      "name": "Ecosystems and Energy Flow",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "ecosystems-and-energy-flow"
     },
     {
      "name": "Biodiversity, Conservation and Environmental Issues",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "biodiversity-conservation-and-environmental-issues"
     }
-   ]
+   ],
+   "id": "biology"
   }
  ]
 }

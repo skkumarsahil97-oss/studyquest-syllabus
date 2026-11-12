@@ -13,302 +13,306 @@
    "modules": [
     {
      "name": "Gadya: Mitrata (Ramchandra Shukla)",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "gadya-mitrata-ramchandra-shukla"
     },
     {
      "name": "Gadya: Mamta (Jaishankar Prasad)",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "gadya-mamta-jaishankar-prasad"
     },
     {
      "name": "Gadya: Bhartiya Sanskriti (Rajendra Prasad)",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "gadya-bhartiya-sanskriti-rajendra-prasad"
     },
     {
      "name": "Kavya: Surdas - Pad",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "kavya-surdas-pad"
     },
     {
      "name": "Kavya: Tulsidas - Dhanush Bhang",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "kavya-tulsidas-dhanush-bhang"
     },
     {
      "name": "Kavya: Raskhan - Savaiye",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "kavya-raskhan-savaiye"
     },
     {
      "name": "Sanskrit: Varanasi",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "sanskrit-varanasi"
     },
     {
      "name": "Sanskrit: Deshbhakt Chandrashekhar",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "sanskrit-deshbhakt-chandrashekhar"
     },
     {
      "name": "Sanskrit: Jeevan Sutrani",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "sanskrit-jeevan-sutrani"
     }
-   ]
+   ],
+   "id": "hindi"
   },
   {
    "name": "Science",
    "modules": [
     {
      "name": "Chemical Reactions and Equations",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "chemical-reactions-and-equations"
     },
     {
      "name": "Acids, Bases and Salts",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "acids-bases-and-salts"
     },
     {
      "name": "Metals and Non-metals",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "metals-and-non-metals"
     },
     {
      "name": "Carbon and its Compounds",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "carbon-and-its-compounds"
     },
     {
      "name": "Life Processes",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "life-processes"
     },
     {
      "name": "Control and Coordination",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "control-and-coordination"
     },
     {
      "name": "How do Organisms Reproduce?",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "how-do-organisms-reproduce"
     },
     {
      "name": "Heredity and Evolution",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "heredity-and-evolution"
     },
     {
      "name": "Light: Reflection and Refraction",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "light-reflection-and-refraction"
     },
     {
      "name": "Human Eye and Colourful World",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "human-eye-and-colourful-world"
     },
     {
      "name": "Electricity",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "electricity"
     },
     {
      "name": "Magnetic Effects of Electric Current",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "magnetic-effects-of-electric-current"
     },
     {
      "name": "Our Environment",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "our-environment"
     }
-   ]
+   ],
+   "id": "science"
   },
   {
    "name": "Mathematics",
    "modules": [
     {
      "name": "Real Numbers",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "real-numbers"
     },
     {
      "name": "Polynomials",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "polynomials"
     },
     {
      "name": "Pair of Linear Equations",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "pair-of-linear-equations"
     },
     {
      "name": "Quadratic Equations",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "quadratic-equations"
     },
     {
      "name": "Arithmetic Progressions",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "arithmetic-progressions"
     },
     {
      "name": "Triangles",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "triangles"
     },
     {
      "name": "Coordinate Geometry",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "coordinate-geometry"
     },
     {
      "name": "Introduction to Trigonometry",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "introduction-to-trigonometry"
     },
     {
      "name": "Some Applications of Trigonometry",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "some-applications-of-trigonometry"
     },
     {
      "name": "Circles",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "circles"
     },
     {
      "name": "Areas Related to Circles",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "areas-related-to-circles"
     },
     {
      "name": "Surface Areas and Volumes",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "surface-areas-and-volumes"
     },
     {
      "name": "Statistics",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "statistics"
     },
     {
      "name": "Probability",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "probability"
     }
-   ]
+   ],
+   "id": "mathematics"
   },
   {
    "name": "Social Science",
    "modules": [
     {
      "name": "Itihas: Europe me Rashtravad ka Uday",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "itihas-europe-me-rashtravad-ka-uday"
     },
     {
      "name": "Itihas: Bharat me Rashtravad",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "itihas-bharat-me-rashtravad"
     },
     {
      "name": "Itihas: Bhumandalikrit Vishwa ka Banna",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "itihas-bhumandalikrit-vishwa-ka-banna"
     },
     {
      "name": "Bhugol: Sansadhan evam Vikas",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "bhugol-sansadhan-evam-vikas"
     },
     {
      "name": "Bhugol: Van aur Vanya Jeev",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "bhugol-van-aur-vanya-jeev"
     },
     {
      "name": "Bhugol: Jal Sansadhan",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "bhugol-jal-sansadhan"
     },
     {
      "name": "Bhugol: Krishi",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "bhugol-krishi"
     },
     {
      "name": "Nagrik Shastra: Satta ki Sajhedari",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "nagrik-shastra-satta-ki-sajhedari"
     },
     {
      "name": "Nagrik Shastra: Sanghvad",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "nagrik-shastra-sanghvad"
     },
     {
      "name": "Arthashastra: Vikas",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "arthashastra-vikas"
     },
     {
      "name": "Arthashastra: Bharatiya Arthvyavastha ke Kshetrak",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "arthashastra-bharatiya-arthvyavastha-ke-kshetrak"
     }
-   ]
+   ],
+   "id": "social-science"
   }
  ]
 }

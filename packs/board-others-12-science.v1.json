@@ -13,320 +13,324 @@
    "modules": [
     {
      "name": "Electric Charges and Fields",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "electric-charges-and-fields"
     },
     {
      "name": "Electrostatic Potential and Capacitance",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "electrostatic-potential-and-capacitance"
     },
     {
      "name": "Current Electricity",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "current-electricity"
     },
     {
      "name": "Moving Charges and Magnetism",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "moving-charges-and-magnetism"
     },
     {
      "name": "Magnetism and Matter",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "magnetism-and-matter"
     },
     {
      "name": "Electromagnetic Induction",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "electromagnetic-induction"
     },
     {
      "name": "Alternating Current",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "alternating-current"
     },
     {
      "name": "Electromagnetic Waves",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "electromagnetic-waves"
     },
     {
      "name": "Ray Optics and Optical Instruments",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "ray-optics-and-optical-instruments"
     },
     {
      "name": "Wave Optics",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "wave-optics"
     },
     {
      "name": "Dual Nature of Radiation and Matter",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "dual-nature-of-radiation-and-matter"
     },
     {
      "name": "Atoms",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "atoms"
     },
     {
      "name": "Nuclei",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "nuclei"
     },
     {
      "name": "Semiconductor Electronics",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "semiconductor-electronics"
     }
-   ]
+   ],
+   "id": "physics"
   },
   {
    "name": "Chemistry",
    "modules": [
     {
      "name": "Solutions",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "solutions"
     },
     {
      "name": "Electrochemistry",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "electrochemistry"
     },
     {
      "name": "Chemical Kinetics",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "chemical-kinetics"
     },
     {
      "name": "d and f Block Elements",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "d-and-f-block-elements"
     },
     {
      "name": "Coordination Compounds",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "coordination-compounds"
     },
     {
      "name": "Haloalkanes and Haloarenes",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "haloalkanes-and-haloarenes"
     },
     {
      "name": "Alcohols, Phenols and Ethers",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "alcohols-phenols-and-ethers"
     },
     {
      "name": "Aldehydes, Ketones and Carboxylic Acids",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "aldehydes-ketones-and-carboxylic-acids"
     },
     {
      "name": "Amines",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "amines"
     },
     {
      "name": "Biomolecules",
-     "group": null,
      "topics": [],
-     "status": "verified"
+     "status": "verified",
+     "id": "biomolecules"
     }
-   ]
+   ],
+   "id": "chemistry"
   },
   {
    "name": "Mathematics",
    "modules": [
     {
      "name": "Relations and Functions",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "relations-and-functions"
     },
     {
      "name": "Inverse Trigonometric Functions",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "inverse-trigonometric-functions"
     },
     {
      "name": "Matrices",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "matrices"
     },
     {
      "name": "Determinants",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "determinants"
     },
     {
      "name": "Continuity and Differentiability",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "continuity-and-differentiability"
     },
     {
      "name": "Application of Derivatives",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "application-of-derivatives"
     },
     {
      "name": "Integrals",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "integrals"
     },
     {
      "name": "Application of Integrals",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "application-of-integrals"
     },
     {
      "name": "Differential Equations",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "differential-equations"
     },
     {
      "name": "Vector Algebra",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "vector-algebra"
     },
     {
      "name": "Three Dimensional Geometry",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "three-dimensional-geometry"
     },
     {
      "name": "Linear Programming",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "linear-programming"
     },
     {
      "name": "Probability",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "probability"
     }
-   ]
+   ],
+   "id": "mathematics"
   },
   {
    "name": "Biology",
    "modules": [
     {
      "name": "Sexual Reproduction in Flowering Plants",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "sexual-reproduction-in-flowering-plants"
     },
     {
      "name": "Human Reproduction",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "human-reproduction"
     },
     {
      "name": "Reproductive Health",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "reproductive-health"
     },
     {
      "name": "Principles of Inheritance and Variation",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "principles-of-inheritance-and-variation"
     },
     {
      "name": "Molecular Basis of Inheritance",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "molecular-basis-of-inheritance"
     },
     {
      "name": "Evolution",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "evolution"
     },
     {
      "name": "Human Health and Disease",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "human-health-and-disease"
     },
     {
      "name": "Microbes in Human Welfare",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "microbes-in-human-welfare"
     },
     {
      "name": "Biotechnology: Principles and Processes",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "biotechnology-principles-and-processes"
     },
     {
      "name": "Biotechnology and its Applications",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "biotechnology-and-its-applications"
     },
     {
      "name": "Organisms and Populations",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "organisms-and-populations"
     },
     {
      "name": "Ecosystem",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "ecosystem"
     },
     {
      "name": "Biodiversity and Conservation",
-     "group": null,
      "topics": [],
-     "status": "verify"
+     "status": "verify",
+     "id": "biodiversity-and-conservation"
     }
-   ]
+   ],
+   "id": "biology"
   }
  ]
 }
