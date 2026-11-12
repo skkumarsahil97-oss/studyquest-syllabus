@@ -1,9 +1,11 @@
 {
  "version": 1,
  "chapters": {
+  "ca/foundation/business-laws/indian-contract-act-1872": "questions/ca-foundation/business-laws__indian-contract-act-1872.json",
   "cuetpg/management/verbal-logical-reasoning/analogy-syllogism": "questions/cuetpg-management/verbal-logical-reasoning__analogy-syllogism.json"
  },
  "counts": {
+  "ca/foundation/business-laws/indian-contract-act-1872": 1,
   "cuetpg/management/verbal-logical-reasoning/analogy-syllogism": 13
  }
 }
