@@ -1,0 +1,147 @@
+{
+ "version": 1,
+ "updated": "2026-11-12",
+ "courses": [
+  {
+   "id": "ca",
+   "name": "CA",
+   "full": "Chartered Accountancy (ICAI New Scheme)",
+   "icon": "📒",
+   "levelLabel": "Level",
+   "levels": [
+    {
+     "id": "foundation",
+     "name": "Foundation",
+     "pack": "packs/ca-foundation.v1.json",
+     "version": 1,
+     "subjects": 4,
+     "chapters": 30
+    },
+    {
+     "id": "intermediate",
+     "name": "Intermediate",
+     "pack": "packs/ca-intermediate.v1.json",
+     "version": 1,
+     "subjects": 6,
+     "chapters": 39
+    },
+    {
+     "id": "final",
+     "name": "Final",
+     "pack": "packs/ca-final.v1.json",
+     "version": 1,
+     "subjects": 6,
+     "chapters": 22
+    }
+   ]
+  },
+  {
+   "id": "upsc",
+   "name": "UPSC CSE",
+   "full": "Civil Services Examination",
+   "icon": "🏛️",
+   "levelLabel": "Stage",
+   "levels": [
+    {
+     "id": "prelims",
+     "name": "Prelims",
+     "pack": "packs/upsc-prelims.v1.json",
+     "version": 1,
+     "subjects": 2,
+     "chapters": 14
+    },
+    {
+     "id": "mains",
+     "name": "Mains",
+     "pack": "packs/upsc-mains.v1.json",
+     "version": 1,
+     "subjects": 6,
+     "chapters": 24
+    },
+    {
+     "id": "interview",
+     "name": "Interview",
+     "pack": "packs/upsc-interview.v1.json",
+     "version": 1,
+     "subjects": 1,
+     "chapters": 2
+    }
+   ]
+  },
+  {
+   "id": "cuetpg",
+   "name": "CUET PG",
+   "full": "Common University Entrance Test (PG)",
+   "icon": "🎓",
+   "levelLabel": "Domain",
+   "levels": [
+    {
+     "id": "science",
+     "name": "Science",
+     "pack": "packs/cuetpg-science.v1.json",
+     "version": 1,
+     "subjects": 5,
+     "chapters": 15
+    },
+    {
+     "id": "management",
+     "name": "Management (MBA)",
+     "pack": "packs/cuetpg-management.v1.json",
+     "version": 1,
+     "subjects": 4,
+     "chapters": 12
+    },
+    {
+     "id": "humanities",
+     "name": "Humanities & Social Sciences",
+     "pack": "packs/cuetpg-humanities.v1.json",
+     "version": 1,
+     "subjects": 4,
+     "chapters": 12
+    }
+   ]
+  },
+  {
+   "id": "jee",
+   "name": "IIT JEE",
+   "full": "Joint Entrance Examination",
+   "icon": "⚙️",
+   "levelLabel": "Stage",
+   "levels": [
+    {
+     "id": "main",
+     "name": "JEE Main",
+     "pack": "packs/jee-main.v1.json",
+     "version": 1,
+     "subjects": 3,
+     "chapters": 54
+    },
+    {
+     "id": "advanced",
+     "name": "JEE Main + Advanced",
+     "pack": "packs/jee-advanced.v1.json",
+     "version": 1,
+     "subjects": 3,
+     "chapters": 66
+    }
+   ]
+  },
+  {
+   "id": "neet",
+   "name": "NEET UG",
+   "full": "National Eligibility cum Entrance Test (NMC 2026)",
+   "icon": "🩺",
+   "levelLabel": "Level",
+   "levels": [
+    {
+     "id": "ug",
+     "name": "NEET UG 2026",
+     "pack": "packs/neet-ug.v1.json",
+     "version": 1,
+     "subjects": 3,
+     "chapters": 50
+    }
+   ]
+  }
+ ]
+}

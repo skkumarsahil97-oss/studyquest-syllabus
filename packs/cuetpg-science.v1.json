@@ -1,0 +1,141 @@
+{
+ "id": "cuetpg-science",
+ "course": "cuetpg",
+ "level": "science",
+ "name": "CUET PG Science",
+ "version": 1,
+ "subjects": [
+  {
+   "id": "cuetpg-science-s1",
+   "name": "Language Comprehension",
+   "modules": [
+    {
+     "id": "cuetpg-science-s1-m1",
+     "name": "English/Hindi Grammar",
+     "group": null,
+     "topics": [
+      "Spotting Errors",
+      "Sentence Correction",
+      "Synonyms & Antonyms",
+      "Idioms & Phrases"
+     ]
+    },
+    {
+     "id": "cuetpg-science-s1-m2",
+     "name": "Reading Comprehension",
+     "group": null,
+     "topics": []
+    }
+   ]
+  },
+  {
+   "id": "cuetpg-science-s2",
+   "name": "Verbal & Logical Reasoning",
+   "modules": [
+    {
+     "id": "cuetpg-science-s2-m1",
+     "name": "Analogy & Syllogism",
+     "group": null,
+     "topics": [
+      "Analogy",
+      "Categorical Syllogism"
+     ]
+    },
+    {
+     "id": "cuetpg-science-s2-m2",
+     "name": "Blood Relations & Direction Sense",
+     "group": null,
+     "topics": []
+    },
+    {
+     "id": "cuetpg-science-s2-m3",
+     "name": "Statement & Assumptions",
+     "group": null,
+     "topics": []
+    }
+   ]
+  },
+  {
+   "id": "cuetpg-science-s3",
+   "name": "Quantitative Ability & DI",
+   "modules": [
+    {
+     "id": "cuetpg-science-s3-m1",
+     "name": "Percentages, Profit & Loss",
+     "group": null,
+     "topics": []
+    },
+    {
+     "id": "cuetpg-science-s3-m2",
+     "name": "Average, Ratio & Proportion",
+     "group": null,
+     "topics": []
+    },
+    {
+     "id": "cuetpg-science-s3-m3",
+     "name": "Time, Speed & Distance",
+     "group": null,
+     "topics": []
+    },
+    {
+     "id": "cuetpg-science-s3-m4",
+     "name": "Data Interpretation",
+     "group": null,
+     "topics": [
+      "Tables",
+      "Bar Graphs",
+      "Pie Charts"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cuetpg-science-s4",
+   "name": "Physics / Chemistry Core",
+   "modules": [
+    {
+     "id": "cuetpg-science-s4-m1",
+     "name": "Classical Mechanics / Organic Reaction Mechanisms",
+     "group": null,
+     "topics": []
+    },
+    {
+     "id": "cuetpg-science-s4-m2",
+     "name": "Quantum Mechanics / Physical Chemistry",
+     "group": null,
+     "topics": []
+    },
+    {
+     "id": "cuetpg-science-s4-m3",
+     "name": "Thermodynamics & Electromagnetism",
+     "group": null,
+     "topics": []
+    }
+   ]
+  },
+  {
+   "id": "cuetpg-science-s5",
+   "name": "Life Sciences Core",
+   "modules": [
+    {
+     "id": "cuetpg-science-s5-m1",
+     "name": "Cell Biology & Genetics",
+     "group": null,
+     "topics": []
+    },
+    {
+     "id": "cuetpg-science-s5-m2",
+     "name": "Biochemistry & Molecular Biology",
+     "group": null,
+     "topics": []
+    },
+    {
+     "id": "cuetpg-science-s5-m3",
+     "name": "Ecology & Evolution",
+     "group": null,
+     "topics": []
+    }
+   ]
+  }
+ ]
+}

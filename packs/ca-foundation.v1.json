@@ -1,0 +1,274 @@
+{
+ "id": "ca-foundation",
+ "course": "ca",
+ "level": "foundation",
+ "name": "CA Foundation",
+ "version": 1,
+ "subjects": [
+  {
+   "id": "ca-foundation-s1",
+   "name": "Accounting",
+   "modules": [
+    {
+     "id": "ca-foundation-s1-m1",
+     "name": "Theoretical Framework",
+     "group": null,
+     "topics": [
+      "Meaning and Scope of Accounting",
+      "Accounting Concepts, Principles and Conventions",
+      "Capital and Revenue Expenditures/Receipts"
+     ]
+    },
+    {
+     "id": "ca-foundation-s1-m2",
+     "name": "Accounting Process",
+     "group": null,
+     "topics": [
+      "Journal Entries and Ledger Posting",
+      "Trial Balance",
+      "Subsidiary Books & Cash Book",
+      "Rectification of Errors"
+     ]
+    },
+    {
+     "id": "ca-foundation-s1-m3",
+     "name": "Bank Reconciliation Statement",
+     "group": null,
+     "topics": [
+      "Pass Book vs Cash Book Reconciliation",
+      "Timing Differences & Errors"
+     ]
+    },
+    {
+     "id": "ca-foundation-s1-m4",
+     "name": "Inventories & Depreciation",
+     "group": null,
+     "topics": [
+      "Valuation of Inventory (FIFO, LIFO, Weighted Average)",
+      "Depreciation Methods (SLM, WDV)"
+     ]
+    },
+    {
+     "id": "ca-foundation-s1-m5",
+     "name": "Special Transactions",
+     "group": null,
+     "topics": [
+      "Bills of Exchange and Promissory Notes",
+      "Consignment Accounts"
+     ]
+    },
+    {
+     "id": "ca-foundation-s1-m6",
+     "name": "Final Accounts of Sole Proprietors",
+     "group": null,
+     "topics": [
+      "Trading and Profit & Loss Account",
+      "Balance Sheet Adjustments"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ca-foundation-s2",
+   "name": "Business Laws",
+   "modules": [
+    {
+     "id": "ca-foundation-s2-m1",
+     "name": "Indian Contract Act, 1872",
+     "group": null,
+     "topics": [
+      "Nature & Essentials of Contracts",
+      "Offer and Acceptance",
+      "Consideration",
+      "Capacity to Contract",
+      "Free Consent",
+      "Performance and Breach of Contract"
+     ]
+    },
+    {
+     "id": "ca-foundation-s2-m2",
+     "name": "Sale of Goods Act, 1930",
+     "group": null,
+     "topics": [
+      "Formation of Contract of Sale",
+      "Conditions and Warranties",
+      "Transfer of Ownership",
+      "Unpaid Seller Rights"
+     ]
+    },
+    {
+     "id": "ca-foundation-s2-m3",
+     "name": "Indian Partnership Act, 1932",
+     "group": null,
+     "topics": [
+      "General Nature of Partnership",
+      "Rights and Duties of Partners",
+      "Registration and Dissolution of Firm"
+     ]
+    },
+    {
+     "id": "ca-foundation-s2-m4",
+     "name": "LLP Act, 2008",
+     "group": null,
+     "topics": [
+      "Salient Features",
+      "Incorporation and Partners' Relationships"
+     ]
+    },
+    {
+     "id": "ca-foundation-s2-m5",
+     "name": "Companies Act, 2013",
+     "group": null,
+     "topics": [
+      "Essential Features & Classification of Companies",
+      "Incorporation Procedure"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ca-foundation-s3",
+   "name": "Quantitative Aptitude",
+   "modules": [
+    {
+     "id": "ca-foundation-s3-m1",
+     "name": "Ratio & Proportion, Indices, Logarithms",
+     "group": "Business Mathematics",
+     "topics": []
+    },
+    {
+     "id": "ca-foundation-s3-m2",
+     "name": "Equations & Matrices",
+     "group": "Business Mathematics",
+     "topics": []
+    },
+    {
+     "id": "ca-foundation-s3-m3",
+     "name": "Linear Inequalities",
+     "group": "Business Mathematics",
+     "topics": []
+    },
+    {
+     "id": "ca-foundation-s3-m4",
+     "name": "Simple & Compound Interest, Annuities",
+     "group": "Business Mathematics",
+     "topics": []
+    },
+    {
+     "id": "ca-foundation-s3-m5",
+     "name": "Permutations and Combinations",
+     "group": "Business Mathematics",
+     "topics": []
+    },
+    {
+     "id": "ca-foundation-s3-m6",
+     "name": "Sequence and Series (AP & GP)",
+     "group": "Business Mathematics",
+     "topics": []
+    },
+    {
+     "id": "ca-foundation-s3-m7",
+     "name": "Number Series, Coding-Decoding",
+     "group": "Logical Reasoning",
+     "topics": []
+    },
+    {
+     "id": "ca-foundation-s3-m8",
+     "name": "Direction Tests",
+     "group": "Logical Reasoning",
+     "topics": []
+    },
+    {
+     "id": "ca-foundation-s3-m9",
+     "name": "Seating Arrangements",
+     "group": "Logical Reasoning",
+     "topics": []
+    },
+    {
+     "id": "ca-foundation-s3-m10",
+     "name": "Blood Relations",
+     "group": "Logical Reasoning",
+     "topics": []
+    },
+    {
+     "id": "ca-foundation-s3-m11",
+     "name": "Statistical Representation of Data",
+     "group": "Statistics",
+     "topics": []
+    },
+    {
+     "id": "ca-foundation-s3-m12",
+     "name": "Central Tendency and Dispersion",
+     "group": "Statistics",
+     "topics": []
+    },
+    {
+     "id": "ca-foundation-s3-m13",
+     "name": "Probability & Theoretical Distributions",
+     "group": "Statistics",
+     "topics": []
+    },
+    {
+     "id": "ca-foundation-s3-m14",
+     "name": "Correlation and Regression",
+     "group": "Statistics",
+     "topics": []
+    }
+   ]
+  },
+  {
+   "id": "ca-foundation-s4",
+   "name": "Business Economics",
+   "modules": [
+    {
+     "id": "ca-foundation-s4-m1",
+     "name": "Introduction to Business Economics",
+     "group": null,
+     "topics": [
+      "Basic Problems of an Economy",
+      "Micro vs Macro Economics"
+     ]
+    },
+    {
+     "id": "ca-foundation-s4-m2",
+     "name": "Theory of Demand and Supply",
+     "group": null,
+     "topics": [
+      "Law of Demand & Elasticity",
+      "Consumer Behaviour (Utility & Indifference Curve)",
+      "Law of Supply & Elasticity"
+     ]
+    },
+    {
+     "id": "ca-foundation-s4-m3",
+     "name": "Theory of Production and Cost",
+     "group": null,
+     "topics": [
+      "Production Function & Laws of Returns",
+      "Cost Concepts and Curves"
+     ]
+    },
+    {
+     "id": "ca-foundation-s4-m4",
+     "name": "Price Determination in Different Markets",
+     "group": null,
+     "topics": [
+      "Perfect Competition",
+      "Monopoly",
+      "Monopolistic Competition",
+      "Oligopoly"
+     ]
+    },
+    {
+     "id": "ca-foundation-s4-m5",
+     "name": "National Income & Business Cycles",
+     "group": null,
+     "topics": [
+      "National Income Concepts and Measurement",
+      "Phases of Business Cycles"
+     ]
+    }
+   ]
+  }
+ ]
+}

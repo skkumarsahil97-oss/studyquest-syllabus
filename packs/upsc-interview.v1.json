@@ -1,0 +1,36 @@
+{
+ "id": "upsc-interview",
+ "course": "upsc",
+ "level": "interview",
+ "name": "UPSC CSE Interview",
+ "version": 1,
+ "subjects": [
+  {
+   "id": "upsc-interview-s1",
+   "name": "Personality Test",
+   "modules": [
+    {
+     "id": "upsc-interview-s1-m1",
+     "name": "DAF Preparation",
+     "group": null,
+     "topics": [
+      "Background",
+      "Education",
+      "Hobbies",
+      "State Cadre"
+     ]
+    },
+    {
+     "id": "upsc-interview-s1-m2",
+     "name": "Personality & Analytical Assessment",
+     "group": null,
+     "topics": [
+      "Current Affairs Opinions",
+      "Leadership Traits",
+      "Situation Reaction"
+     ]
+    }
+   ]
+  }
+ ]
+}

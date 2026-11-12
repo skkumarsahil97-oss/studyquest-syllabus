@@ -1,0 +1,117 @@
+{
+ "id": "cuetpg-humanities",
+ "course": "cuetpg",
+ "level": "humanities",
+ "name": "CUET PG Humanities & Social Sciences",
+ "version": 1,
+ "subjects": [
+  {
+   "id": "cuetpg-humanities-s1",
+   "name": "Language Comprehension",
+   "modules": [
+    {
+     "id": "cuetpg-humanities-s1-m1",
+     "name": "English/Hindi Grammar",
+     "group": null,
+     "topics": [
+      "Spotting Errors",
+      "Sentence Correction",
+      "Synonyms & Antonyms",
+      "Idioms & Phrases"
+     ]
+    },
+    {
+     "id": "cuetpg-humanities-s1-m2",
+     "name": "Reading Comprehension",
+     "group": null,
+     "topics": []
+    }
+   ]
+  },
+  {
+   "id": "cuetpg-humanities-s2",
+   "name": "Verbal & Logical Reasoning",
+   "modules": [
+    {
+     "id": "cuetpg-humanities-s2-m1",
+     "name": "Analogy & Syllogism",
+     "group": null,
+     "topics": [
+      "Analogy",
+      "Categorical Syllogism"
+     ]
+    },
+    {
+     "id": "cuetpg-humanities-s2-m2",
+     "name": "Blood Relations & Direction Sense",
+     "group": null,
+     "topics": []
+    },
+    {
+     "id": "cuetpg-humanities-s2-m3",
+     "name": "Statement & Assumptions",
+     "group": null,
+     "topics": []
+    }
+   ]
+  },
+  {
+   "id": "cuetpg-humanities-s3",
+   "name": "Quantitative Ability & DI",
+   "modules": [
+    {
+     "id": "cuetpg-humanities-s3-m1",
+     "name": "Percentages, Profit & Loss",
+     "group": null,
+     "topics": []
+    },
+    {
+     "id": "cuetpg-humanities-s3-m2",
+     "name": "Average, Ratio & Proportion",
+     "group": null,
+     "topics": []
+    },
+    {
+     "id": "cuetpg-humanities-s3-m3",
+     "name": "Time, Speed & Distance",
+     "group": null,
+     "topics": []
+    },
+    {
+     "id": "cuetpg-humanities-s3-m4",
+     "name": "Data Interpretation",
+     "group": null,
+     "topics": [
+      "Tables",
+      "Bar Graphs",
+      "Pie Charts"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cuetpg-humanities-s4",
+   "name": "Humanities & Social Sciences",
+   "modules": [
+    {
+     "id": "cuetpg-humanities-s4-m1",
+     "name": "Political Theory & International Relations",
+     "group": null,
+     "topics": []
+    },
+    {
+     "id": "cuetpg-humanities-s4-m2",
+     "name": "Sociological Concepts",
+     "group": null,
+     "topics": []
+    },
+    {
+     "id": "cuetpg-humanities-s4-m3",
+     "name": "History & Literature Analysis",
+     "group": null,
+     "topics": []
+    }
+   ]
+  }
+ ]
+}

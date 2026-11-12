@@ -1,0 +1,204 @@
+{
+ "id": "upsc-mains",
+ "course": "upsc",
+ "level": "mains",
+ "name": "UPSC CSE Mains",
+ "version": 1,
+ "subjects": [
+  {
+   "id": "upsc-mains-s1",
+   "name": "Qualifying Papers",
+   "modules": [
+    {
+     "id": "upsc-mains-s1-m1",
+     "name": "Paper A: Indian Language",
+     "group": null,
+     "topics": [
+      "Comprehension",
+      "Precis Writing",
+      "Translation"
+     ]
+    },
+    {
+     "id": "upsc-mains-s1-m2",
+     "name": "Paper B: English",
+     "group": null,
+     "topics": [
+      "Comprehension",
+      "Essay",
+      "Precis Writing",
+      "Grammar"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "upsc-mains-s2",
+   "name": "Essay",
+   "modules": [
+    {
+     "id": "upsc-mains-s2-m1",
+     "name": "Essay Practice",
+     "group": null,
+     "topics": [
+      "Society",
+      "Economy",
+      "Polity",
+      "Technology",
+      "Philosophy"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "upsc-mains-s3",
+   "name": "GS I: Culture, History, Geography, Society",
+   "modules": [
+    {
+     "id": "upsc-mains-s3-m1",
+     "name": "Indian Culture & Architecture",
+     "group": null,
+     "topics": []
+    },
+    {
+     "id": "upsc-mains-s3-m2",
+     "name": "Modern History & Freedom Movement",
+     "group": null,
+     "topics": []
+    },
+    {
+     "id": "upsc-mains-s3-m3",
+     "name": "Post-Independence Consolidation",
+     "group": null,
+     "topics": []
+    },
+    {
+     "id": "upsc-mains-s3-m4",
+     "name": "World History (18th Century Onwards)",
+     "group": null,
+     "topics": []
+    },
+    {
+     "id": "upsc-mains-s3-m5",
+     "name": "Indian Society & Diversity",
+     "group": null,
+     "topics": []
+    },
+    {
+     "id": "upsc-mains-s3-m6",
+     "name": "Physical & Resource Geography of World",
+     "group": null,
+     "topics": []
+    }
+   ]
+  },
+  {
+   "id": "upsc-mains-s4",
+   "name": "GS II: Polity, Governance, IR",
+   "modules": [
+    {
+     "id": "upsc-mains-s4-m1",
+     "name": "Indian Constitution & Comparison",
+     "group": null,
+     "topics": []
+    },
+    {
+     "id": "upsc-mains-s4-m2",
+     "name": "Union & States: Functions",
+     "group": null,
+     "topics": []
+    },
+    {
+     "id": "upsc-mains-s4-m3",
+     "name": "Governance, Transparency & E-Governance",
+     "group": null,
+     "topics": []
+    },
+    {
+     "id": "upsc-mains-s4-m4",
+     "name": "Role of Civil Services in Democracy",
+     "group": null,
+     "topics": []
+    },
+    {
+     "id": "upsc-mains-s4-m5",
+     "name": "India, Neighbourhood & International Orgs",
+     "group": null,
+     "topics": []
+    }
+   ]
+  },
+  {
+   "id": "upsc-mains-s5",
+   "name": "GS III: Economy, Science, Environment, Security",
+   "modules": [
+    {
+     "id": "upsc-mains-s5-m1",
+     "name": "Indian Economy & Budgeting",
+     "group": null,
+     "topics": []
+    },
+    {
+     "id": "upsc-mains-s5-m2",
+     "name": "Agriculture & Major Crops",
+     "group": null,
+     "topics": []
+    },
+    {
+     "id": "upsc-mains-s5-m3",
+     "name": "Science & Technology Applications",
+     "group": null,
+     "topics": []
+    },
+    {
+     "id": "upsc-mains-s5-m4",
+     "name": "Environment & Disaster Management",
+     "group": null,
+     "topics": []
+    },
+    {
+     "id": "upsc-mains-s5-m5",
+     "name": "Internal Security & Cyber Security",
+     "group": null,
+     "topics": []
+    }
+   ]
+  },
+  {
+   "id": "upsc-mains-s6",
+   "name": "GS IV: Ethics, Integrity & Aptitude",
+   "modules": [
+    {
+     "id": "upsc-mains-s6-m1",
+     "name": "Ethics and Human Interface",
+     "group": null,
+     "topics": []
+    },
+    {
+     "id": "upsc-mains-s6-m2",
+     "name": "Human Values & Moral Thinkers",
+     "group": null,
+     "topics": []
+    },
+    {
+     "id": "upsc-mains-s6-m3",
+     "name": "Attitude & Emotional Intelligence",
+     "group": null,
+     "topics": []
+    },
+    {
+     "id": "upsc-mains-s6-m4",
+     "name": "Probity in Governance",
+     "group": null,
+     "topics": []
+    },
+    {
+     "id": "upsc-mains-s6-m5",
+     "name": "Ethics Case Studies",
+     "group": null,
+     "topics": []
+    }
+   ]
+  }
+ ]
+}
