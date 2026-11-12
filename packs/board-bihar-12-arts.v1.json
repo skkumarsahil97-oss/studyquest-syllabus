@@ -9,6 +9,42 @@
  "stream": "arts",
  "subjects": [
   {
+   "id": "english",
+   "name": "English",
+   "modules": [
+    {
+     "id": "rainbow-english-prose",
+     "name": "Rainbow English: Prose",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "rainbow-english-poetry",
+     "name": "Rainbow English: Poetry",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "reading-unseen-passages",
+     "name": "Reading: Unseen Passages",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "grammar",
+     "name": "Grammar",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "writing-letter-essay-report",
+     "name": "Writing: Letter, Essay, Report",
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  },
+  {
    "name": "History",
    "modules": [
     {

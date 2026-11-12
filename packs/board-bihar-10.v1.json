@@ -9,6 +9,42 @@
  "stream": null,
  "subjects": [
   {
+   "id": "english",
+   "name": "English",
+   "modules": [
+    {
+     "id": "panorama-english-reader-prose",
+     "name": "Panorama English Reader: Prose",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "panorama-english-reader-poetry",
+     "name": "Panorama English Reader: Poetry",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "reading-unseen-passages",
+     "name": "Reading: Unseen Passages",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "grammar",
+     "name": "Grammar",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "writing-letter-application-essay",
+     "name": "Writing: Letter, Application, Essay",
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  },
+  {
    "name": "Science",
    "modules": [
     {

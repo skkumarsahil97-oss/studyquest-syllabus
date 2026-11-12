@@ -355,9 +355,15 @@
   }
  },
  "board/cbse-10": {
-  "total": "3 theory papers",
+  "total": "4 theory papers",
   "paper": "",
   "subjects": {
+   "English": {
+    "mode": "written",
+    "duration": 180,
+    "marks": 80,
+    "note": "Board theory paper (+ internal)"
+   },
    "Science": {
     "mode": "written",
     "duration": 180,
@@ -379,9 +385,15 @@
   }
  },
  "board/cbse-12-science": {
-  "total": "4 theory papers",
+  "total": "5 theory papers",
   "paper": "",
   "subjects": {
+   "English": {
+    "mode": "written",
+    "duration": 180,
+    "marks": 80,
+    "note": "Board theory paper (+ internal)"
+   },
    "Physics": {
     "mode": "written",
     "duration": 180,
@@ -409,9 +421,15 @@
   }
  },
  "board/cbse-12-commerce": {
-  "total": "4 theory papers",
+  "total": "5 theory papers",
   "paper": "",
   "subjects": {
+   "English": {
+    "mode": "written",
+    "duration": 180,
+    "marks": 80,
+    "note": "Board theory paper (+ internal)"
+   },
    "Accountancy": {
     "mode": "written",
     "duration": 180,
@@ -439,9 +457,15 @@
   }
  },
  "board/cbse-12-arts": {
-  "total": "4 theory papers",
+  "total": "5 theory papers",
   "paper": "",
   "subjects": {
+   "English": {
+    "mode": "written",
+    "duration": 180,
+    "marks": 80,
+    "note": "Board theory paper (+ internal)"
+   },
    "History": {
     "mode": "written",
     "duration": 180,
@@ -469,9 +493,15 @@
   }
  },
  "board/up-10": {
-  "total": "4 theory papers",
+  "total": "5 theory papers",
   "paper": "",
   "subjects": {
+   "English": {
+    "mode": "written",
+    "duration": 180,
+    "marks": null,
+    "note": "Board theory paper (+ internal)"
+   },
    "Hindi": {
     "mode": "written",
     "duration": 180,
@@ -499,9 +529,15 @@
   }
  },
  "board/up-12-science": {
-  "total": "4 theory papers",
+  "total": "5 theory papers",
   "paper": "",
   "subjects": {
+   "English": {
+    "mode": "written",
+    "duration": 180,
+    "marks": null,
+    "note": "Board theory paper (+ internal)"
+   },
    "Physics": {
     "mode": "written",
     "duration": 180,
@@ -529,9 +565,15 @@
   }
  },
  "board/up-12-commerce": {
-  "total": "3 theory papers",
+  "total": "4 theory papers",
   "paper": "",
   "subjects": {
+   "English": {
+    "mode": "written",
+    "duration": 180,
+    "marks": null,
+    "note": "Board theory paper (+ internal)"
+   },
    "Accountancy": {
     "mode": "written",
     "duration": 180,
@@ -553,9 +595,15 @@
   }
  },
  "board/up-12-arts": {
-  "total": "4 theory papers",
+  "total": "5 theory papers",
   "paper": "",
   "subjects": {
+   "English": {
+    "mode": "written",
+    "duration": 180,
+    "marks": null,
+    "note": "Board theory paper (+ internal)"
+   },
    "Geography": {
     "mode": "written",
     "duration": 180,
@@ -583,9 +631,15 @@
   }
  },
  "board/bihar-10": {
-  "total": "3 theory papers",
+  "total": "4 theory papers",
   "paper": "",
   "subjects": {
+   "English": {
+    "mode": "written",
+    "duration": 180,
+    "marks": null,
+    "note": "Board theory paper (+ internal)"
+   },
    "Science": {
     "mode": "written",
     "duration": 180,
@@ -607,9 +661,15 @@
   }
  },
  "board/bihar-12-science": {
-  "total": "4 theory papers",
+  "total": "5 theory papers",
   "paper": "",
   "subjects": {
+   "English": {
+    "mode": "written",
+    "duration": 180,
+    "marks": null,
+    "note": "Board theory paper (+ internal)"
+   },
    "Physics": {
     "mode": "written",
     "duration": 180,
@@ -637,9 +697,15 @@
   }
  },
  "board/bihar-12-commerce": {
-  "total": "4 theory papers",
+  "total": "5 theory papers",
   "paper": "",
   "subjects": {
+   "English": {
+    "mode": "written",
+    "duration": 180,
+    "marks": null,
+    "note": "Board theory paper (+ internal)"
+   },
    "Entrepreneurship": {
     "mode": "written",
     "duration": 180,
@@ -667,9 +733,15 @@
   }
  },
  "board/bihar-12-arts": {
-  "total": "4 theory papers",
+  "total": "5 theory papers",
   "paper": "",
   "subjects": {
+   "English": {
+    "mode": "written",
+    "duration": 180,
+    "marks": null,
+    "note": "Board theory paper (+ internal)"
+   },
    "History": {
     "mode": "written",
     "duration": 180,
@@ -697,9 +769,15 @@
   }
  },
  "board/maharashtra-10": {
-  "total": "4 theory papers",
+  "total": "5 theory papers",
   "paper": "",
   "subjects": {
+   "English": {
+    "mode": "written",
+    "duration": 180,
+    "marks": null,
+    "note": "Board theory paper (+ internal)"
+   },
    "Science & Technology Part 1": {
     "mode": "written",
     "duration": 180,
@@ -727,9 +805,15 @@
   }
  },
  "board/maharashtra-12-science": {
-  "total": "4 theory papers",
+  "total": "5 theory papers",
   "paper": "",
   "subjects": {
+   "English": {
+    "mode": "written",
+    "duration": 180,
+    "marks": null,
+    "note": "Board theory paper (+ internal)"
+   },
    "Physics": {
     "mode": "written",
     "duration": 180,
@@ -757,9 +841,15 @@
   }
  },
  "board/maharashtra-12-commerce": {
-  "total": "4 theory papers",
+  "total": "5 theory papers",
   "paper": "",
   "subjects": {
+   "English": {
+    "mode": "written",
+    "duration": 180,
+    "marks": null,
+    "note": "Board theory paper (+ internal)"
+   },
    "Organisation of Commerce & Management": {
     "mode": "written",
     "duration": 180,
@@ -787,9 +877,15 @@
   }
  },
  "board/maharashtra-12-arts": {
-  "total": "1 theory papers",
+  "total": "2 theory papers",
   "paper": "",
   "subjects": {
+   "English": {
+    "mode": "written",
+    "duration": 180,
+    "marks": null,
+    "note": "Board theory paper (+ internal)"
+   },
    "Economics": {
     "mode": "written",
     "duration": 180,
@@ -799,9 +895,15 @@
   }
  },
  "board/others-10": {
-  "total": "3 theory papers",
+  "total": "4 theory papers",
   "paper": "",
   "subjects": {
+   "English": {
+    "mode": "written",
+    "duration": 180,
+    "marks": 80,
+    "note": "Board theory paper (+ internal)"
+   },
    "Science": {
     "mode": "written",
     "duration": 180,
@@ -823,9 +925,15 @@
   }
  },
  "board/others-12-science": {
-  "total": "4 theory papers",
+  "total": "5 theory papers",
   "paper": "",
   "subjects": {
+   "English": {
+    "mode": "written",
+    "duration": 180,
+    "marks": 80,
+    "note": "Board theory paper (+ internal)"
+   },
    "Physics": {
     "mode": "written",
     "duration": 180,
@@ -853,9 +961,15 @@
   }
  },
  "board/others-12-commerce": {
-  "total": "4 theory papers",
+  "total": "5 theory papers",
   "paper": "",
   "subjects": {
+   "English": {
+    "mode": "written",
+    "duration": 180,
+    "marks": 80,
+    "note": "Board theory paper (+ internal)"
+   },
    "Accountancy": {
     "mode": "written",
     "duration": 180,
@@ -883,9 +997,15 @@
   }
  },
  "board/others-12-arts": {
-  "total": "4 theory papers",
+  "total": "5 theory papers",
   "paper": "",
   "subjects": {
+   "English": {
+    "mode": "written",
+    "duration": 180,
+    "marks": 80,
+    "note": "Board theory paper (+ internal)"
+   },
    "History": {
     "mode": "written",
     "duration": 180,

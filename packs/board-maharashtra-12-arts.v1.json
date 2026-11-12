@@ -9,6 +9,48 @@
  "stream": "arts",
  "subjects": [
   {
+   "id": "english",
+   "name": "English",
+   "modules": [
+    {
+     "id": "yuvakbharati-section-1-prose-an-astrologer-s-day-on-saying-please",
+     "name": "Yuvakbharati Section 1: Prose (An Astrologer’s Day, On Saying “Please” …)",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "yuvakbharati-section-2-poetry-father-returning-home",
+     "name": "Yuvakbharati Section 2: Poetry (Father Returning Home …)",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "section-3-writing-skills",
+     "name": "Section 3: Writing Skills",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "section-4-genre-drama-novel",
+     "name": "Section 4: Genre (Drama / Novel)",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "grammar",
+     "name": "Grammar",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "reading-unseen-passages",
+     "name": "Reading: Unseen Passages",
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  },
+  {
    "name": "Economics",
    "modules": [
     {

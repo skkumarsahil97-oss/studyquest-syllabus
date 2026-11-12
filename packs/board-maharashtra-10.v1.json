@@ -9,6 +9,42 @@
  "stream": null,
  "subjects": [
   {
+   "id": "english",
+   "name": "English",
+   "modules": [
+    {
+     "id": "my-english-coursebook-prose",
+     "name": "My English Coursebook: Prose",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "my-english-coursebook-poetry",
+     "name": "My English Coursebook: Poetry",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "reading-unseen-passages",
+     "name": "Reading: Unseen Passages",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "grammar",
+     "name": "Grammar",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "writing-skills",
+     "name": "Writing Skills",
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  },
+  {
    "name": "Science & Technology Part 1",
    "modules": [
     {

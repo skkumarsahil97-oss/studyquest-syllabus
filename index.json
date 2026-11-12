@@ -14,160 +14,160 @@
      "name": "CBSE · Class 10",
      "pack": "packs/board-cbse-10.v1.json",
      "version": 1,
-     "subjects": 3,
-     "chapters": 49
+     "subjects": 4,
+     "chapters": 80
     },
     {
      "id": "cbse-12-science",
      "name": "CBSE · Class 12 · Science",
      "pack": "packs/board-cbse-12-science.v1.json",
      "version": 1,
-     "subjects": 4,
-     "chapters": 50
+     "subjects": 5,
+     "chapters": 71
     },
     {
      "id": "cbse-12-commerce",
      "name": "CBSE · Class 12 · Commerce",
      "pack": "packs/board-cbse-12-commerce.v1.json",
      "version": 1,
-     "subjects": 4,
-     "chapters": 38
+     "subjects": 5,
+     "chapters": 59
     },
     {
      "id": "cbse-12-arts",
      "name": "CBSE · Class 12 · Arts",
      "pack": "packs/board-cbse-12-arts.v1.json",
      "version": 1,
-     "subjects": 4,
-     "chapters": 47
+     "subjects": 5,
+     "chapters": 68
     },
     {
      "id": "up-10",
      "name": "UP Board · Class 10",
      "pack": "packs/board-up-10.v1.json",
      "version": 1,
-     "subjects": 4,
-     "chapters": 47
+     "subjects": 5,
+     "chapters": 78
     },
     {
      "id": "up-12-science",
      "name": "UP Board · Class 12 · Science",
      "pack": "packs/board-up-12-science.v1.json",
      "version": 1,
-     "subjects": 4,
-     "chapters": 49
+     "subjects": 5,
+     "chapters": 70
     },
     {
      "id": "up-12-commerce",
      "name": "UP Board · Class 12 · Commerce",
      "pack": "packs/board-up-12-commerce.v1.json",
      "version": 1,
-     "subjects": 3,
-     "chapters": 23
+     "subjects": 4,
+     "chapters": 44
     },
     {
      "id": "up-12-arts",
      "name": "UP Board · Class 12 · Arts",
      "pack": "packs/board-up-12-arts.v1.json",
      "version": 1,
-     "subjects": 4,
-     "chapters": 38
+     "subjects": 5,
+     "chapters": 59
     },
     {
      "id": "bihar-10",
      "name": "Bihar Board · Class 10",
      "pack": "packs/board-bihar-10.v1.json",
      "version": 1,
-     "subjects": 3,
-     "chapters": 50
+     "subjects": 4,
+     "chapters": 55
     },
     {
      "id": "bihar-12-science",
      "name": "Bihar Board · Class 12 · Science",
      "pack": "packs/board-bihar-12-science.v1.json",
      "version": 1,
-     "subjects": 4,
-     "chapters": 50
+     "subjects": 5,
+     "chapters": 55
     },
     {
      "id": "bihar-12-commerce",
      "name": "Bihar Board · Class 12 · Commerce",
      "pack": "packs/board-bihar-12-commerce.v1.json",
      "version": 1,
-     "subjects": 4,
-     "chapters": 32
+     "subjects": 5,
+     "chapters": 37
     },
     {
      "id": "bihar-12-arts",
      "name": "Bihar Board · Class 12 · Arts",
      "pack": "packs/board-bihar-12-arts.v1.json",
      "version": 1,
-     "subjects": 4,
-     "chapters": 43
+     "subjects": 5,
+     "chapters": 48
     },
     {
      "id": "maharashtra-10",
      "name": "Maharashtra Board · Class 10",
      "pack": "packs/board-maharashtra-10.v1.json",
      "version": 1,
-     "subjects": 4,
-     "chapters": 32
+     "subjects": 5,
+     "chapters": 37
     },
     {
      "id": "maharashtra-12-science",
      "name": "Maharashtra Board · Class 12 · Science",
      "pack": "packs/board-maharashtra-12-science.v1.json",
      "version": 1,
-     "subjects": 4,
-     "chapters": 62
+     "subjects": 5,
+     "chapters": 68
     },
     {
      "id": "maharashtra-12-commerce",
      "name": "Maharashtra Board · Class 12 · Commerce",
      "pack": "packs/board-maharashtra-12-commerce.v1.json",
      "version": 1,
-     "subjects": 4,
-     "chapters": 36
+     "subjects": 5,
+     "chapters": 42
     },
     {
      "id": "maharashtra-12-arts",
      "name": "Maharashtra Board · Class 12 · Arts",
      "pack": "packs/board-maharashtra-12-arts.v1.json",
      "version": 1,
-     "subjects": 1,
-     "chapters": 11
+     "subjects": 2,
+     "chapters": 17
     },
     {
      "id": "others-10",
      "name": "Other boards (NCERT-based) · Class 10",
      "pack": "packs/board-others-10.v1.json",
      "version": 1,
-     "subjects": 3,
-     "chapters": 49
+     "subjects": 4,
+     "chapters": 80
     },
     {
      "id": "others-12-science",
      "name": "Other boards (NCERT-based) · Class 12 · Science",
      "pack": "packs/board-others-12-science.v1.json",
      "version": 1,
-     "subjects": 4,
-     "chapters": 50
+     "subjects": 5,
+     "chapters": 71
     },
     {
      "id": "others-12-commerce",
      "name": "Other boards (NCERT-based) · Class 12 · Commerce",
      "pack": "packs/board-others-12-commerce.v1.json",
      "version": 1,
-     "subjects": 4,
-     "chapters": 38
+     "subjects": 5,
+     "chapters": 59
     },
     {
      "id": "others-12-arts",
      "name": "Other boards (NCERT-based) · Class 12 · Arts",
      "pack": "packs/board-others-12-arts.v1.json",
      "version": 1,
-     "subjects": 4,
-     "chapters": 47
+     "subjects": 5,
+     "chapters": 68
     }
    ]
   },

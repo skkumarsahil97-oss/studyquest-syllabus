@@ -9,6 +9,198 @@
  "stream": null,
  "subjects": [
   {
+   "id": "english",
+   "name": "English",
+   "modules": [
+    {
+     "id": "first-flight-a-letter-to-god",
+     "name": "First Flight: A Letter to God",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "first-flight-nelson-mandela-long-walk-to-freedom",
+     "name": "First Flight: Nelson Mandela: Long Walk to Freedom",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "first-flight-two-stories-about-flying",
+     "name": "First Flight: Two Stories about Flying",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "first-flight-from-the-diary-of-anne-frank",
+     "name": "First Flight: From the Diary of Anne Frank",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "first-flight-glimpses-of-india",
+     "name": "First Flight: Glimpses of India",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "first-flight-mijbil-the-otter",
+     "name": "First Flight: Mijbil the Otter",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "first-flight-madam-rides-the-bus",
+     "name": "First Flight: Madam Rides the Bus",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "first-flight-the-sermon-at-benares",
+     "name": "First Flight: The Sermon at Benares",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "first-flight-the-proposal",
+     "name": "First Flight: The Proposal",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "poem-dust-of-snow",
+     "name": "Poem: Dust of Snow",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "poem-fire-and-ice",
+     "name": "Poem: Fire and Ice",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "poem-a-tiger-in-the-zoo",
+     "name": "Poem: A Tiger in the Zoo",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "poem-how-to-tell-wild-animals",
+     "name": "Poem: How to Tell Wild Animals",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "poem-the-ball-poem",
+     "name": "Poem: The Ball Poem",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "poem-amanda",
+     "name": "Poem: Amanda!",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "poem-the-trees",
+     "name": "Poem: The Trees",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "poem-fog",
+     "name": "Poem: Fog",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "poem-the-tale-of-custard-the-dragon",
+     "name": "Poem: The Tale of Custard the Dragon",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "poem-for-anne-gregory",
+     "name": "Poem: For Anne Gregory",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "footprints-a-triumph-of-surgery",
+     "name": "Footprints: A Triumph of Surgery",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "footprints-the-thief-s-story",
+     "name": "Footprints: The Thief's Story",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "footprints-the-midnight-visitor",
+     "name": "Footprints: The Midnight Visitor",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "footprints-a-question-of-trust",
+     "name": "Footprints: A Question of Trust",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "footprints-footprints-without-feet",
+     "name": "Footprints: Footprints without Feet",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "footprints-the-making-of-a-scientist",
+     "name": "Footprints: The Making of a Scientist",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "footprints-the-necklace",
+     "name": "Footprints: The Necklace",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "footprints-bholi",
+     "name": "Footprints: Bholi",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "footprints-the-book-that-saved-the-earth",
+     "name": "Footprints: The Book That Saved the Earth",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "reading-unseen-passages",
+     "name": "Reading: Unseen Passages",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "grammar",
+     "name": "Grammar",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "writing-skills",
+     "name": "Writing Skills",
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  },
+  {
    "name": "Science",
    "modules": [
     {
