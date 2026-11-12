@@ -1,0 +1,105 @@
+{
+ "id": "practice-demo",
+ "questions": [
+  {
+   "id": "c9e43deadb",
+   "q": "Book : Author :: Painting : ?",
+   "a": "Painter",
+   "d": [],
+   "exp": "An author creates a book; a painter creates a painting.",
+   "marks": 4
+  },
+  {
+   "id": "20b757c1f6",
+   "q": "Pen : Write :: Knife : ?",
+   "a": "Cut",
+   "d": [],
+   "exp": "A pen is used to write; a knife is used to cut.",
+   "marks": 4
+  },
+  {
+   "id": "84a26ebd39",
+   "q": "Thermometer : Temperature :: Barometer : ?",
+   "a": "Pressure",
+   "d": [],
+   "exp": "A barometer measures atmospheric pressure.",
+   "marks": 4
+  },
+  {
+   "id": "a9b45dd59b",
+   "q": "Puppy : Dog :: Kitten : ?",
+   "a": "Cat",
+   "d": [],
+   "exp": "A kitten is the young one of a cat.",
+   "marks": 4
+  },
+  {
+   "id": "4793126c75",
+   "q": "Ornithology : Birds :: Entomology : ?",
+   "a": "Insects",
+   "d": [],
+   "exp": "Entomology is the study of insects.",
+   "marks": 4
+  },
+  {
+   "id": "f394ff41a1",
+   "q": "Hand : Glove :: Foot : ?",
+   "a": "Sock",
+   "d": [
+    "Toe",
+    "Knee",
+    "Ankle"
+   ],
+   "exp": "A glove covers the hand; a sock covers the foot.",
+   "marks": 4
+  },
+  {
+   "id": "d985aded72",
+   "q": "Statements: All cats are animals. All animals are living beings. Conclusion: All cats are living beings.",
+   "a": "It follows",
+   "d": [
+    "It does not follow",
+    "Only some cats are living beings",
+    "Cannot be decided"
+   ],
+   "exp": "All A are B and all B are C gives all A are C.",
+   "marks": 4
+  },
+  {
+   "id": "153ee3cfcb",
+   "q": "Statements: Some pens are blue. All blue things are bright. Which conclusion follows?",
+   "a": "Some pens are bright",
+   "d": [
+    "All pens are bright",
+    "No pen is bright",
+    "All bright things are pens"
+   ],
+   "exp": "The blue pens are bright because all blue things are bright.",
+   "marks": 4
+  },
+  {
+   "id": "04071e4b6e",
+   "q": "Statements: No dog is a cat. All cats are pets. Which conclusion follows?",
+   "a": "Some pets are not dogs",
+   "d": [
+    "No pet is a dog",
+    "All pets are cats",
+    "All dogs are pets"
+   ],
+   "exp": "The cats are pets and none of them is a dog.",
+   "marks": 4
+  },
+  {
+   "id": "fa96e685ff",
+   "q": "Statements: All roses are flowers. Some flowers fade quickly. Conclusion: Some roses fade quickly.",
+   "a": "Does not follow",
+   "d": [
+    "Definitely follows",
+    "Follows only if all flowers fade",
+    "Follows if roses are red"
+   ],
+   "exp": "The flowers that fade quickly may not include any roses.",
+   "marks": 4
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "version": 1,
+ "events": [
+  {
+   "id": "practice-demo",
+   "kind": "practice",
+   "title": "Practice Live · Demo",
+   "course": "cuetpg",
+   "level": "management",
+   "start": "2026-11-12T00:00:00+05:30",
+   "minutes": 43200,
+   "correct": 4,
+   "wrong": -1,
+   "pack": "live/practice-demo.json",
+   "demo": true
+  },
+  {
+   "id": "monthly-2026-12",
+   "kind": "monthly",
+   "title": "Monthly Challenge · December",
+   "course": "cuetpg",
+   "level": "management",
+   "start": "2026-12-27T11:00:00+05:30",
+   "minutes": 60,
+   "correct": 4,
+   "wrong": -1,
+   "pack": "live/monthly-2026-12.json",
+   "demo": true
+  }
+ ]
+}
