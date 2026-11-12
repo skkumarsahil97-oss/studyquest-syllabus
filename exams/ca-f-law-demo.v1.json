@@ -1,0 +1,40 @@
+{
+ "id": "ca-f-law-demo",
+ "title": "Business Laws · Demo Mock",
+ "subject": "Business Laws",
+ "duration": 30,
+ "total": 13,
+ "partB": [
+  {"q": "Under the Indian Contract Act, 1872, an agreement enforceable by law is a:", "options": ["Promise", "Contract", "Proposal", "Consideration"], "answer": 1, "marks": 1, "chapter": "Indian Contract Act, 1872"},
+  {"q": "A stipulation essential to the main purpose of a contract of sale is called a:", "options": ["Warranty", "Guarantee", "Condition", "Indemnity"], "answer": 2, "marks": 1, "chapter": "Sale of Goods Act, 1930"},
+  {"q": "An agreement made with a minor is:", "options": ["Valid", "Voidable", "Void ab initio", "Illegal but enforceable"], "answer": 2, "marks": 1, "chapter": "Indian Contract Act, 1872"}
+ ],
+ "partA": [
+  {
+   "no": "1",
+   "marks": 5,
+   "type": "theory",
+   "chapter": "Indian Contract Act, 1872",
+   "question": "Ram agrees to sell his car to Shyam for ₹5 lakh. Both are adults of sound mind, both freely agree, and the purpose is lawful. Is this a valid contract? State the essentials of a valid contract.",
+   "scheme": [
+    {"step": "Provision: Sec 2(h) definition + Sec 10 (essentials of valid contract)", "marks": 1.5, "model": "Sec 2(h): an agreement enforceable by law is a contract. Sec 10: agreements made by free consent of competent parties, for lawful consideration and lawful object, not expressly declared void."},
+    {"step": "Essentials listed (offer & acceptance, intention, consideration, capacity, free consent, lawful object, not void)", "marks": 2, "model": "Lawful offer and acceptance, intention to create legal relations, lawful consideration, capacity of parties, free consent, lawful object, certainty, possibility of performance, not declared void."},
+    {"step": "Applied to the facts + conclusion: valid contract", "marks": 1, "model": "All essentials are satisfied in the facts, so it is a valid contract enforceable by law."},
+    {"step": "Presentation (provision → analysis → conclusion)", "marks": 0.5}
+   ]
+  },
+  {
+   "no": "2",
+   "marks": 5,
+   "type": "theory",
+   "chapter": "Sale of Goods Act, 1930",
+   "question": "Distinguish between a condition and a warranty under the Sale of Goods Act, 1930. What remedy does the buyer have in each case?",
+   "scheme": [
+    {"step": "Definitions: condition Sec 12(2), warranty Sec 12(3)", "marks": 1.5, "model": "Condition: stipulation essential to the main purpose of the contract. Warranty: stipulation collateral to the main purpose."},
+    {"step": "Differences (nature, effect of breach, possible treatment of condition as warranty)", "marks": 2, "model": "Breach of condition gives a right to repudiate; breach of warranty gives only damages. A breach of condition may be treated as a breach of warranty (Sec 13), not vice versa."},
+    {"step": "Remedies: repudiate + damages for condition; damages only for warranty", "marks": 1},
+    {"step": "Presentation (table / points)", "marks": 0.5}
+   ]
+  }
+ ]
+}

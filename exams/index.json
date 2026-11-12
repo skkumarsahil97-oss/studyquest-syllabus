@@ -1,0 +1,19 @@
+{
+ "version": 1,
+ "papers": [
+  {
+   "id": "ca-f-law-demo",
+   "course": "ca",
+   "level": "foundation",
+   "title": "Business Laws · Demo Mock",
+   "subject": "Business Laws",
+   "release": "2026-11-12T00:00:00+05:30",
+   "closes": "2026-12-31T23:59:00+05:30",
+   "result": "2026-11-12T00:00:00+05:30",
+   "duration": 30,
+   "price": 49,
+   "pack": "exams/ca-f-law-demo.v1.json",
+   "demo": true
+  }
+ ]
+}
