@@ -1,0 +1,357 @@
+{
+ "version": 1,
+ "ca/foundation": {
+  "total": "4 papers · 400 marks",
+  "paper": "",
+  "subjects": {
+   "Accounting": {
+    "mode": "written",
+    "duration": 180,
+    "marks": 100,
+    "note": "Descriptive answers · no negative marking"
+   },
+   "Business Laws": {
+    "mode": "written",
+    "duration": 180,
+    "marks": 100,
+    "note": "Descriptive answers · no negative marking"
+   },
+   "Quantitative Aptitude": {
+    "mode": "online",
+    "duration": 120,
+    "marks": 100,
+    "note": "Objective MCQs · 0.25 marks cut per wrong answer"
+   },
+   "Business Economics": {
+    "mode": "online",
+    "duration": 120,
+    "marks": 100,
+    "note": "Objective MCQs · 0.25 marks cut per wrong answer"
+   }
+  }
+ },
+ "ca/intermediate": {
+  "total": "6 papers · 600 marks",
+  "paper": "",
+  "subjects": {
+   "Advanced Accounting": {
+    "mode": "mixed",
+    "duration": 180,
+    "marks": 100,
+    "note": "30 marks MCQ + 70 marks written · no negative marking"
+   },
+   "Corporate and Other Laws": {
+    "mode": "mixed",
+    "duration": 180,
+    "marks": 100,
+    "note": "30 marks MCQ + 70 marks written · no negative marking"
+   },
+   "Taxation": {
+    "mode": "mixed",
+    "duration": 180,
+    "marks": 100,
+    "note": "30 marks MCQ + 70 marks written · no negative marking"
+   },
+   "Cost and Management Accounting": {
+    "mode": "mixed",
+    "duration": 180,
+    "marks": 100,
+    "note": "30 marks MCQ + 70 marks written · no negative marking"
+   },
+   "Auditing and Ethics": {
+    "mode": "mixed",
+    "duration": 180,
+    "marks": 100,
+    "note": "30 marks MCQ + 70 marks written · no negative marking"
+   },
+   "Financial Management & Strategic Management": {
+    "mode": "mixed",
+    "duration": 180,
+    "marks": 100,
+    "note": "30 marks MCQ + 70 marks written · no negative marking"
+   }
+  }
+ },
+ "ca/final": {
+  "total": "6 papers · 600 marks",
+  "paper": "",
+  "subjects": {
+   "Financial Reporting (FR)": {
+    "mode": "written",
+    "duration": 180,
+    "marks": 100,
+    "note": "Written, case-study based answers"
+   },
+   "Advanced Financial Management (AFM)": {
+    "mode": "written",
+    "duration": 180,
+    "marks": 100,
+    "note": "Written, case-study based answers"
+   },
+   "Advanced Auditing, Assurance & Ethics": {
+    "mode": "written",
+    "duration": 180,
+    "marks": 100,
+    "note": "Written, case-study based answers"
+   },
+   "Direct Tax Laws & International Taxation": {
+    "mode": "written",
+    "duration": 180,
+    "marks": 100,
+    "note": "Written, case-study based answers"
+   },
+   "Indirect Tax Laws": {
+    "mode": "written",
+    "duration": 180,
+    "marks": 100,
+    "note": "Written, case-study based answers"
+   },
+   "Integrated Business Solutions": {
+    "mode": "written",
+    "duration": 180,
+    "marks": 100,
+    "note": "Written, case-study based answers"
+   }
+  }
+ },
+ "upsc/prelims": {
+  "total": "2 papers · 400 marks",
+  "paper": "",
+  "subjects": {
+   "General Studies Paper I": {
+    "mode": "online",
+    "duration": 120,
+    "marks": 200,
+    "note": "Counts for merit · ⅓ mark cut per wrong answer"
+   },
+   "CSAT (Paper II)": {
+    "mode": "online",
+    "duration": 120,
+    "marks": 200,
+    "note": "Qualifying: need 33% · ⅓ mark cut per wrong answer"
+   }
+  }
+ },
+ "upsc/mains": {
+  "total": "Written 1750 marks + Interview 275",
+  "paper": "",
+  "subjects": {
+   "Qualifying Papers": {
+    "mode": "written",
+    "duration": 180,
+    "marks": 250,
+    "note": "Answer writing (150/250-word answers)"
+   },
+   "Essay": {
+    "mode": "written",
+    "duration": 180,
+    "marks": 250,
+    "note": "Answer writing (150/250-word answers)"
+   },
+   "GS I: Culture, History, Geography, Society": {
+    "mode": "written",
+    "duration": 180,
+    "marks": 250,
+    "note": "Answer writing (150/250-word answers)"
+   },
+   "GS II: Polity, Governance, IR": {
+    "mode": "written",
+    "duration": 180,
+    "marks": 250,
+    "note": "Answer writing (150/250-word answers)"
+   },
+   "GS III: Economy, Science, Environment, Security": {
+    "mode": "written",
+    "duration": 180,
+    "marks": 250,
+    "note": "Answer writing (150/250-word answers)"
+   },
+   "GS IV: Ethics, Integrity & Aptitude": {
+    "mode": "written",
+    "duration": 180,
+    "marks": 250,
+    "note": "Answer writing (150/250-word answers)"
+   }
+  }
+ },
+ "upsc/interview": {
+  "total": "Personality test · 275 marks",
+  "paper": "",
+  "subjects": {
+   "Personality Test": {
+    "mode": "interview",
+    "duration": 0,
+    "marks": 275,
+    "note": "Interview board · no written paper"
+   }
+  }
+ },
+ "cuetpg/science": {
+  "total": "1 paper · 300 marks",
+  "paper": "One paper · 75 questions · 300 marks · 90 min · +4 / −1 (computer-based)",
+  "subjects": {
+   "Language Comprehension": {
+    "mode": "online",
+    "duration": 90,
+    "marks": null,
+    "note": "A section of the single 75-question paper"
+   },
+   "Verbal & Logical Reasoning": {
+    "mode": "online",
+    "duration": 90,
+    "marks": null,
+    "note": "A section of the single 75-question paper"
+   },
+   "Quantitative Ability & DI": {
+    "mode": "online",
+    "duration": 90,
+    "marks": null,
+    "note": "A section of the single 75-question paper"
+   },
+   "Physics / Chemistry Core": {
+    "mode": "online",
+    "duration": 90,
+    "marks": null,
+    "note": "A section of the single 75-question paper"
+   },
+   "Life Sciences Core": {
+    "mode": "online",
+    "duration": 90,
+    "marks": null,
+    "note": "A section of the single 75-question paper"
+   }
+  }
+ },
+ "cuetpg/management": {
+  "total": "1 paper · 300 marks",
+  "paper": "One paper · 75 questions · 300 marks · 90 min · +4 / −1 (computer-based)",
+  "subjects": {
+   "Language Comprehension": {
+    "mode": "online",
+    "duration": 90,
+    "marks": null,
+    "note": "A section of the single 75-question paper"
+   },
+   "Verbal & Logical Reasoning": {
+    "mode": "online",
+    "duration": 90,
+    "marks": null,
+    "note": "A section of the single 75-question paper"
+   },
+   "Quantitative Ability & DI": {
+    "mode": "online",
+    "duration": 90,
+    "marks": null,
+    "note": "A section of the single 75-question paper"
+   },
+   "Management Aptitude": {
+    "mode": "online",
+    "duration": 90,
+    "marks": null,
+    "note": "A section of the single 75-question paper"
+   }
+  }
+ },
+ "cuetpg/humanities": {
+  "total": "1 paper · 300 marks",
+  "paper": "One paper · 75 questions · 300 marks · 90 min · +4 / −1 (computer-based)",
+  "subjects": {
+   "Language Comprehension": {
+    "mode": "online",
+    "duration": 90,
+    "marks": null,
+    "note": "A section of the single 75-question paper"
+   },
+   "Verbal & Logical Reasoning": {
+    "mode": "online",
+    "duration": 90,
+    "marks": null,
+    "note": "A section of the single 75-question paper"
+   },
+   "Quantitative Ability & DI": {
+    "mode": "online",
+    "duration": 90,
+    "marks": null,
+    "note": "A section of the single 75-question paper"
+   },
+   "Humanities & Social Sciences": {
+    "mode": "online",
+    "duration": 90,
+    "marks": null,
+    "note": "A section of the single 75-question paper"
+   }
+  }
+ },
+ "jee/main": {
+  "total": "1 paper · 300 marks",
+  "paper": "JEE Main: 75 questions · 300 marks · 3 h · computer-based · +4 / −1 (MCQ)",
+  "subjects": {
+   "Physics": {
+    "mode": "online",
+    "duration": 180,
+    "marks": 100,
+    "note": "25 questions (20 MCQ + 5 numerical) in the full paper"
+   },
+   "Chemistry": {
+    "mode": "online",
+    "duration": 180,
+    "marks": 100,
+    "note": "25 questions (20 MCQ + 5 numerical) in the full paper"
+   },
+   "Mathematics": {
+    "mode": "online",
+    "duration": 180,
+    "marks": 100,
+    "note": "25 questions (20 MCQ + 5 numerical) in the full paper"
+   }
+  }
+ },
+ "jee/advanced": {
+  "total": "JEE Main 300 marks + JEE Advanced (2 papers × 3 h)",
+  "paper": "JEE Main: 75 questions · 300 marks · 3 h · computer-based · +4 / −1 (MCQ)",
+  "subjects": {
+   "Physics": {
+    "mode": "online",
+    "duration": 180,
+    "marks": 100,
+    "note": "25 questions (20 MCQ + 5 numerical) in the full paper"
+   },
+   "Chemistry": {
+    "mode": "online",
+    "duration": 180,
+    "marks": 100,
+    "note": "25 questions (20 MCQ + 5 numerical) in the full paper"
+   },
+   "Mathematics": {
+    "mode": "online",
+    "duration": 180,
+    "marks": 100,
+    "note": "25 questions (20 MCQ + 5 numerical) in the full paper"
+   }
+  }
+ },
+ "neet/ug": {
+  "total": "1 paper · 720 marks",
+  "paper": "180 questions · 720 marks · 3 h · pen & paper (OMR) · +4 / −1",
+  "subjects": {
+   "Physics": {
+    "mode": "online",
+    "duration": 180,
+    "marks": 180,
+    "note": "45 questions in the full paper"
+   },
+   "Chemistry": {
+    "mode": "online",
+    "duration": 180,
+    "marks": 180,
+    "note": "45 questions in the full paper"
+   },
+   "Biology": {
+    "mode": "online",
+    "duration": 180,
+    "marks": 360,
+    "note": "90 questions in the full paper"
+   }
+  }
+ }
+}
