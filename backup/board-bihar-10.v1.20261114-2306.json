@@ -1,0 +1,438 @@
+{
+ "id": "board-bihar-10",
+ "course": "board",
+ "level": "bihar-10",
+ "name": "Bihar Board · Class 10",
+ "version": 3,
+ "board": "bihar",
+ "class": "10",
+ "stream": null,
+ "subjects": [
+  {
+   "id": "english",
+   "name": "English",
+   "modules": [
+    {
+     "id": "panorama-english-reader-prose",
+     "name": "Panorama English Reader: Prose",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "panorama-english-reader-poetry",
+     "name": "Panorama English Reader: Poetry",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "reading-unseen-passages",
+     "name": "Reading: Unseen Passages",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "grammar",
+     "name": "Grammar",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "writing-letter-application-essay",
+     "name": "Writing: Letter, Application, Essay",
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  },
+  {
+   "id": "hindi",
+   "name": "Hindi",
+   "modules": [
+    {
+     "id": "godhuli-digant-gadya-khand",
+     "name": "Godhuli / Digant: Gadya Khand",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "godhuli-digant-kavya-khand",
+     "name": "Godhuli / Digant: Kavya Khand",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "varnika-antral",
+     "name": "Varnika / Antral",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "vyakaran",
+     "name": "Vyakaran",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "nibandh-evam-patra-lekhan",
+     "name": "Nibandh evam Patra Lekhan",
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  },
+  {
+   "id": "sanskrit",
+   "name": "Sanskrit",
+   "modules": [
+    {
+     "id": "gadya-bhag",
+     "name": "Gadya Bhag",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "padya-bhag",
+     "name": "Padya Bhag",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "vyakaran-sandhi-samas-karak-pratyay",
+     "name": "Vyakaran (Sandhi, Samas, Karak, Pratyay)",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "anuvad",
+     "name": "Anuvad",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "rachana-patra-anuchchhed",
+     "name": "Rachana (Patra, Anuchchhed)",
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  },
+  {
+   "name": "Science",
+   "modules": [
+    {
+     "name": "Prakash ka Paravartan tatha Apavartan",
+     "topics": [],
+     "status": "verified",
+     "id": "prakash-ka-paravartan-tatha-apavartan"
+    },
+    {
+     "name": "Manav Netra tatha Rangbiranga Sansar",
+     "topics": [],
+     "status": "verified",
+     "id": "manav-netra-tatha-rangbiranga-sansar"
+    },
+    {
+     "name": "Vidyut",
+     "topics": [],
+     "status": "verified",
+     "id": "vidyut"
+    },
+    {
+     "name": "Vidyut Dhara ke Chumbakiya Prabhav",
+     "topics": [],
+     "status": "verified",
+     "id": "vidyut-dhara-ke-chumbakiya-prabhav"
+    },
+    {
+     "name": "Rasayanik Abhikriyayein",
+     "topics": [],
+     "status": "verified",
+     "id": "rasayanik-abhikriyayein"
+    },
+    {
+     "name": "Amla, Bhasma aur Lavan",
+     "topics": [],
+     "status": "verified",
+     "id": "amla-bhasma-aur-lavan"
+    },
+    {
+     "name": "Dhatu aur Adhatu",
+     "topics": [],
+     "status": "verified",
+     "id": "dhatu-aur-adhatu"
+    },
+    {
+     "name": "Carbon aur uske Yaugik",
+     "topics": [],
+     "status": "verified",
+     "id": "carbon-aur-uske-yaugik"
+    },
+    {
+     "name": "Jaiv Prakram",
+     "topics": [],
+     "status": "verified",
+     "id": "jaiv-prakram"
+    },
+    {
+     "name": "Niyantran aur Samanvay",
+     "topics": [],
+     "status": "verified",
+     "id": "niyantran-aur-samanvay"
+    },
+    {
+     "name": "Jeev Janan kaise karte hai",
+     "topics": [],
+     "status": "verified",
+     "id": "jeev-janan-kaise-karte-hai"
+    },
+    {
+     "name": "Anuvanshiktva",
+     "topics": [],
+     "status": "verified",
+     "id": "anuvanshiktva"
+    },
+    {
+     "name": "Hamara Paryavaran",
+     "topics": [],
+     "status": "verify",
+     "id": "hamara-paryavaran"
+    }
+   ],
+   "id": "science"
+  },
+  {
+   "name": "Mathematics",
+   "modules": [
+    {
+     "name": "Bahupad",
+     "topics": [],
+     "status": "verified",
+     "id": "bahupad"
+    },
+    {
+     "name": "Do char wale Raikhik Samikaran",
+     "topics": [],
+     "status": "verified",
+     "id": "do-char-wale-raikhik-samikaran"
+    },
+    {
+     "name": "Dwigat Samikaran",
+     "topics": [],
+     "status": "verified",
+     "id": "dwigat-samikaran"
+    },
+    {
+     "name": "Samantar Shreni",
+     "topics": [],
+     "status": "verified",
+     "id": "samantar-shreni"
+    },
+    {
+     "name": "Tribhuj",
+     "topics": [],
+     "status": "verified",
+     "id": "tribhuj"
+    },
+    {
+     "name": "Vrit",
+     "topics": [],
+     "status": "verified",
+     "id": "vrit"
+    },
+    {
+     "name": "Rachnayein",
+     "topics": [],
+     "status": "verified",
+     "id": "rachnayein"
+    },
+    {
+     "name": "Nirdeshank Jyamiti",
+     "topics": [],
+     "status": "verified",
+     "id": "nirdeshank-jyamiti"
+    },
+    {
+     "name": "Vastavik Sankhyayein",
+     "topics": [],
+     "status": "verify",
+     "id": "vastavik-sankhyayein"
+    },
+    {
+     "name": "Trikonmiti ka Parichay",
+     "topics": [],
+     "status": "verify",
+     "id": "trikonmiti-ka-parichay"
+    },
+    {
+     "name": "Trikonmiti ke Anuprayog",
+     "topics": [],
+     "status": "verify",
+     "id": "trikonmiti-ke-anuprayog"
+    },
+    {
+     "name": "Vrit se Sambandhit Kshetrafal",
+     "topics": [],
+     "status": "verify",
+     "id": "vrit-se-sambandhit-kshetrafal"
+    },
+    {
+     "name": "Prishthiya Kshetrafal aur Aayatan",
+     "topics": [],
+     "status": "verify",
+     "id": "prishthiya-kshetrafal-aur-aayatan"
+    },
+    {
+     "name": "Sankhyiki",
+     "topics": [],
+     "status": "verify",
+     "id": "sankhyiki"
+    },
+    {
+     "name": "Prayikta",
+     "topics": [],
+     "status": "verify",
+     "id": "prayikta"
+    }
+   ],
+   "id": "mathematics"
+  },
+  {
+   "name": "Social Science",
+   "modules": [
+    {
+     "name": "History: Rise of Nationalism in Europe",
+     "topics": [],
+     "status": "verify",
+     "id": "history-rise-of-nationalism-in-europe"
+    },
+    {
+     "name": "History: Nationalism in India",
+     "topics": [],
+     "status": "verify",
+     "id": "history-nationalism-in-india"
+    },
+    {
+     "name": "History: The Making of a Global World",
+     "topics": [],
+     "status": "verify",
+     "id": "history-the-making-of-a-global-world"
+    },
+    {
+     "name": "History: The Age of Industrialisation",
+     "topics": [],
+     "status": "verify",
+     "id": "history-the-age-of-industrialisation"
+    },
+    {
+     "name": "History: Print Culture and the Modern World",
+     "topics": [],
+     "status": "verify",
+     "id": "history-print-culture-and-the-modern-world"
+    },
+    {
+     "name": "Geography: Resources and Development",
+     "topics": [],
+     "status": "verify",
+     "id": "geography-resources-and-development"
+    },
+    {
+     "name": "Geography: Forest and Wildlife Resources",
+     "topics": [],
+     "status": "verify",
+     "id": "geography-forest-and-wildlife-resources"
+    },
+    {
+     "name": "Geography: Water Resources",
+     "topics": [],
+     "status": "verify",
+     "id": "geography-water-resources"
+    },
+    {
+     "name": "Geography: Agriculture",
+     "topics": [],
+     "status": "verify",
+     "id": "geography-agriculture"
+    },
+    {
+     "name": "Geography: Minerals and Energy Resources",
+     "topics": [],
+     "status": "verify",
+     "id": "geography-minerals-and-energy-resources"
+    },
+    {
+     "name": "Geography: Manufacturing Industries",
+     "topics": [],
+     "status": "verify",
+     "id": "geography-manufacturing-industries"
+    },
+    {
+     "name": "Geography: Lifelines of National Economy",
+     "topics": [],
+     "status": "verify",
+     "id": "geography-lifelines-of-national-economy"
+    },
+    {
+     "name": "Civics: Power Sharing",
+     "topics": [],
+     "status": "verify",
+     "id": "civics-power-sharing"
+    },
+    {
+     "name": "Civics: Federalism",
+     "topics": [],
+     "status": "verify",
+     "id": "civics-federalism"
+    },
+    {
+     "name": "Civics: Gender, Religion and Caste",
+     "topics": [],
+     "status": "verify",
+     "id": "civics-gender-religion-and-caste"
+    },
+    {
+     "name": "Civics: Political Parties",
+     "topics": [],
+     "status": "verify",
+     "id": "civics-political-parties"
+    },
+    {
+     "name": "Civics: Outcomes of Democracy",
+     "topics": [],
+     "status": "verify",
+     "id": "civics-outcomes-of-democracy"
+    },
+    {
+     "name": "Economics: Development",
+     "topics": [],
+     "status": "verify",
+     "id": "economics-development"
+    },
+    {
+     "name": "Economics: Sectors of the Indian Economy",
+     "topics": [],
+     "status": "verify",
+     "id": "economics-sectors-of-the-indian-economy"
+    },
+    {
+     "name": "Economics: Money and Credit",
+     "topics": [],
+     "status": "verify",
+     "id": "economics-money-and-credit"
+    },
+    {
+     "name": "Economics: Globalisation and the Indian Economy",
+     "topics": [],
+     "status": "verify",
+     "id": "economics-globalisation-and-the-indian-economy"
+    },
+    {
+     "name": "Economics: Consumer Rights",
+     "topics": [],
+     "status": "verify",
+     "id": "economics-consumer-rights"
+    }
+   ],
+   "id": "social-science"
+  }
+ ]
+}

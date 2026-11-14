@@ -3,7 +3,7 @@
  "course": "board",
  "level": "bihar-12-science",
  "name": "Bihar Board · Class 12 · Science",
- "version": 3,
+ "version": 4,
  "board": "bihar",
  "class": "12",
  "stream": "science",
@@ -87,85 +87,113 @@
      "name": "Vaidyut Avesh tatha Kshetra",
      "topics": [],
      "status": "verified",
-     "id": "vaidyut-avesh-tatha-kshetra"
+     "id": "vaidyut-avesh-tatha-kshetra",
+     "weight": 7.6,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Sthir Vaidyut Vibhav",
      "topics": [],
      "status": "verified",
-     "id": "sthir-vaidyut-vibhav"
+     "id": "sthir-vaidyut-vibhav",
+     "weight": 7.6,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Vidyut Dhara",
      "topics": [],
      "status": "verified",
-     "id": "vidyut-dhara"
+     "id": "vidyut-dhara",
+     "weight": 7.6,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Gatiman Avesh aur Chumbakatva",
      "topics": [],
      "status": "verified",
-     "id": "gatiman-avesh-aur-chumbakatva"
+     "id": "gatiman-avesh-aur-chumbakatva",
+     "weight": 6.1,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Kiran Prakashiki",
      "topics": [],
      "status": "verified",
-     "id": "kiran-prakashiki"
+     "id": "kiran-prakashiki",
+     "weight": 8.6,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Tarang Prakashiki",
      "topics": [],
      "status": "verified",
-     "id": "tarang-prakashiki"
+     "id": "tarang-prakashiki",
+     "weight": 8.6,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Vikiran tatha Dravya ki Dwait Prakriti",
      "topics": [],
      "status": "verified",
-     "id": "vikiran-tatha-dravya-ki-dwait-prakriti"
+     "id": "vikiran-tatha-dravya-ki-dwait-prakriti",
+     "weight": 5.7,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Nabhik",
      "topics": [],
      "status": "verified",
-     "id": "nabhik"
+     "id": "nabhik",
+     "weight": 5.7,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Ardhchalak",
      "topics": [],
      "status": "verified",
-     "id": "ardhchalak"
+     "id": "ardhchalak",
+     "weight": 10.0,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Chumbakatva evam Dravya",
      "topics": [],
      "status": "verify",
-     "id": "chumbakatva-evam-dravya"
+     "id": "chumbakatva-evam-dravya",
+     "weight": 6.1,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Vaidyut Chumbakiya Prerna",
      "topics": [],
      "status": "verify",
-     "id": "vaidyut-chumbakiya-prerna"
+     "id": "vaidyut-chumbakiya-prerna",
+     "weight": 6.1,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Pratyavarti Dhara",
      "topics": [],
      "status": "verify",
-     "id": "pratyavarti-dhara"
+     "id": "pratyavarti-dhara",
+     "weight": 6.1,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Vaidyut Chumbakiya Tarange",
      "topics": [],
      "status": "verify",
-     "id": "vaidyut-chumbakiya-tarange"
+     "id": "vaidyut-chumbakiya-tarange",
+     "weight": 8.6,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Parmanu",
      "topics": [],
      "status": "verify",
-     "id": "parmanu"
+     "id": "parmanu",
+     "weight": 5.7,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     }
    ],
    "id": "physics"
@@ -177,61 +205,81 @@
      "name": "Solutions",
      "topics": [],
      "status": "verified",
-     "id": "solutions"
+     "id": "solutions",
+     "weight": 10.0,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Electrochemistry",
      "topics": [],
      "status": "verified",
-     "id": "electrochemistry"
+     "id": "electrochemistry",
+     "weight": 12.9,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Chemical Kinetics",
      "topics": [],
      "status": "verified",
-     "id": "chemical-kinetics"
+     "id": "chemical-kinetics",
+     "weight": 10.0,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "d and f Block Elements",
      "topics": [],
      "status": "verified",
-     "id": "d-and-f-block-elements"
+     "id": "d-and-f-block-elements",
+     "weight": 10.0,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Coordination Compounds",
      "topics": [],
      "status": "verified",
-     "id": "coordination-compounds"
+     "id": "coordination-compounds",
+     "weight": 10.0,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Haloalkanes and Haloarenes",
      "topics": [],
      "status": "verified",
-     "id": "haloalkanes-and-haloarenes"
+     "id": "haloalkanes-and-haloarenes",
+     "weight": 8.6,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Alcohols, Phenols and Ethers",
      "topics": [],
      "status": "verified",
-     "id": "alcohols-phenols-and-ethers"
+     "id": "alcohols-phenols-and-ethers",
+     "weight": 8.6,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Aldehydes, Ketones and Carboxylic Acids",
      "topics": [],
      "status": "verified",
-     "id": "aldehydes-ketones-and-carboxylic-acids"
+     "id": "aldehydes-ketones-and-carboxylic-acids",
+     "weight": 11.4,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Amines",
      "topics": [],
      "status": "verified",
-     "id": "amines"
+     "id": "amines",
+     "weight": 8.6,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Biomolecules",
      "topics": [],
      "status": "verified",
-     "id": "biomolecules"
+     "id": "biomolecules",
+     "weight": 10.0,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     }
    ],
    "id": "chemistry"
@@ -243,79 +291,105 @@
      "name": "Relations and Functions",
      "topics": [],
      "status": "verify",
-     "id": "relations-and-functions"
+     "id": "relations-and-functions",
+     "weight": 5.0,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Inverse Trigonometric Functions",
      "topics": [],
      "status": "verify",
-     "id": "inverse-trigonometric-functions"
+     "id": "inverse-trigonometric-functions",
+     "weight": 5.0,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Matrices",
      "topics": [],
      "status": "verify",
-     "id": "matrices"
+     "id": "matrices",
+     "weight": 6.2,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Determinants",
      "topics": [],
      "status": "verify",
-     "id": "determinants"
+     "id": "determinants",
+     "weight": 6.2,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Continuity and Differentiability",
      "topics": [],
      "status": "verify",
-     "id": "continuity-and-differentiability"
+     "id": "continuity-and-differentiability",
+     "weight": 8.8,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Application of Derivatives",
      "topics": [],
      "status": "verify",
-     "id": "application-of-derivatives"
+     "id": "application-of-derivatives",
+     "weight": 8.8,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Integrals",
      "topics": [],
      "status": "verify",
-     "id": "integrals"
+     "id": "integrals",
+     "weight": 8.8,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Application of Integrals",
      "topics": [],
      "status": "verify",
-     "id": "application-of-integrals"
+     "id": "application-of-integrals",
+     "weight": 8.8,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Differential Equations",
      "topics": [],
      "status": "verify",
-     "id": "differential-equations"
+     "id": "differential-equations",
+     "weight": 8.8,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Vector Algebra",
      "topics": [],
      "status": "verify",
-     "id": "vector-algebra"
+     "id": "vector-algebra",
+     "weight": 8.8,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Three Dimensional Geometry",
      "topics": [],
      "status": "verify",
-     "id": "three-dimensional-geometry"
+     "id": "three-dimensional-geometry",
+     "weight": 8.8,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Linear Programming",
      "topics": [],
      "status": "verify",
-     "id": "linear-programming"
+     "id": "linear-programming",
+     "weight": 6.2,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Probability",
      "topics": [],
      "status": "verify",
-     "id": "probability"
+     "id": "probability",
+     "weight": 10.0,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     }
    ],
    "id": "mathematics"
@@ -327,79 +401,105 @@
      "name": "Sexual Reproduction in Flowering Plants",
      "topics": [],
      "status": "verify",
-     "id": "sexual-reproduction-in-flowering-plants"
+     "id": "sexual-reproduction-in-flowering-plants",
+     "weight": 7.6,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Human Reproduction",
      "topics": [],
      "status": "verify",
-     "id": "human-reproduction"
+     "id": "human-reproduction",
+     "weight": 7.6,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Reproductive Health",
      "topics": [],
      "status": "verify",
-     "id": "reproductive-health"
+     "id": "reproductive-health",
+     "weight": 7.6,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Principles of Inheritance and Variation",
      "topics": [],
      "status": "verify",
-     "id": "principles-of-inheritance-and-variation"
+     "id": "principles-of-inheritance-and-variation",
+     "weight": 9.5,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Molecular Basis of Inheritance",
      "topics": [],
      "status": "verify",
-     "id": "molecular-basis-of-inheritance"
+     "id": "molecular-basis-of-inheritance",
+     "weight": 9.5,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Evolution",
      "topics": [],
      "status": "verify",
-     "id": "evolution"
+     "id": "evolution",
+     "weight": 9.5,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Human Health and Disease",
      "topics": [],
      "status": "verify",
-     "id": "human-health-and-disease"
+     "id": "human-health-and-disease",
+     "weight": 8.6,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Microbes in Human Welfare",
      "topics": [],
      "status": "verify",
-     "id": "microbes-in-human-welfare"
+     "id": "microbes-in-human-welfare",
+     "weight": 8.6,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Biotechnology: Principles and Processes",
      "topics": [],
      "status": "verify",
-     "id": "biotechnology-principles-and-processes"
+     "id": "biotechnology-principles-and-processes",
+     "weight": 8.6,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Biotechnology and its Applications",
      "topics": [],
      "status": "verify",
-     "id": "biotechnology-and-its-applications"
+     "id": "biotechnology-and-its-applications",
+     "weight": 8.6,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Organisms and Populations",
      "topics": [],
      "status": "verify",
-     "id": "organisms-and-populations"
+     "id": "organisms-and-populations",
+     "weight": 4.8,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Ecosystem",
      "topics": [],
      "status": "verify",
-     "id": "ecosystem"
+     "id": "ecosystem",
+     "weight": 4.8,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Biodiversity and Conservation",
      "topics": [],
      "status": "verify",
-     "id": "biodiversity-and-conservation"
+     "id": "biodiversity-and-conservation",
+     "weight": 4.8,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     }
    ],
    "id": "biology"
@@ -464,5 +564,6 @@
     }
    ]
   }
- ]
+ ],
+ "weights_note": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
 }

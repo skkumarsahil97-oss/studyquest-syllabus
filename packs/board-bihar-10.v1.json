@@ -3,7 +3,7 @@
  "course": "board",
  "level": "bihar-10",
  "name": "Bihar Board · Class 10",
- "version": 3,
+ "version": 4,
  "board": "bihar",
  "class": "10",
  "stream": null,
@@ -123,79 +123,105 @@
      "name": "Prakash ka Paravartan tatha Apavartan",
      "topics": [],
      "status": "verified",
-     "id": "prakash-ka-paravartan-tatha-apavartan"
+     "id": "prakash-ka-paravartan-tatha-apavartan",
+     "weight": 7.5,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Manav Netra tatha Rangbiranga Sansar",
      "topics": [],
      "status": "verified",
-     "id": "manav-netra-tatha-rangbiranga-sansar"
+     "id": "manav-netra-tatha-rangbiranga-sansar",
+     "weight": 7.5,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Vidyut",
      "topics": [],
      "status": "verified",
-     "id": "vidyut"
+     "id": "vidyut",
+     "weight": 8.1,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Vidyut Dhara ke Chumbakiya Prabhav",
      "topics": [],
      "status": "verified",
-     "id": "vidyut-dhara-ke-chumbakiya-prabhav"
+     "id": "vidyut-dhara-ke-chumbakiya-prabhav",
+     "weight": 8.1,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Rasayanik Abhikriyayein",
      "topics": [],
      "status": "verified",
-     "id": "rasayanik-abhikriyayein"
+     "id": "rasayanik-abhikriyayein",
+     "weight": 7.8,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Amla, Bhasma aur Lavan",
      "topics": [],
      "status": "verified",
-     "id": "amla-bhasma-aur-lavan"
+     "id": "amla-bhasma-aur-lavan",
+     "weight": 7.8,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Dhatu aur Adhatu",
      "topics": [],
      "status": "verified",
-     "id": "dhatu-aur-adhatu"
+     "id": "dhatu-aur-adhatu",
+     "weight": 7.8,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Carbon aur uske Yaugik",
      "topics": [],
      "status": "verified",
-     "id": "carbon-aur-uske-yaugik"
+     "id": "carbon-aur-uske-yaugik",
+     "weight": 7.8,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Jaiv Prakram",
      "topics": [],
      "status": "verified",
-     "id": "jaiv-prakram"
+     "id": "jaiv-prakram",
+     "weight": 7.8,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Niyantran aur Samanvay",
      "topics": [],
      "status": "verified",
-     "id": "niyantran-aur-samanvay"
+     "id": "niyantran-aur-samanvay",
+     "weight": 7.8,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Jeev Janan kaise karte hai",
      "topics": [],
      "status": "verified",
-     "id": "jeev-janan-kaise-karte-hai"
+     "id": "jeev-janan-kaise-karte-hai",
+     "weight": 7.8,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Anuvanshiktva",
      "topics": [],
      "status": "verified",
-     "id": "anuvanshiktva"
+     "id": "anuvanshiktva",
+     "weight": 7.8,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Hamara Paryavaran",
      "topics": [],
      "status": "verify",
-     "id": "hamara-paryavaran"
+     "id": "hamara-paryavaran",
+     "weight": 6.2,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     }
    ],
    "id": "science"
@@ -207,37 +233,49 @@
      "name": "Bahupad",
      "topics": [],
      "status": "verified",
-     "id": "bahupad"
+     "id": "bahupad",
+     "weight": 6.2,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Do char wale Raikhik Samikaran",
      "topics": [],
      "status": "verified",
-     "id": "do-char-wale-raikhik-samikaran"
+     "id": "do-char-wale-raikhik-samikaran",
+     "weight": 6.2,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Dwigat Samikaran",
      "topics": [],
      "status": "verified",
-     "id": "dwigat-samikaran"
+     "id": "dwigat-samikaran",
+     "weight": 6.2,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Samantar Shreni",
      "topics": [],
      "status": "verified",
-     "id": "samantar-shreni"
+     "id": "samantar-shreni",
+     "weight": 6.2,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Tribhuj",
      "topics": [],
      "status": "verified",
-     "id": "tribhuj"
+     "id": "tribhuj",
+     "weight": 9.4,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Vrit",
      "topics": [],
      "status": "verified",
-     "id": "vrit"
+     "id": "vrit",
+     "weight": 9.4,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Rachnayein",
@@ -249,49 +287,65 @@
      "name": "Nirdeshank Jyamiti",
      "topics": [],
      "status": "verified",
-     "id": "nirdeshank-jyamiti"
+     "id": "nirdeshank-jyamiti",
+     "weight": 7.5,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Vastavik Sankhyayein",
      "topics": [],
      "status": "verify",
-     "id": "vastavik-sankhyayein"
+     "id": "vastavik-sankhyayein",
+     "weight": 7.5,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Trikonmiti ka Parichay",
      "topics": [],
      "status": "verify",
-     "id": "trikonmiti-ka-parichay"
+     "id": "trikonmiti-ka-parichay",
+     "weight": 7.5,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Trikonmiti ke Anuprayog",
      "topics": [],
      "status": "verify",
-     "id": "trikonmiti-ke-anuprayog"
+     "id": "trikonmiti-ke-anuprayog",
+     "weight": 7.5,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Vrit se Sambandhit Kshetrafal",
      "topics": [],
      "status": "verify",
-     "id": "vrit-se-sambandhit-kshetrafal"
+     "id": "vrit-se-sambandhit-kshetrafal",
+     "weight": 6.2,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Prishthiya Kshetrafal aur Aayatan",
      "topics": [],
      "status": "verify",
-     "id": "prishthiya-kshetrafal-aur-aayatan"
+     "id": "prishthiya-kshetrafal-aur-aayatan",
+     "weight": 6.2,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Sankhyiki",
      "topics": [],
      "status": "verify",
-     "id": "sankhyiki"
+     "id": "sankhyiki",
+     "weight": 6.9,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Prayikta",
      "topics": [],
      "status": "verify",
-     "id": "prayikta"
+     "id": "prayikta",
+     "weight": 6.9,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     }
    ],
    "id": "mathematics"
@@ -303,136 +357,181 @@
      "name": "History: Rise of Nationalism in Europe",
      "topics": [],
      "status": "verify",
-     "id": "history-rise-of-nationalism-in-europe"
+     "id": "history-rise-of-nationalism-in-europe",
+     "weight": 5.0,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "History: Nationalism in India",
      "topics": [],
      "status": "verify",
-     "id": "history-nationalism-in-india"
+     "id": "history-nationalism-in-india",
+     "weight": 5.0,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "History: The Making of a Global World",
      "topics": [],
      "status": "verify",
-     "id": "history-the-making-of-a-global-world"
+     "id": "history-the-making-of-a-global-world",
+     "weight": 5.0,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "History: The Age of Industrialisation",
      "topics": [],
      "status": "verify",
-     "id": "history-the-age-of-industrialisation"
+     "id": "history-the-age-of-industrialisation",
+     "weight": 5.0,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "History: Print Culture and the Modern World",
      "topics": [],
      "status": "verify",
-     "id": "history-print-culture-and-the-modern-world"
+     "id": "history-print-culture-and-the-modern-world",
+     "weight": 5.0,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Geography: Resources and Development",
      "topics": [],
      "status": "verify",
-     "id": "geography-resources-and-development"
+     "id": "geography-resources-and-development",
+     "weight": 3.6,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Geography: Forest and Wildlife Resources",
      "topics": [],
      "status": "verify",
-     "id": "geography-forest-and-wildlife-resources"
+     "id": "geography-forest-and-wildlife-resources",
+     "weight": 3.6,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Geography: Water Resources",
      "topics": [],
      "status": "verify",
-     "id": "geography-water-resources"
+     "id": "geography-water-resources",
+     "weight": 3.6,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Geography: Agriculture",
      "topics": [],
      "status": "verify",
-     "id": "geography-agriculture"
+     "id": "geography-agriculture",
+     "weight": 3.6,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Geography: Minerals and Energy Resources",
      "topics": [],
      "status": "verify",
-     "id": "geography-minerals-and-energy-resources"
+     "id": "geography-minerals-and-energy-resources",
+     "weight": 3.6,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Geography: Manufacturing Industries",
      "topics": [],
      "status": "verify",
-     "id": "geography-manufacturing-industries"
+     "id": "geography-manufacturing-industries",
+     "weight": 3.6,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Geography: Lifelines of National Economy",
      "topics": [],
      "status": "verify",
-     "id": "geography-lifelines-of-national-economy"
+     "id": "geography-lifelines-of-national-economy",
+     "weight": 3.6,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Civics: Power Sharing",
      "topics": [],
      "status": "verify",
-     "id": "civics-power-sharing"
+     "id": "civics-power-sharing",
+     "weight": 5.0,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Civics: Federalism",
      "topics": [],
      "status": "verify",
-     "id": "civics-federalism"
+     "id": "civics-federalism",
+     "weight": 5.0,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Civics: Gender, Religion and Caste",
      "topics": [],
      "status": "verify",
-     "id": "civics-gender-religion-and-caste"
+     "id": "civics-gender-religion-and-caste",
+     "weight": 5.0,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Civics: Political Parties",
      "topics": [],
      "status": "verify",
-     "id": "civics-political-parties"
+     "id": "civics-political-parties",
+     "weight": 5.0,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Civics: Outcomes of Democracy",
      "topics": [],
      "status": "verify",
-     "id": "civics-outcomes-of-democracy"
+     "id": "civics-outcomes-of-democracy",
+     "weight": 5.0,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Economics: Development",
      "topics": [],
      "status": "verify",
-     "id": "economics-development"
+     "id": "economics-development",
+     "weight": 5.0,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Economics: Sectors of the Indian Economy",
      "topics": [],
      "status": "verify",
-     "id": "economics-sectors-of-the-indian-economy"
+     "id": "economics-sectors-of-the-indian-economy",
+     "weight": 5.0,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Economics: Money and Credit",
      "topics": [],
      "status": "verify",
-     "id": "economics-money-and-credit"
+     "id": "economics-money-and-credit",
+     "weight": 5.0,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Economics: Globalisation and the Indian Economy",
      "topics": [],
      "status": "verify",
-     "id": "economics-globalisation-and-the-indian-economy"
+     "id": "economics-globalisation-and-the-indian-economy",
+     "weight": 5.0,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Economics: Consumer Rights",
      "topics": [],
      "status": "verify",
-     "id": "economics-consumer-rights"
+     "id": "economics-consumer-rights",
+     "weight": 5.0,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     }
    ],
    "id": "social-science"
   }
- ]
+ ],
+ "weights_note": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
 }

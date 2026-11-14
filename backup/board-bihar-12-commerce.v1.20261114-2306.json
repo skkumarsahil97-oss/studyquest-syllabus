@@ -1,0 +1,300 @@
+{
+ "id": "board-bihar-12-commerce",
+ "course": "board",
+ "level": "bihar-12-commerce",
+ "name": "Bihar Board · Class 12 · Commerce",
+ "version": 3,
+ "board": "bihar",
+ "class": "12",
+ "stream": "commerce",
+ "subjects": [
+  {
+   "id": "english",
+   "name": "English",
+   "modules": [
+    {
+     "id": "rainbow-english-prose",
+     "name": "Rainbow English: Prose",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "rainbow-english-poetry",
+     "name": "Rainbow English: Poetry",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "reading-unseen-passages",
+     "name": "Reading: Unseen Passages",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "grammar",
+     "name": "Grammar",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "writing-letter-essay-report",
+     "name": "Writing: Letter, Essay, Report",
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  },
+  {
+   "id": "hindi",
+   "name": "Hindi",
+   "modules": [
+    {
+     "id": "godhuli-digant-gadya-khand",
+     "name": "Godhuli / Digant: Gadya Khand",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "godhuli-digant-kavya-khand",
+     "name": "Godhuli / Digant: Kavya Khand",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "varnika-antral",
+     "name": "Varnika / Antral",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "vyakaran",
+     "name": "Vyakaran",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "nibandh-evam-patra-lekhan",
+     "name": "Nibandh evam Patra Lekhan",
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  },
+  {
+   "name": "Entrepreneurship",
+   "modules": [
+    {
+     "name": "Sensing and Identification of Entrepreneurial Opportunities",
+     "topics": [],
+     "status": "verified",
+     "id": "sensing-and-identification-of-entrepreneurial-opportunities"
+    },
+    {
+     "name": "Environment Scanning",
+     "topics": [],
+     "status": "verified",
+     "id": "environment-scanning"
+    },
+    {
+     "name": "Market Assessment",
+     "topics": [],
+     "status": "verified",
+     "id": "market-assessment"
+    },
+    {
+     "name": "Formulation of Project Report",
+     "topics": [],
+     "status": "verified",
+     "id": "formulation-of-project-report"
+    },
+    {
+     "name": "Resource Assessment",
+     "topics": [],
+     "status": "verified",
+     "id": "resource-assessment"
+    },
+    {
+     "name": "Financial Planning",
+     "topics": [],
+     "status": "verified",
+     "id": "financial-planning"
+    },
+    {
+     "name": "Marketing Mix",
+     "topics": [],
+     "status": "verified",
+     "id": "marketing-mix"
+    }
+   ],
+   "id": "entrepreneurship"
+  },
+  {
+   "name": "Accountancy",
+   "modules": [
+    {
+     "name": "Accounting for Partnership: Basic Concepts",
+     "topics": [],
+     "status": "verified",
+     "id": "accounting-for-partnership-basic-concepts"
+    },
+    {
+     "name": "Reconstitution of Partnership (Admission/Retirement/Death)",
+     "topics": [],
+     "status": "verified",
+     "id": "reconstitution-of-partnership-admission-retirement-death"
+    },
+    {
+     "name": "Dissolution of Partnership Firm",
+     "topics": [],
+     "status": "verified",
+     "id": "dissolution-of-partnership-firm"
+    },
+    {
+     "name": "Accounting for Share Capital",
+     "topics": [],
+     "status": "verified",
+     "id": "accounting-for-share-capital"
+    },
+    {
+     "name": "Issue and Redemption of Debentures",
+     "topics": [],
+     "status": "verified",
+     "id": "issue-and-redemption-of-debentures"
+    },
+    {
+     "name": "Analysis of Financial Statements",
+     "topics": [],
+     "status": "verified",
+     "id": "analysis-of-financial-statements"
+    },
+    {
+     "name": "Accounting Ratios",
+     "topics": [],
+     "status": "verified",
+     "id": "accounting-ratios"
+    },
+    {
+     "name": "Cash Flow Statement",
+     "topics": [],
+     "status": "verified",
+     "id": "cash-flow-statement"
+    }
+   ],
+   "id": "accountancy"
+  },
+  {
+   "name": "Business Studies",
+   "modules": [
+    {
+     "name": "Nature and Significance of Management",
+     "topics": [],
+     "status": "verified",
+     "id": "nature-and-significance-of-management"
+    },
+    {
+     "name": "Principles of Management",
+     "topics": [],
+     "status": "verified",
+     "id": "principles-of-management"
+    },
+    {
+     "name": "Business Environment",
+     "topics": [],
+     "status": "verified",
+     "id": "business-environment"
+    },
+    {
+     "name": "Planning & Organizing",
+     "topics": [],
+     "status": "verified",
+     "id": "planning-organizing"
+    },
+    {
+     "name": "Staffing, Directing & Controlling",
+     "topics": [],
+     "status": "verified",
+     "id": "staffing-directing-controlling"
+    },
+    {
+     "name": "Financial Management",
+     "topics": [],
+     "status": "verified",
+     "id": "financial-management"
+    },
+    {
+     "name": "Financial Markets",
+     "topics": [],
+     "status": "verified",
+     "id": "financial-markets"
+    },
+    {
+     "name": "Marketing Management",
+     "topics": [],
+     "status": "verified",
+     "id": "marketing-management"
+    },
+    {
+     "name": "Consumer Protection",
+     "topics": [],
+     "status": "verified",
+     "id": "consumer-protection"
+    }
+   ],
+   "id": "business-studies"
+  },
+  {
+   "name": "Economics",
+   "modules": [
+    {
+     "name": "Macro: National Income Accounting",
+     "topics": [],
+     "status": "verify",
+     "id": "macro-national-income-accounting"
+    },
+    {
+     "name": "Macro: Money and Banking",
+     "topics": [],
+     "status": "verify",
+     "id": "macro-money-and-banking"
+    },
+    {
+     "name": "Macro: Determination of Income and Employment",
+     "topics": [],
+     "status": "verify",
+     "id": "macro-determination-of-income-and-employment"
+    },
+    {
+     "name": "Macro: Government Budget and the Economy",
+     "topics": [],
+     "status": "verify",
+     "id": "macro-government-budget-and-the-economy"
+    },
+    {
+     "name": "Macro: Balance of Payments",
+     "topics": [],
+     "status": "verify",
+     "id": "macro-balance-of-payments"
+    },
+    {
+     "name": "Indian Economy: Development Experience (1947–90) and Reforms since 1991",
+     "topics": [],
+     "status": "verify",
+     "id": "indian-economy-development-experience-1947-90-and-reforms-since-1991"
+    },
+    {
+     "name": "Indian Economy: Current Challenges",
+     "topics": [],
+     "status": "verify",
+     "id": "indian-economy-current-challenges"
+    },
+    {
+     "name": "Indian Economy: Comparison with Neighbours",
+     "topics": [],
+     "status": "verify",
+     "id": "indian-economy-comparison-with-neighbours"
+    }
+   ],
+   "id": "economics"
+  }
+ ]
+}

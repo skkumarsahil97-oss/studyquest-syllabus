@@ -3,7 +3,7 @@
  "course": "board",
  "level": "bihar-12-commerce",
  "name": "Bihar Board · Class 12 · Commerce",
- "version": 3,
+ "version": 4,
  "board": "bihar",
  "class": "12",
  "stream": "commerce",
@@ -135,49 +135,65 @@
      "name": "Accounting for Partnership: Basic Concepts",
      "topics": [],
      "status": "verified",
-     "id": "accounting-for-partnership-basic-concepts"
+     "id": "accounting-for-partnership-basic-concepts",
+     "weight": 15.0,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Reconstitution of Partnership (Admission/Retirement/Death)",
      "topics": [],
      "status": "verified",
-     "id": "reconstitution-of-partnership-admission-retirement-death"
+     "id": "reconstitution-of-partnership-admission-retirement-death",
+     "weight": 15.0,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Dissolution of Partnership Firm",
      "topics": [],
      "status": "verified",
-     "id": "dissolution-of-partnership-firm"
+     "id": "dissolution-of-partnership-firm",
+     "weight": 15.0,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Accounting for Share Capital",
      "topics": [],
      "status": "verified",
-     "id": "accounting-for-share-capital"
+     "id": "accounting-for-share-capital",
+     "weight": 15.0,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Issue and Redemption of Debentures",
      "topics": [],
      "status": "verified",
-     "id": "issue-and-redemption-of-debentures"
+     "id": "issue-and-redemption-of-debentures",
+     "weight": 15.0,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Analysis of Financial Statements",
      "topics": [],
      "status": "verified",
-     "id": "analysis-of-financial-statements"
+     "id": "analysis-of-financial-statements",
+     "weight": 7.5,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Accounting Ratios",
      "topics": [],
      "status": "verified",
-     "id": "accounting-ratios"
+     "id": "accounting-ratios",
+     "weight": 7.5,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Cash Flow Statement",
      "topics": [],
      "status": "verified",
-     "id": "cash-flow-statement"
+     "id": "cash-flow-statement",
+     "weight": 10.0,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     }
    ],
    "id": "accountancy"
@@ -189,55 +205,73 @@
      "name": "Nature and Significance of Management",
      "topics": [],
      "status": "verified",
-     "id": "nature-and-significance-of-management"
+     "id": "nature-and-significance-of-management",
+     "weight": 6.7,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Principles of Management",
      "topics": [],
      "status": "verified",
-     "id": "principles-of-management"
+     "id": "principles-of-management",
+     "weight": 6.7,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Business Environment",
      "topics": [],
      "status": "verified",
-     "id": "business-environment"
+     "id": "business-environment",
+     "weight": 6.7,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Planning & Organizing",
      "topics": [],
      "status": "verified",
-     "id": "planning-organizing"
+     "id": "planning-organizing",
+     "weight": 17.5,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Staffing, Directing & Controlling",
      "topics": [],
      "status": "verified",
-     "id": "staffing-directing-controlling"
+     "id": "staffing-directing-controlling",
+     "weight": 25.0,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Financial Management",
      "topics": [],
      "status": "verified",
-     "id": "financial-management"
+     "id": "financial-management",
+     "weight": 9.4,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Financial Markets",
      "topics": [],
      "status": "verified",
-     "id": "financial-markets"
+     "id": "financial-markets",
+     "weight": 9.4,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Marketing Management",
      "topics": [],
      "status": "verified",
-     "id": "marketing-management"
+     "id": "marketing-management",
+     "weight": 9.4,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Consumer Protection",
      "topics": [],
      "status": "verified",
-     "id": "consumer-protection"
+     "id": "consumer-protection",
+     "weight": 9.4,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     }
    ],
    "id": "business-studies"
@@ -249,52 +283,69 @@
      "name": "Macro: National Income Accounting",
      "topics": [],
      "status": "verify",
-     "id": "macro-national-income-accounting"
+     "id": "macro-national-income-accounting",
+     "weight": 12.5,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Macro: Money and Banking",
      "topics": [],
      "status": "verify",
-     "id": "macro-money-and-banking"
+     "id": "macro-money-and-banking",
+     "weight": 7.5,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Macro: Determination of Income and Employment",
      "topics": [],
      "status": "verify",
-     "id": "macro-determination-of-income-and-employment"
+     "id": "macro-determination-of-income-and-employment",
+     "weight": 15.0,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Macro: Government Budget and the Economy",
      "topics": [],
      "status": "verify",
-     "id": "macro-government-budget-and-the-economy"
+     "id": "macro-government-budget-and-the-economy",
+     "weight": 7.5,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Macro: Balance of Payments",
      "topics": [],
      "status": "verify",
-     "id": "macro-balance-of-payments"
+     "id": "macro-balance-of-payments",
+     "weight": 7.5,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Indian Economy: Development Experience (1947–90) and Reforms since 1991",
      "topics": [],
      "status": "verify",
-     "id": "indian-economy-development-experience-1947-90-and-reforms-since-1991"
+     "id": "indian-economy-development-experience-1947-90-and-reforms-since-1991",
+     "weight": 15.0,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Indian Economy: Current Challenges",
      "topics": [],
      "status": "verify",
-     "id": "indian-economy-current-challenges"
+     "id": "indian-economy-current-challenges",
+     "weight": 27.5,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     },
     {
      "name": "Indian Economy: Comparison with Neighbours",
      "topics": [],
      "status": "verify",
-     "id": "indian-economy-comparison-with-neighbours"
+     "id": "indian-economy-comparison-with-neighbours",
+     "weight": 7.5,
+     "weight_src": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
     }
    ],
    "id": "economics"
   }
- ]
+ ],
+ "weights_note": "Estimate: CBSE 2026-27 unit marks applied to this NCERT-based board — please verify with the board’s own blueprint"
 }

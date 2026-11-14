@@ -1,0 +1,540 @@
+{
+ "id": "board-up-12-science",
+ "course": "board",
+ "level": "up-12-science",
+ "name": "UP Board · Class 12 · Science",
+ "version": 3,
+ "board": "up",
+ "class": "12",
+ "stream": "science",
+ "subjects": [
+  {
+   "id": "english",
+   "name": "English",
+   "modules": [
+    {
+     "id": "flamingo-the-last-lesson",
+     "name": "Flamingo: The Last Lesson",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "flamingo-lost-spring",
+     "name": "Flamingo: Lost Spring",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "flamingo-deep-water",
+     "name": "Flamingo: Deep Water",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "flamingo-the-rattrap",
+     "name": "Flamingo: The Rattrap",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "flamingo-indigo",
+     "name": "Flamingo: Indigo",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "flamingo-poets-and-pancakes",
+     "name": "Flamingo: Poets and Pancakes",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "flamingo-the-interview",
+     "name": "Flamingo: The Interview",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "flamingo-going-places",
+     "name": "Flamingo: Going Places",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "poem-my-mother-at-sixty-six",
+     "name": "Poem: My Mother at Sixty-Six",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "poem-keeping-quiet",
+     "name": "Poem: Keeping Quiet",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "poem-a-thing-of-beauty",
+     "name": "Poem: A Thing of Beauty",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "poem-a-roadside-stand-check-if-in-syllabus",
+     "name": "Poem: A Roadside Stand (check if in syllabus)",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "poem-aunt-jennifer-s-tigers",
+     "name": "Poem: Aunt Jennifer's Tigers",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "vistas-the-third-level",
+     "name": "Vistas: The Third Level",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "vistas-the-tiger-king",
+     "name": "Vistas: The Tiger King",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "vistas-journey-to-the-end-of-the-earth",
+     "name": "Vistas: Journey to the End of the Earth",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "vistas-the-enemy",
+     "name": "Vistas: The Enemy",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "vistas-on-the-face-of-it",
+     "name": "Vistas: On the Face of It",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "vistas-memories-of-childhood",
+     "name": "Vistas: Memories of Childhood",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "reading-unseen-passages",
+     "name": "Reading: Unseen Passages",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "writing-notice-invitation-letter-article-report",
+     "name": "Writing: Notice, Invitation, Letter, Article, Report",
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  },
+  {
+   "id": "samanya-hindi",
+   "name": "Samanya Hindi",
+   "modules": [
+    {
+     "id": "gadya-khand",
+     "name": "Gadya Khand",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "kavya-khand",
+     "name": "Kavya Khand",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "sanskrit-digdarshika",
+     "name": "Sanskrit Digdarshika",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "kavya-saundarya-ras-chhand-alankar",
+     "name": "Kavya Saundarya (Ras, Chhand, Alankar)",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "nibandh-evam-patra-lekhan",
+     "name": "Nibandh evam Patra Lekhan",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "vyakaran",
+     "name": "Vyakaran",
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  },
+  {
+   "id": "sanskrit",
+   "name": "Sanskrit",
+   "modules": [
+    {
+     "id": "gadya-bhag",
+     "name": "Gadya Bhag",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "padya-bhag",
+     "name": "Padya Bhag",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "vyakaran-sandhi-samas-karak-pratyay",
+     "name": "Vyakaran (Sandhi, Samas, Karak, Pratyay)",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "anuvad",
+     "name": "Anuvad",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "rachana-patra-anuchchhed",
+     "name": "Rachana (Patra, Anuchchhed)",
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  },
+  {
+   "name": "Physics",
+   "modules": [
+    {
+     "name": "Electric Charges and Fields",
+     "topics": [],
+     "status": "verified",
+     "id": "electric-charges-and-fields"
+    },
+    {
+     "name": "Electrostatic Potential and Capacitance",
+     "topics": [],
+     "status": "verified",
+     "id": "electrostatic-potential-and-capacitance"
+    },
+    {
+     "name": "Current Electricity",
+     "topics": [],
+     "status": "verified",
+     "id": "current-electricity"
+    },
+    {
+     "name": "Moving Charges and Magnetism",
+     "topics": [],
+     "status": "verified",
+     "id": "moving-charges-and-magnetism"
+    },
+    {
+     "name": "Magnetism and Matter",
+     "topics": [],
+     "status": "verified",
+     "id": "magnetism-and-matter"
+    },
+    {
+     "name": "Electromagnetic Induction",
+     "topics": [],
+     "status": "verified",
+     "id": "electromagnetic-induction"
+    },
+    {
+     "name": "Alternating Current",
+     "topics": [],
+     "status": "verified",
+     "id": "alternating-current"
+    },
+    {
+     "name": "Electromagnetic Waves",
+     "topics": [],
+     "status": "verify",
+     "id": "electromagnetic-waves"
+    },
+    {
+     "name": "Ray Optics and Optical Instruments",
+     "topics": [],
+     "status": "verified",
+     "id": "ray-optics-and-optical-instruments"
+    },
+    {
+     "name": "Wave Optics",
+     "topics": [],
+     "status": "verified",
+     "id": "wave-optics"
+    },
+    {
+     "name": "Dual Nature of Radiation and Matter",
+     "topics": [],
+     "status": "verified",
+     "id": "dual-nature-of-radiation-and-matter"
+    },
+    {
+     "name": "Atoms",
+     "topics": [],
+     "status": "verified",
+     "id": "atoms"
+    },
+    {
+     "name": "Nuclei",
+     "topics": [],
+     "status": "verified",
+     "id": "nuclei"
+    },
+    {
+     "name": "Semiconductor Electronics",
+     "topics": [],
+     "status": "verified",
+     "id": "semiconductor-electronics"
+    }
+   ],
+   "id": "physics"
+  },
+  {
+   "name": "Chemistry",
+   "modules": [
+    {
+     "name": "Solutions",
+     "topics": [],
+     "status": "verified",
+     "id": "solutions"
+    },
+    {
+     "name": "Electrochemistry",
+     "topics": [],
+     "status": "verified",
+     "id": "electrochemistry"
+    },
+    {
+     "name": "Chemical Kinetics",
+     "topics": [],
+     "status": "verified",
+     "id": "chemical-kinetics"
+    },
+    {
+     "name": "d and f Block Elements",
+     "topics": [],
+     "status": "verified",
+     "id": "d-and-f-block-elements"
+    },
+    {
+     "name": "Coordination Compounds",
+     "topics": [],
+     "status": "verified",
+     "id": "coordination-compounds"
+    },
+    {
+     "name": "Haloalkanes and Haloarenes",
+     "topics": [],
+     "status": "verified",
+     "id": "haloalkanes-and-haloarenes"
+    },
+    {
+     "name": "Alcohols, Phenols and Ethers",
+     "topics": [],
+     "status": "verified",
+     "id": "alcohols-phenols-and-ethers"
+    },
+    {
+     "name": "Aldehydes, Ketones and Carboxylic Acids",
+     "topics": [],
+     "status": "verified",
+     "id": "aldehydes-ketones-and-carboxylic-acids"
+    },
+    {
+     "name": "Amines",
+     "topics": [],
+     "status": "verified",
+     "id": "amines"
+    },
+    {
+     "name": "Biomolecules",
+     "topics": [],
+     "status": "verified",
+     "id": "biomolecules"
+    }
+   ],
+   "id": "chemistry"
+  },
+  {
+   "name": "Mathematics",
+   "modules": [
+    {
+     "name": "Relations and Functions",
+     "topics": [],
+     "status": "verify",
+     "id": "relations-and-functions"
+    },
+    {
+     "name": "Inverse Trigonometric Functions",
+     "topics": [],
+     "status": "verify",
+     "id": "inverse-trigonometric-functions"
+    },
+    {
+     "name": "Matrices",
+     "topics": [],
+     "status": "verify",
+     "id": "matrices"
+    },
+    {
+     "name": "Determinants",
+     "topics": [],
+     "status": "verify",
+     "id": "determinants"
+    },
+    {
+     "name": "Continuity and Differentiability",
+     "topics": [],
+     "status": "verify",
+     "id": "continuity-and-differentiability"
+    },
+    {
+     "name": "Application of Derivatives",
+     "topics": [],
+     "status": "verify",
+     "id": "application-of-derivatives"
+    },
+    {
+     "name": "Integrals",
+     "topics": [],
+     "status": "verify",
+     "id": "integrals"
+    },
+    {
+     "name": "Application of Integrals",
+     "topics": [],
+     "status": "verify",
+     "id": "application-of-integrals"
+    },
+    {
+     "name": "Differential Equations",
+     "topics": [],
+     "status": "verify",
+     "id": "differential-equations"
+    },
+    {
+     "name": "Vector Algebra",
+     "topics": [],
+     "status": "verify",
+     "id": "vector-algebra"
+    },
+    {
+     "name": "Three Dimensional Geometry",
+     "topics": [],
+     "status": "verify",
+     "id": "three-dimensional-geometry"
+    },
+    {
+     "name": "Linear Programming",
+     "topics": [],
+     "status": "verify",
+     "id": "linear-programming"
+    },
+    {
+     "name": "Probability",
+     "topics": [],
+     "status": "verify",
+     "id": "probability"
+    }
+   ],
+   "id": "mathematics"
+  },
+  {
+   "name": "Biology",
+   "modules": [
+    {
+     "name": "Pushpi Padapon mein Laingik Janan",
+     "topics": [],
+     "status": "verified",
+     "id": "pushpi-padapon-mein-laingik-janan"
+    },
+    {
+     "name": "Manav Janan",
+     "topics": [],
+     "status": "verified",
+     "id": "manav-janan"
+    },
+    {
+     "name": "Janan Swasthya",
+     "topics": [],
+     "status": "verified",
+     "id": "janan-swasthya"
+    },
+    {
+     "name": "Vanshagati tatha Vividhta ke Siddhant",
+     "topics": [],
+     "status": "verified",
+     "id": "vanshagati-tatha-vividhta-ke-siddhant"
+    },
+    {
+     "name": "Vanshagati ke Aanvik Aadhar",
+     "topics": [],
+     "status": "verified",
+     "id": "vanshagati-ke-aanvik-aadhar"
+    },
+    {
+     "name": "Vikas (Evolution)",
+     "topics": [],
+     "status": "verified",
+     "id": "vikas-evolution"
+    },
+    {
+     "name": "Manav Swasthya tatha Rog",
+     "topics": [],
+     "status": "verified",
+     "id": "manav-swasthya-tatha-rog"
+    },
+    {
+     "name": "Jaiv Praudyogiki (Biotech)",
+     "topics": [],
+     "status": "verified",
+     "id": "jaiv-praudyogiki-biotech"
+    },
+    {
+     "name": "Jaiv Vividhata evam Sanrakshan",
+     "topics": [],
+     "status": "verified",
+     "id": "jaiv-vividhata-evam-sanrakshan"
+    },
+    {
+     "name": "Manav Kalyan mein Sukshmjeev",
+     "topics": [],
+     "status": "verify",
+     "id": "manav-kalyan-mein-sukshmjeev"
+    },
+    {
+     "name": "Jeev aur Samashti",
+     "topics": [],
+     "status": "verify",
+     "id": "jeev-aur-samashti"
+    },
+    {
+     "name": "Paritantra",
+     "topics": [],
+     "status": "verify",
+     "id": "paritantra"
+    }
+   ],
+   "id": "biology"
+  }
+ ]
+}

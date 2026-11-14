@@ -1,0 +1,468 @@
+{
+ "id": "board-bihar-12-science",
+ "course": "board",
+ "level": "bihar-12-science",
+ "name": "Bihar Board · Class 12 · Science",
+ "version": 3,
+ "board": "bihar",
+ "class": "12",
+ "stream": "science",
+ "subjects": [
+  {
+   "id": "english",
+   "name": "English",
+   "modules": [
+    {
+     "id": "rainbow-english-prose",
+     "name": "Rainbow English: Prose",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "rainbow-english-poetry",
+     "name": "Rainbow English: Poetry",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "reading-unseen-passages",
+     "name": "Reading: Unseen Passages",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "grammar",
+     "name": "Grammar",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "writing-letter-essay-report",
+     "name": "Writing: Letter, Essay, Report",
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  },
+  {
+   "id": "hindi",
+   "name": "Hindi",
+   "modules": [
+    {
+     "id": "godhuli-digant-gadya-khand",
+     "name": "Godhuli / Digant: Gadya Khand",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "godhuli-digant-kavya-khand",
+     "name": "Godhuli / Digant: Kavya Khand",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "varnika-antral",
+     "name": "Varnika / Antral",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "vyakaran",
+     "name": "Vyakaran",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "nibandh-evam-patra-lekhan",
+     "name": "Nibandh evam Patra Lekhan",
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  },
+  {
+   "name": "Physics",
+   "modules": [
+    {
+     "name": "Vaidyut Avesh tatha Kshetra",
+     "topics": [],
+     "status": "verified",
+     "id": "vaidyut-avesh-tatha-kshetra"
+    },
+    {
+     "name": "Sthir Vaidyut Vibhav",
+     "topics": [],
+     "status": "verified",
+     "id": "sthir-vaidyut-vibhav"
+    },
+    {
+     "name": "Vidyut Dhara",
+     "topics": [],
+     "status": "verified",
+     "id": "vidyut-dhara"
+    },
+    {
+     "name": "Gatiman Avesh aur Chumbakatva",
+     "topics": [],
+     "status": "verified",
+     "id": "gatiman-avesh-aur-chumbakatva"
+    },
+    {
+     "name": "Kiran Prakashiki",
+     "topics": [],
+     "status": "verified",
+     "id": "kiran-prakashiki"
+    },
+    {
+     "name": "Tarang Prakashiki",
+     "topics": [],
+     "status": "verified",
+     "id": "tarang-prakashiki"
+    },
+    {
+     "name": "Vikiran tatha Dravya ki Dwait Prakriti",
+     "topics": [],
+     "status": "verified",
+     "id": "vikiran-tatha-dravya-ki-dwait-prakriti"
+    },
+    {
+     "name": "Nabhik",
+     "topics": [],
+     "status": "verified",
+     "id": "nabhik"
+    },
+    {
+     "name": "Ardhchalak",
+     "topics": [],
+     "status": "verified",
+     "id": "ardhchalak"
+    },
+    {
+     "name": "Chumbakatva evam Dravya",
+     "topics": [],
+     "status": "verify",
+     "id": "chumbakatva-evam-dravya"
+    },
+    {
+     "name": "Vaidyut Chumbakiya Prerna",
+     "topics": [],
+     "status": "verify",
+     "id": "vaidyut-chumbakiya-prerna"
+    },
+    {
+     "name": "Pratyavarti Dhara",
+     "topics": [],
+     "status": "verify",
+     "id": "pratyavarti-dhara"
+    },
+    {
+     "name": "Vaidyut Chumbakiya Tarange",
+     "topics": [],
+     "status": "verify",
+     "id": "vaidyut-chumbakiya-tarange"
+    },
+    {
+     "name": "Parmanu",
+     "topics": [],
+     "status": "verify",
+     "id": "parmanu"
+    }
+   ],
+   "id": "physics"
+  },
+  {
+   "name": "Chemistry",
+   "modules": [
+    {
+     "name": "Solutions",
+     "topics": [],
+     "status": "verified",
+     "id": "solutions"
+    },
+    {
+     "name": "Electrochemistry",
+     "topics": [],
+     "status": "verified",
+     "id": "electrochemistry"
+    },
+    {
+     "name": "Chemical Kinetics",
+     "topics": [],
+     "status": "verified",
+     "id": "chemical-kinetics"
+    },
+    {
+     "name": "d and f Block Elements",
+     "topics": [],
+     "status": "verified",
+     "id": "d-and-f-block-elements"
+    },
+    {
+     "name": "Coordination Compounds",
+     "topics": [],
+     "status": "verified",
+     "id": "coordination-compounds"
+    },
+    {
+     "name": "Haloalkanes and Haloarenes",
+     "topics": [],
+     "status": "verified",
+     "id": "haloalkanes-and-haloarenes"
+    },
+    {
+     "name": "Alcohols, Phenols and Ethers",
+     "topics": [],
+     "status": "verified",
+     "id": "alcohols-phenols-and-ethers"
+    },
+    {
+     "name": "Aldehydes, Ketones and Carboxylic Acids",
+     "topics": [],
+     "status": "verified",
+     "id": "aldehydes-ketones-and-carboxylic-acids"
+    },
+    {
+     "name": "Amines",
+     "topics": [],
+     "status": "verified",
+     "id": "amines"
+    },
+    {
+     "name": "Biomolecules",
+     "topics": [],
+     "status": "verified",
+     "id": "biomolecules"
+    }
+   ],
+   "id": "chemistry"
+  },
+  {
+   "name": "Mathematics",
+   "modules": [
+    {
+     "name": "Relations and Functions",
+     "topics": [],
+     "status": "verify",
+     "id": "relations-and-functions"
+    },
+    {
+     "name": "Inverse Trigonometric Functions",
+     "topics": [],
+     "status": "verify",
+     "id": "inverse-trigonometric-functions"
+    },
+    {
+     "name": "Matrices",
+     "topics": [],
+     "status": "verify",
+     "id": "matrices"
+    },
+    {
+     "name": "Determinants",
+     "topics": [],
+     "status": "verify",
+     "id": "determinants"
+    },
+    {
+     "name": "Continuity and Differentiability",
+     "topics": [],
+     "status": "verify",
+     "id": "continuity-and-differentiability"
+    },
+    {
+     "name": "Application of Derivatives",
+     "topics": [],
+     "status": "verify",
+     "id": "application-of-derivatives"
+    },
+    {
+     "name": "Integrals",
+     "topics": [],
+     "status": "verify",
+     "id": "integrals"
+    },
+    {
+     "name": "Application of Integrals",
+     "topics": [],
+     "status": "verify",
+     "id": "application-of-integrals"
+    },
+    {
+     "name": "Differential Equations",
+     "topics": [],
+     "status": "verify",
+     "id": "differential-equations"
+    },
+    {
+     "name": "Vector Algebra",
+     "topics": [],
+     "status": "verify",
+     "id": "vector-algebra"
+    },
+    {
+     "name": "Three Dimensional Geometry",
+     "topics": [],
+     "status": "verify",
+     "id": "three-dimensional-geometry"
+    },
+    {
+     "name": "Linear Programming",
+     "topics": [],
+     "status": "verify",
+     "id": "linear-programming"
+    },
+    {
+     "name": "Probability",
+     "topics": [],
+     "status": "verify",
+     "id": "probability"
+    }
+   ],
+   "id": "mathematics"
+  },
+  {
+   "name": "Biology",
+   "modules": [
+    {
+     "name": "Sexual Reproduction in Flowering Plants",
+     "topics": [],
+     "status": "verify",
+     "id": "sexual-reproduction-in-flowering-plants"
+    },
+    {
+     "name": "Human Reproduction",
+     "topics": [],
+     "status": "verify",
+     "id": "human-reproduction"
+    },
+    {
+     "name": "Reproductive Health",
+     "topics": [],
+     "status": "verify",
+     "id": "reproductive-health"
+    },
+    {
+     "name": "Principles of Inheritance and Variation",
+     "topics": [],
+     "status": "verify",
+     "id": "principles-of-inheritance-and-variation"
+    },
+    {
+     "name": "Molecular Basis of Inheritance",
+     "topics": [],
+     "status": "verify",
+     "id": "molecular-basis-of-inheritance"
+    },
+    {
+     "name": "Evolution",
+     "topics": [],
+     "status": "verify",
+     "id": "evolution"
+    },
+    {
+     "name": "Human Health and Disease",
+     "topics": [],
+     "status": "verify",
+     "id": "human-health-and-disease"
+    },
+    {
+     "name": "Microbes in Human Welfare",
+     "topics": [],
+     "status": "verify",
+     "id": "microbes-in-human-welfare"
+    },
+    {
+     "name": "Biotechnology: Principles and Processes",
+     "topics": [],
+     "status": "verify",
+     "id": "biotechnology-principles-and-processes"
+    },
+    {
+     "name": "Biotechnology and its Applications",
+     "topics": [],
+     "status": "verify",
+     "id": "biotechnology-and-its-applications"
+    },
+    {
+     "name": "Organisms and Populations",
+     "topics": [],
+     "status": "verify",
+     "id": "organisms-and-populations"
+    },
+    {
+     "name": "Ecosystem",
+     "topics": [],
+     "status": "verify",
+     "id": "ecosystem"
+    },
+    {
+     "name": "Biodiversity and Conservation",
+     "topics": [],
+     "status": "verify",
+     "id": "biodiversity-and-conservation"
+    }
+   ],
+   "id": "biology"
+  },
+  {
+   "id": "computer-science",
+   "name": "Computer Science",
+   "modules": [
+    {
+     "id": "python-revision-tour",
+     "name": "Python Revision Tour",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "working-with-functions",
+     "name": "Working with Functions",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "exception-handling",
+     "name": "Exception Handling",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "file-handling",
+     "name": "File Handling",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "data-structure-stack",
+     "name": "Data Structure: Stack",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "computer-networks",
+     "name": "Computer Networks",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "database-concepts",
+     "name": "Database Concepts",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "structured-query-language-sql",
+     "name": "Structured Query Language (SQL)",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "interface-python-with-mysql",
+     "name": "Interface Python with MySQL",
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  }
+ ]
+}

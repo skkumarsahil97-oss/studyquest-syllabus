@@ -1,0 +1,378 @@
+{
+ "id": "board-up-12-commerce",
+ "course": "board",
+ "level": "up-12-commerce",
+ "name": "UP Board · Class 12 · Commerce",
+ "version": 3,
+ "board": "up",
+ "class": "12",
+ "stream": "commerce",
+ "subjects": [
+  {
+   "id": "english",
+   "name": "English",
+   "modules": [
+    {
+     "id": "flamingo-the-last-lesson",
+     "name": "Flamingo: The Last Lesson",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "flamingo-lost-spring",
+     "name": "Flamingo: Lost Spring",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "flamingo-deep-water",
+     "name": "Flamingo: Deep Water",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "flamingo-the-rattrap",
+     "name": "Flamingo: The Rattrap",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "flamingo-indigo",
+     "name": "Flamingo: Indigo",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "flamingo-poets-and-pancakes",
+     "name": "Flamingo: Poets and Pancakes",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "flamingo-the-interview",
+     "name": "Flamingo: The Interview",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "flamingo-going-places",
+     "name": "Flamingo: Going Places",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "poem-my-mother-at-sixty-six",
+     "name": "Poem: My Mother at Sixty-Six",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "poem-keeping-quiet",
+     "name": "Poem: Keeping Quiet",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "poem-a-thing-of-beauty",
+     "name": "Poem: A Thing of Beauty",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "poem-a-roadside-stand-check-if-in-syllabus",
+     "name": "Poem: A Roadside Stand (check if in syllabus)",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "poem-aunt-jennifer-s-tigers",
+     "name": "Poem: Aunt Jennifer's Tigers",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "vistas-the-third-level",
+     "name": "Vistas: The Third Level",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "vistas-the-tiger-king",
+     "name": "Vistas: The Tiger King",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "vistas-journey-to-the-end-of-the-earth",
+     "name": "Vistas: Journey to the End of the Earth",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "vistas-the-enemy",
+     "name": "Vistas: The Enemy",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "vistas-on-the-face-of-it",
+     "name": "Vistas: On the Face of It",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "vistas-memories-of-childhood",
+     "name": "Vistas: Memories of Childhood",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "reading-unseen-passages",
+     "name": "Reading: Unseen Passages",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "writing-notice-invitation-letter-article-report",
+     "name": "Writing: Notice, Invitation, Letter, Article, Report",
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  },
+  {
+   "id": "samanya-hindi",
+   "name": "Samanya Hindi",
+   "modules": [
+    {
+     "id": "gadya-khand",
+     "name": "Gadya Khand",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "kavya-khand",
+     "name": "Kavya Khand",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "sanskrit-digdarshika",
+     "name": "Sanskrit Digdarshika",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "kavya-saundarya-ras-chhand-alankar",
+     "name": "Kavya Saundarya (Ras, Chhand, Alankar)",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "nibandh-evam-patra-lekhan",
+     "name": "Nibandh evam Patra Lekhan",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "vyakaran",
+     "name": "Vyakaran",
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  },
+  {
+   "id": "sanskrit",
+   "name": "Sanskrit",
+   "modules": [
+    {
+     "id": "gadya-bhag",
+     "name": "Gadya Bhag",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "padya-bhag",
+     "name": "Padya Bhag",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "vyakaran-sandhi-samas-karak-pratyay",
+     "name": "Vyakaran (Sandhi, Samas, Karak, Pratyay)",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "anuvad",
+     "name": "Anuvad",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "rachana-patra-anuchchhed",
+     "name": "Rachana (Patra, Anuchchhed)",
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  },
+  {
+   "name": "Accountancy",
+   "modules": [
+    {
+     "name": "Sajhedari ka Pravesh",
+     "topics": [],
+     "status": "verified",
+     "id": "sajhedari-ka-pravesh"
+    },
+    {
+     "name": "Avkash Grahan tatha Mrityu",
+     "topics": [],
+     "status": "verified",
+     "id": "avkash-grahan-tatha-mrityu"
+    },
+    {
+     "name": "Sajhedari ka Vighatan",
+     "topics": [],
+     "status": "verified",
+     "id": "sajhedari-ka-vighatan"
+    },
+    {
+     "name": "Ansho ka Nirgaman evam Haran",
+     "topics": [],
+     "status": "verified",
+     "id": "ansho-ka-nirgaman-evam-haran"
+    },
+    {
+     "name": "Rinpatro ka Nirgaman",
+     "topics": [],
+     "status": "verified",
+     "id": "rinpatro-ka-nirgaman"
+    },
+    {
+     "name": "Company ke Antim Khaate",
+     "topics": [],
+     "status": "verified",
+     "id": "company-ke-antim-khaate"
+    }
+   ],
+   "id": "accountancy"
+  },
+  {
+   "name": "Business Studies",
+   "modules": [
+    {
+     "name": "Nature and Significance of Management",
+     "topics": [],
+     "status": "verified",
+     "id": "nature-and-significance-of-management"
+    },
+    {
+     "name": "Principles of Management",
+     "topics": [],
+     "status": "verified",
+     "id": "principles-of-management"
+    },
+    {
+     "name": "Business Environment",
+     "topics": [],
+     "status": "verified",
+     "id": "business-environment"
+    },
+    {
+     "name": "Planning & Organizing",
+     "topics": [],
+     "status": "verified",
+     "id": "planning-organizing"
+    },
+    {
+     "name": "Staffing, Directing & Controlling",
+     "topics": [],
+     "status": "verified",
+     "id": "staffing-directing-controlling"
+    },
+    {
+     "name": "Financial Management",
+     "topics": [],
+     "status": "verified",
+     "id": "financial-management"
+    },
+    {
+     "name": "Financial Markets",
+     "topics": [],
+     "status": "verified",
+     "id": "financial-markets"
+    },
+    {
+     "name": "Marketing Management",
+     "topics": [],
+     "status": "verified",
+     "id": "marketing-management"
+    },
+    {
+     "name": "Consumer Protection",
+     "topics": [],
+     "status": "verified",
+     "id": "consumer-protection"
+    }
+   ],
+   "id": "business-studies"
+  },
+  {
+   "name": "Economics",
+   "modules": [
+    {
+     "name": "Macro: National Income Accounting",
+     "topics": [],
+     "status": "verify",
+     "id": "macro-national-income-accounting"
+    },
+    {
+     "name": "Macro: Money and Banking",
+     "topics": [],
+     "status": "verify",
+     "id": "macro-money-and-banking"
+    },
+    {
+     "name": "Macro: Determination of Income and Employment",
+     "topics": [],
+     "status": "verify",
+     "id": "macro-determination-of-income-and-employment"
+    },
+    {
+     "name": "Macro: Government Budget and the Economy",
+     "topics": [],
+     "status": "verify",
+     "id": "macro-government-budget-and-the-economy"
+    },
+    {
+     "name": "Macro: Balance of Payments",
+     "topics": [],
+     "status": "verify",
+     "id": "macro-balance-of-payments"
+    },
+    {
+     "name": "Indian Economy: Development Experience (1947–90) and Reforms since 1991",
+     "topics": [],
+     "status": "verify",
+     "id": "indian-economy-development-experience-1947-90-and-reforms-since-1991"
+    },
+    {
+     "name": "Indian Economy: Current Challenges",
+     "topics": [],
+     "status": "verify",
+     "id": "indian-economy-current-challenges"
+    },
+    {
+     "name": "Indian Economy: Comparison with Neighbours",
+     "topics": [],
+     "status": "verify",
+     "id": "indian-economy-comparison-with-neighbours"
+    }
+   ],
+   "id": "economics"
+  }
+ ]
+}

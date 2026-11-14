@@ -3,326 +3,970 @@
  "course": "ca",
  "level": "intermediate",
  "name": "CA Intermediate",
- "version": 1,
+ "version": 2,
  "subjects": [
   {
    "id": "ca-intermediate-s1",
    "name": "Advanced Accounting",
+   "name_hi": "",
    "modules": [
     {
-     "id": "ca-intermediate-s1-m1",
-     "name": "Accounting Standards (AS)",
+     "id": "ca-intermediate-s1-mintroductiontoacco",
+     "name": "Introduction to Accounting Standards",
+     "name_hi": "",
      "group": null,
-     "topics": [
-      "AS 1, 2, 3, 10, 11",
-      "AS 12, 13, 16, 22"
-     ]
+     "topics": [],
+     "status": "verify",
+     "weight": 3.1,
+     "weight_src": "ICAI new-scheme chapters; weight = average marks in the last 7 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
     },
     {
-     "id": "ca-intermediate-s1-m2",
-     "name": "Company Accounts",
+     "id": "ca-intermediate-s1-mframeworkforprepar",
+     "name": "Framework for Preparation and Presentation of Financial Statements",
+     "name_hi": "",
      "group": null,
-     "topics": [
-      "Redemption of Preference Shares & Debentures",
-      "Bonus and Rights Issue",
-      "Buyback of Securities"
-     ]
+     "topics": [],
+     "status": "verify",
+     "weight": 3.1,
+     "weight_src": "ICAI new-scheme chapters; weight = average marks in the last 7 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
     },
     {
-     "id": "ca-intermediate-s1-m3",
-     "name": "Financial Statements of Companies",
+     "id": "ca-intermediate-s1-mapplicabilityofacc",
+     "name": "Applicability of Accounting Standards",
+     "name_hi": "",
      "group": null,
-     "topics": [
-      "P&L and Balance Sheet (Schedule III)"
-     ]
+     "topics": [],
+     "status": "verify",
+     "weight": 3.1,
+     "weight_src": "ICAI new-scheme chapters; weight = average marks in the last 7 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
     },
     {
-     "id": "ca-intermediate-s1-m4",
-     "name": "Amalgamation and Reconstruction",
+     "id": "ca-intermediate-s1-mpresentationdisclo",
+     "name": "Presentation & Disclosure Based AS (AS 1, 3, 17, 18, 20, 24)",
+     "name_hi": "",
      "group": null,
-     "topics": [
-      "Amalgamation (Merger/Purchase)",
-      "Internal Reconstruction"
-     ]
+     "topics": [],
+     "status": "verify",
+     "weight": 12.5,
+     "weight_src": "ICAI new-scheme chapters; weight = average marks in the last 7 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
     },
     {
-     "id": "ca-intermediate-s1-m5",
-     "name": "Partnership & Branch Accounts",
+     "id": "ca-intermediate-s1-massetsbasedasas210",
+     "name": "Assets Based AS (AS 2, 10, 13, 16, 19, 26, 28)",
+     "name_hi": "",
      "group": null,
-     "topics": [
-      "Dissolution & Piecemeal Distribution",
-      "Inland & Foreign Branch Accounting"
-     ]
+     "topics": [],
+     "status": "verify",
+     "weight": 9.4,
+     "weight_src": "ICAI new-scheme chapters; weight = average marks in the last 7 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-intermediate-s1-mliabilitiesbasedas",
+     "name": "Liabilities Based AS (AS 15, 29)",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 5.2,
+     "weight_src": "ICAI new-scheme chapters; weight = average marks in the last 7 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-intermediate-s1-masonitemsimpacting",
+     "name": "AS on Items Impacting Financial Statements (AS 4, 5, 11, 22)",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 7.3,
+     "weight_src": "ICAI new-scheme chapters; weight = average marks in the last 7 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-intermediate-s1-mrevenuebasedasas79",
+     "name": "Revenue Based AS (AS 7, 9)",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 5.2,
+     "weight_src": "ICAI new-scheme chapters; weight = average marks in the last 7 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-intermediate-s1-mconsolidatedfinanc",
+     "name": "Consolidated Financial Statements (AS 21, 23, 27)",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 13.5,
+     "weight_src": "ICAI new-scheme chapters; weight = average marks in the last 7 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-intermediate-s1-mfinancialstatement",
+     "name": "Financial Statements of Companies (Schedule III)",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 8.3,
+     "weight_src": "ICAI new-scheme chapters; weight = average marks in the last 7 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-intermediate-s1-mbuybackofsecuritie",
+     "name": "Buyback of Securities",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 4.2,
+     "weight_src": "ICAI new-scheme chapters; weight = average marks in the last 7 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-intermediate-s1-mamalgamationofcomp",
+     "name": "Amalgamation of Companies (AS 14)",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 13.5,
+     "weight_src": "ICAI new-scheme chapters; weight = average marks in the last 7 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-intermediate-s1-minternalreconstruc",
+     "name": "Internal Reconstruction of Companies",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 5.2,
+     "weight_src": "ICAI new-scheme chapters; weight = average marks in the last 7 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-intermediate-s1-maccountingforbranc",
+     "name": "Accounting for Branches including Foreign Branches",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 6.2,
+     "weight_src": "ICAI new-scheme chapters; weight = average marks in the last 7 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
     }
    ]
   },
   {
    "id": "ca-intermediate-s2",
    "name": "Corporate and Other Laws",
+   "name_hi": "",
    "modules": [
     {
-     "id": "ca-intermediate-s2-m1",
-     "name": "Prospectus & Allotment of Securities",
-     "group": "Company Law",
-     "topics": []
+     "id": "ca-intermediate-s2-mcompaniesactprelim",
+     "name": "Companies Act: Preliminary",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 3.0,
+     "weight_src": "ICAI new-scheme chapters; weight = average marks in the last 7 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
     },
     {
-     "id": "ca-intermediate-s2-m2",
+     "id": "ca-intermediate-s2-mincorporationofcom",
+     "name": "Incorporation of Company and Matters Incidental",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 7.0,
+     "weight_src": "ICAI new-scheme chapters; weight = average marks in the last 7 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-intermediate-s2-mprospectusandallot",
+     "name": "Prospectus and Allotment of Securities",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 6.0,
+     "weight_src": "ICAI new-scheme chapters; weight = average marks in the last 7 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-intermediate-s2-msharecapitalanddeb",
      "name": "Share Capital and Debentures",
-     "group": "Company Law",
-     "topics": []
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 7.0,
+     "weight_src": "ICAI new-scheme chapters; weight = average marks in the last 7 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
     },
     {
-     "id": "ca-intermediate-s2-m3",
-     "name": "Acceptance of Deposits & Charges",
-     "group": "Company Law",
-     "topics": []
+     "id": "ca-intermediate-s2-macceptanceofdeposi",
+     "name": "Acceptance of Deposits by Companies",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 5.0,
+     "weight_src": "ICAI new-scheme chapters; weight = average marks in the last 7 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
     },
     {
-     "id": "ca-intermediate-s2-m4",
-     "name": "Management & Administration (AGM/EGM)",
-     "group": "Company Law",
-     "topics": []
+     "id": "ca-intermediate-s2-mregistrationofchar",
+     "name": "Registration of Charges",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 4.0,
+     "weight_src": "ICAI new-scheme chapters; weight = average marks in the last 7 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
     },
     {
-     "id": "ca-intermediate-s2-m5",
-     "name": "Declaration & Payment of Dividend",
-     "group": "Company Law",
-     "topics": []
+     "id": "ca-intermediate-s2-mmanagementandadmin",
+     "name": "Management and Administration",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 6.0,
+     "weight_src": "ICAI new-scheme chapters; weight = average marks in the last 7 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
     },
     {
-     "id": "ca-intermediate-s2-m6",
-     "name": "Accounts & Audit of Companies",
-     "group": "Company Law",
-     "topics": []
+     "id": "ca-intermediate-s2-mdeclarationandpaym",
+     "name": "Declaration and Payment of Dividend",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 5.0,
+     "weight_src": "ICAI new-scheme chapters; weight = average marks in the last 7 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
     },
     {
-     "id": "ca-intermediate-s2-m7",
-     "name": "Contract Act: Indemnity, Guarantee, Bailment, Agency",
-     "group": "Other Laws",
-     "topics": []
+     "id": "ca-intermediate-s2-maccountsofcompanie",
+     "name": "Accounts of Companies",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 6.0,
+     "weight_src": "ICAI new-scheme chapters; weight = average marks in the last 7 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
     },
     {
-     "id": "ca-intermediate-s2-m8",
-     "name": "Negotiable Instruments Act, 1881",
-     "group": "Other Laws",
-     "topics": []
+     "id": "ca-intermediate-s2-mauditandauditors",
+     "name": "Audit and Auditors",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 6.0,
+     "weight_src": "ICAI new-scheme chapters; weight = average marks in the last 7 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
     },
     {
-     "id": "ca-intermediate-s2-m9",
-     "name": "General Clauses Act & Interpretation of Statutes",
-     "group": "Other Laws",
-     "topics": []
+     "id": "ca-intermediate-s2-mcompaniesincorpora",
+     "name": "Companies Incorporated Outside India",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 4.0,
+     "weight_src": "ICAI new-scheme chapters; weight = average marks in the last 7 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-intermediate-s2-mthelimitedliabilit",
+     "name": "The Limited Liability Partnership Act, 2008",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 11.6,
+     "weight_src": "ICAI new-scheme chapters; weight = average marks in the last 7 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-intermediate-s2-mthegeneralclausesa",
+     "name": "The General Clauses Act, 1897",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 10.2,
+     "weight_src": "ICAI new-scheme chapters; weight = average marks in the last 7 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-intermediate-s2-minterpretationofst",
+     "name": "Interpretation of Statutes",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 6.0,
+     "weight_src": "ICAI new-scheme chapters; weight = average marks in the last 7 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-intermediate-s2-mtheforeignexchange",
+     "name": "The Foreign Exchange Management Act, 1999",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 12.9,
+     "weight_src": "ICAI new-scheme chapters; weight = average marks in the last 7 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
     }
    ]
   },
   {
    "id": "ca-intermediate-s3",
    "name": "Taxation",
+   "name_hi": "",
    "modules": [
     {
-     "id": "ca-intermediate-s3-m1",
-     "name": "Basic Concepts & Residential Status",
-     "group": "Income Tax",
-     "topics": []
+     "id": "ca-intermediate-s3-mincometaxbasicconc",
+     "name": "Income Tax: Basic Concepts",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 2.5,
+     "weight_src": "ICAI new-scheme chapters; weight = average marks in the last 7 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
     },
     {
-     "id": "ca-intermediate-s3-m2",
+     "id": "ca-intermediate-s3-mresidentialstatusa",
+     "name": "Residential Status and Scope of Total Income",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 2.5,
+     "weight_src": "ICAI new-scheme chapters; weight = average marks in the last 7 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-intermediate-s3-mheadsofincome",
      "name": "Heads of Income",
-     "group": "Income Tax",
-     "topics": [
-      "Salary",
-      "House Property",
-      "PGBP",
-      "Capital Gains",
-      "Other Sources"
-     ]
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 11.5,
+     "weight_src": "ICAI new-scheme chapters; weight = average marks in the last 7 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
     },
     {
-     "id": "ca-intermediate-s3-m3",
-     "name": "Clubbing & Set-off of Losses",
-     "group": "Income Tax",
-     "topics": []
+     "id": "ca-intermediate-s3-mincomeofotherperso",
+     "name": "Income of Other Persons (Clubbing)",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 2.5,
+     "weight_src": "ICAI new-scheme chapters; weight = average marks in the last 7 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
     },
     {
-     "id": "ca-intermediate-s3-m4",
-     "name": "Deductions under Chapter VI-A",
-     "group": "Income Tax",
-     "topics": []
+     "id": "ca-intermediate-s3-maggregationsetoffa",
+     "name": "Aggregation, Set-off and Carry Forward of Losses",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 2.5,
+     "weight_src": "ICAI new-scheme chapters; weight = average marks in the last 7 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
     },
     {
-     "id": "ca-intermediate-s3-m5",
-     "name": "TDS/TCS, Advance Tax & Return Filing",
-     "group": "Income Tax",
-     "topics": []
+     "id": "ca-intermediate-s3-mdeductionsfromgros",
+     "name": "Deductions from Gross Total Income",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 2.5,
+     "weight_src": "ICAI new-scheme chapters; weight = average marks in the last 7 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
     },
     {
-     "id": "ca-intermediate-s3-m6",
-     "name": "Concept of Supply & Charge of GST",
-     "group": "GST",
-     "topics": [
-      "Concept of Supply",
-      "Charge of GST & Composition Scheme"
-     ]
+     "id": "ca-intermediate-s3-madvancetaxtdsandtc",
+     "name": "Advance Tax, TDS and TCS",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 5.5,
+     "weight_src": "ICAI new-scheme chapters; weight = average marks in the last 7 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
     },
     {
-     "id": "ca-intermediate-s3-m7",
+     "id": "ca-intermediate-s3-mreturnofincomeands",
+     "name": "Return of Income and Self-Assessment",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 2.5,
+     "weight_src": "ICAI new-scheme chapters; weight = average marks in the last 7 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-intermediate-s3-mincometaxliability",
+     "name": "Income Tax Liability: Computation and Optimisation",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 18.0,
+     "weight_src": "ICAI new-scheme chapters; weight = average marks in the last 7 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-intermediate-s3-mgstinindiaanintrod",
+     "name": "GST in India: An Introduction",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 1.5,
+     "weight_src": "ICAI new-scheme chapters; weight = average marks in the last 7 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-intermediate-s3-msupplyundergst",
+     "name": "Supply under GST",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 4.0,
+     "weight_src": "ICAI new-scheme chapters; weight = average marks in the last 7 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-intermediate-s3-mchargeofgst",
+     "name": "Charge of GST",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 6.2,
+     "weight_src": "ICAI new-scheme chapters; weight = average marks in the last 7 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-intermediate-s3-mexemptionsfromgst",
      "name": "Exemptions from GST",
-     "group": "GST",
-     "topics": []
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 4.9,
+     "weight_src": "ICAI new-scheme chapters; weight = average marks in the last 7 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
     },
     {
-     "id": "ca-intermediate-s3-m8",
-     "name": "Input Tax Credit (ITC)",
-     "group": "GST",
-     "topics": []
+     "id": "ca-intermediate-s3-mtimeofsupply",
+     "name": "Time of Supply",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 3.0,
+     "weight_src": "ICAI new-scheme chapters; weight = average marks in the last 7 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
     },
     {
-     "id": "ca-intermediate-s3-m9",
-     "name": "Registration, Tax Invoice & E-Way Bill",
-     "group": "GST",
-     "topics": []
+     "id": "ca-intermediate-s3-mvalueofsupply",
+     "name": "Value of Supply",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 3.5,
+     "weight_src": "ICAI new-scheme chapters; weight = average marks in the last 7 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-intermediate-s3-minputtaxcredit",
+     "name": "Input Tax Credit",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 10.1,
+     "weight_src": "ICAI new-scheme chapters; weight = average marks in the last 7 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-intermediate-s3-mregistrationunderg",
+     "name": "Registration under GST",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 3.5,
+     "weight_src": "ICAI new-scheme chapters; weight = average marks in the last 7 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-intermediate-s3-mtaxinvoicecreditan",
+     "name": "Tax Invoice, Credit and Debit Notes",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 2.5,
+     "weight_src": "ICAI new-scheme chapters; weight = average marks in the last 7 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-intermediate-s3-maccountsandrecords",
+     "name": "Accounts and Records",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 1.5,
+     "weight_src": "ICAI new-scheme chapters; weight = average marks in the last 7 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-intermediate-s3-mewaybill",
+     "name": "E-Way Bill",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 2.0,
+     "weight_src": "ICAI new-scheme chapters; weight = average marks in the last 7 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-intermediate-s3-mpaymentoftax",
+     "name": "Payment of Tax",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 2.5,
+     "weight_src": "ICAI new-scheme chapters; weight = average marks in the last 7 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-intermediate-s3-mtdsandtcsundergst",
+     "name": "TDS and TCS under GST",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 1.5,
+     "weight_src": "ICAI new-scheme chapters; weight = average marks in the last 7 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-intermediate-s3-mgstreturns",
+     "name": "GST Returns",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 3.0,
+     "weight_src": "ICAI new-scheme chapters; weight = average marks in the last 7 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
     }
    ]
   },
   {
    "id": "ca-intermediate-s4",
    "name": "Cost and Management Accounting",
+   "name_hi": "",
    "modules": [
     {
-     "id": "ca-intermediate-s4-m1",
-     "name": "Basic Cost Concepts",
+     "id": "ca-intermediate-s4-mintroductiontocost",
+     "name": "Introduction to Cost and Management Accounting",
+     "name_hi": "",
      "group": null,
-     "topics": [
-      "Cost Sheet Preparation",
-      "Material Costing",
-      "Labour Costing",
-      "Overheads Allocation and Absorption"
-     ]
+     "topics": [],
+     "status": "verify",
+     "weight": 4.2,
+     "weight_src": "ICAI new-scheme chapters; weight = average marks in the last 7 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
     },
     {
-     "id": "ca-intermediate-s4-m2",
-     "name": "Costing Methods",
+     "id": "ca-intermediate-s4-mmaterialcost",
+     "name": "Material Cost",
+     "name_hi": "",
      "group": null,
-     "topics": [
-      "Job, Batch and Contract Costing",
-      "Process Costing",
-      "Service Costing"
-     ]
+     "topics": [],
+     "status": "verify",
+     "weight": 10.9,
+     "weight_src": "ICAI new-scheme chapters; weight = average marks in the last 7 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
     },
     {
-     "id": "ca-intermediate-s4-m3",
-     "name": "Decision Making Tools",
+     "id": "ca-intermediate-s4-memployeecostanddir",
+     "name": "Employee Cost and Direct Expenses",
+     "name_hi": "",
      "group": null,
-     "topics": [
-      "Marginal Costing & CVP Analysis",
-      "Standard Costing & Variance Analysis",
-      "Budgetary Control"
-     ]
+     "topics": [],
+     "status": "verify",
+     "weight": 6.3,
+     "weight_src": "ICAI new-scheme chapters; weight = average marks in the last 7 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-intermediate-s4-moverheadsabsorptio",
+     "name": "Overheads: Absorption Costing",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 8.4,
+     "weight_src": "ICAI new-scheme chapters; weight = average marks in the last 7 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-intermediate-s4-mactivitybasedcosti",
+     "name": "Activity Based Costing",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 5.3,
+     "weight_src": "ICAI new-scheme chapters; weight = average marks in the last 7 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-intermediate-s4-mcostsheet",
+     "name": "Cost Sheet",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 5.3,
+     "weight_src": "ICAI new-scheme chapters; weight = average marks in the last 7 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-intermediate-s4-mcostaccountingsyst",
+     "name": "Cost Accounting Systems",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 5.3,
+     "weight_src": "ICAI new-scheme chapters; weight = average marks in the last 7 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-intermediate-s4-mbatchcosting",
+     "name": "Batch Costing",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 3.2,
+     "weight_src": "ICAI new-scheme chapters; weight = average marks in the last 7 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-intermediate-s4-mjobcosting",
+     "name": "Job Costing",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 3.2,
+     "weight_src": "ICAI new-scheme chapters; weight = average marks in the last 7 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-intermediate-s4-mprocessandoperatio",
+     "name": "Process and Operation Costing",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 7.4,
+     "weight_src": "ICAI new-scheme chapters; weight = average marks in the last 7 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-intermediate-s4-mjointproductsandby",
+     "name": "Joint Products and By-Products",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 4.2,
+     "weight_src": "ICAI new-scheme chapters; weight = average marks in the last 7 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-intermediate-s4-mservicecosting",
+     "name": "Service Costing",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 6.3,
+     "weight_src": "ICAI new-scheme chapters; weight = average marks in the last 7 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-intermediate-s4-mstandardcosting",
+     "name": "Standard Costing",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 8.4,
+     "weight_src": "ICAI new-scheme chapters; weight = average marks in the last 7 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-intermediate-s4-mmarginalcosting",
+     "name": "Marginal Costing",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 10.6,
+     "weight_src": "ICAI new-scheme chapters; weight = average marks in the last 7 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-intermediate-s4-mbudgetsandbudgetar",
+     "name": "Budgets and Budgetary Control",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 11.2,
+     "weight_src": "ICAI new-scheme chapters; weight = average marks in the last 7 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
     }
    ]
   },
   {
    "id": "ca-intermediate-s5",
    "name": "Auditing and Ethics",
+   "name_hi": "",
    "modules": [
     {
-     "id": "ca-intermediate-s5-m1",
-     "name": "Auditing Concepts",
+     "id": "ca-intermediate-s5-mnatureobjectiveand",
+     "name": "Nature, Objective and Scope of Audit",
+     "name_hi": "",
      "group": null,
-     "topics": [
-      "Nature, Scope and Objectives of Audit",
-      "Audit Strategy, Planning and Programme",
-      "Audit Documentation & Evidence"
-     ]
+     "topics": [],
+     "status": "verify",
+     "weight": 5.2,
+     "weight_src": "ICAI new-scheme chapters; weight = average marks in the last 7 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
     },
     {
-     "id": "ca-intermediate-s5-m2",
-     "name": "Internal Control & Risk Assessment",
+     "id": "ca-intermediate-s5-mauditstrategyaudit",
+     "name": "Audit Strategy, Audit Planning and Audit Programme",
+     "name_hi": "",
      "group": null,
-     "topics": [
-      "Evaluation of Internal Control",
-      "Auditing in Automated Environment"
-     ]
+     "topics": [],
+     "status": "verify",
+     "weight": 10.4,
+     "weight_src": "ICAI new-scheme chapters; weight = average marks in the last 7 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
     },
     {
-     "id": "ca-intermediate-s5-m3",
-     "name": "Audit Sampling & Verification",
+     "id": "ca-intermediate-s5-mriskassessmentandi",
+     "name": "Risk Assessment and Internal Control",
+     "name_hi": "",
      "group": null,
-     "topics": [
-      "Vouching & Verification of Assets/Liabilities",
-      "Company Audit & Audit Report"
-     ]
+     "topics": [],
+     "status": "verify",
+     "weight": 10.4,
+     "weight_src": "ICAI new-scheme chapters; weight = average marks in the last 7 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
     },
     {
-     "id": "ca-intermediate-s5-m4",
-     "name": "Professional Ethics",
+     "id": "ca-intermediate-s5-mauditevidence",
+     "name": "Audit Evidence",
+     "name_hi": "",
      "group": null,
-     "topics": [
-      "Code of Ethics for Chartered Accountants"
-     ]
+     "topics": [],
+     "status": "verify",
+     "weight": 12.5,
+     "weight_src": "ICAI new-scheme chapters; weight = average marks in the last 7 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-intermediate-s5-mauditofitemsoffina",
+     "name": "Audit of Items of Financial Statements",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 9.4,
+     "weight_src": "ICAI new-scheme chapters; weight = average marks in the last 7 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-intermediate-s5-mauditdocumentation",
+     "name": "Audit Documentation",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 5.2,
+     "weight_src": "ICAI new-scheme chapters; weight = average marks in the last 7 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-intermediate-s5-mcompletionandrevie",
+     "name": "Completion and Review",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 8.3,
+     "weight_src": "ICAI new-scheme chapters; weight = average marks in the last 7 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-intermediate-s5-mauditreport",
+     "name": "Audit Report",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 10.4,
+     "weight_src": "ICAI new-scheme chapters; weight = average marks in the last 7 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-intermediate-s5-mspecialfeaturesofa",
+     "name": "Special Features of Audit of Different Entities",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 9.4,
+     "weight_src": "ICAI new-scheme chapters; weight = average marks in the last 7 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-intermediate-s5-mauditofbanks",
+     "name": "Audit of Banks",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 8.3,
+     "weight_src": "ICAI new-scheme chapters; weight = average marks in the last 7 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-intermediate-s5-methicsandtermsofau",
+     "name": "Ethics and Terms of Audit Engagements",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 10.4,
+     "weight_src": "ICAI new-scheme chapters; weight = average marks in the last 7 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
     }
    ]
   },
   {
    "id": "ca-intermediate-s6",
    "name": "Financial Management & Strategic Management",
+   "name_hi": "",
    "modules": [
     {
-     "id": "ca-intermediate-s6-m1",
-     "name": "Scope & Objectives of FM",
-     "group": "Financial Management",
-     "topics": []
+     "id": "ca-intermediate-s6-mfmscopeandobjectiv",
+     "name": "FM: Scope and Objectives",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 2.8,
+     "weight_src": "ICAI new-scheme chapters; weight = average marks in the last 7 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
     },
     {
-     "id": "ca-intermediate-s6-m2",
-     "name": "Cost of Capital & Capital Structure",
-     "group": "Financial Management",
-     "topics": []
+     "id": "ca-intermediate-s6-mtypesoffinancing",
+     "name": "Types of Financing",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 3.4,
+     "weight_src": "ICAI new-scheme chapters; weight = average marks in the last 7 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
     },
     {
-     "id": "ca-intermediate-s6-m3",
-     "name": "Leverage Analysis",
-     "group": "Financial Management",
-     "topics": []
+     "id": "ca-intermediate-s6-mratioanalysis",
+     "name": "Ratio Analysis",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 7.7,
+     "weight_src": "ICAI new-scheme chapters; weight = average marks in the last 7 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
     },
     {
-     "id": "ca-intermediate-s6-m4",
-     "name": "Capital Budgeting Decisions",
-     "group": "Financial Management",
-     "topics": []
+     "id": "ca-intermediate-s6-mcostofcapital",
+     "name": "Cost of Capital",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 5.0,
+     "weight_src": "ICAI new-scheme chapters; weight = average marks in the last 7 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
     },
     {
-     "id": "ca-intermediate-s6-m5",
-     "name": "Working Capital Management",
-     "group": "Financial Management",
-     "topics": []
+     "id": "ca-intermediate-s6-mcapitalstructure",
+     "name": "Capital Structure",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 5.0,
+     "weight_src": "ICAI new-scheme chapters; weight = average marks in the last 7 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
     },
     {
-     "id": "ca-intermediate-s6-m6",
-     "name": "Introduction to Strategy",
-     "group": "Strategic Management",
-     "topics": []
+     "id": "ca-intermediate-s6-mleverages",
+     "name": "Leverages",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 4.5,
+     "weight_src": "ICAI new-scheme chapters; weight = average marks in the last 7 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
     },
     {
-     "id": "ca-intermediate-s6-m7",
-     "name": "Strategic Analysis (SWOT, PESTEL)",
-     "group": "Strategic Management",
-     "topics": []
+     "id": "ca-intermediate-s6-minvestmentdecision",
+     "name": "Investment Decisions (Capital Budgeting)",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 7.5,
+     "weight_src": "ICAI new-scheme chapters; weight = average marks in the last 7 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
     },
     {
-     "id": "ca-intermediate-s6-m8",
-     "name": "Strategy Formulation & Implementation",
-     "group": "Strategic Management",
-     "topics": []
+     "id": "ca-intermediate-s6-mdividenddecision",
+     "name": "Dividend Decision",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 3.4,
+     "weight_src": "ICAI new-scheme chapters; weight = average marks in the last 7 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
     },
     {
-     "id": "ca-intermediate-s6-m9",
-     "name": "Strategic Leadership & Control",
-     "group": "Strategic Management",
-     "topics": []
+     "id": "ca-intermediate-s6-mmanagementofworkin",
+     "name": "Management of Working Capital",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 10.7,
+     "weight_src": "ICAI new-scheme chapters; weight = average marks in the last 7 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-intermediate-s6-msmintroductiontost",
+     "name": "SM: Introduction to Strategic Management",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 5.5,
+     "weight_src": "ICAI new-scheme chapters; weight = average marks in the last 7 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-intermediate-s6-mstrategicanalysise",
+     "name": "Strategic Analysis: External Environment",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 11.3,
+     "weight_src": "ICAI new-scheme chapters; weight = average marks in the last 7 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-intermediate-s6-mstrategicanalysisi",
+     "name": "Strategic Analysis: Internal Environment",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 8.3,
+     "weight_src": "ICAI new-scheme chapters; weight = average marks in the last 7 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-intermediate-s6-mstrategicchoices",
+     "name": "Strategic Choices",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 13.6,
+     "weight_src": "ICAI new-scheme chapters; weight = average marks in the last 7 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-intermediate-s6-mstrategyimplementa",
+     "name": "Strategy Implementation and Evaluation",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 11.3,
+     "weight_src": "ICAI new-scheme chapters; weight = average marks in the last 7 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
     }
    ]
   }
- ]
+ ],
+ "weights_note": "ICAI new-scheme chapters; weight = average marks in the last 7 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify. Taxation: ICAI examines Income-tax under the Income-tax Act, 2025 from the May 2027 attempt."
 }

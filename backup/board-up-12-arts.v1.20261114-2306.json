@@ -1,0 +1,606 @@
+{
+ "id": "board-up-12-arts",
+ "course": "board",
+ "level": "up-12-arts",
+ "name": "UP Board · Class 12 · Arts",
+ "version": 3,
+ "board": "up",
+ "class": "12",
+ "stream": "arts",
+ "subjects": [
+  {
+   "id": "english",
+   "name": "English",
+   "modules": [
+    {
+     "id": "flamingo-the-last-lesson",
+     "name": "Flamingo: The Last Lesson",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "flamingo-lost-spring",
+     "name": "Flamingo: Lost Spring",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "flamingo-deep-water",
+     "name": "Flamingo: Deep Water",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "flamingo-the-rattrap",
+     "name": "Flamingo: The Rattrap",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "flamingo-indigo",
+     "name": "Flamingo: Indigo",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "flamingo-poets-and-pancakes",
+     "name": "Flamingo: Poets and Pancakes",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "flamingo-the-interview",
+     "name": "Flamingo: The Interview",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "flamingo-going-places",
+     "name": "Flamingo: Going Places",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "poem-my-mother-at-sixty-six",
+     "name": "Poem: My Mother at Sixty-Six",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "poem-keeping-quiet",
+     "name": "Poem: Keeping Quiet",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "poem-a-thing-of-beauty",
+     "name": "Poem: A Thing of Beauty",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "poem-a-roadside-stand-check-if-in-syllabus",
+     "name": "Poem: A Roadside Stand (check if in syllabus)",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "poem-aunt-jennifer-s-tigers",
+     "name": "Poem: Aunt Jennifer's Tigers",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "vistas-the-third-level",
+     "name": "Vistas: The Third Level",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "vistas-the-tiger-king",
+     "name": "Vistas: The Tiger King",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "vistas-journey-to-the-end-of-the-earth",
+     "name": "Vistas: Journey to the End of the Earth",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "vistas-the-enemy",
+     "name": "Vistas: The Enemy",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "vistas-on-the-face-of-it",
+     "name": "Vistas: On the Face of It",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "vistas-memories-of-childhood",
+     "name": "Vistas: Memories of Childhood",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "reading-unseen-passages",
+     "name": "Reading: Unseen Passages",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "writing-notice-invitation-letter-article-report",
+     "name": "Writing: Notice, Invitation, Letter, Article, Report",
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  },
+  {
+   "id": "samanya-hindi",
+   "name": "Samanya Hindi",
+   "modules": [
+    {
+     "id": "gadya-khand",
+     "name": "Gadya Khand",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "kavya-khand",
+     "name": "Kavya Khand",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "sanskrit-digdarshika",
+     "name": "Sanskrit Digdarshika",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "kavya-saundarya-ras-chhand-alankar",
+     "name": "Kavya Saundarya (Ras, Chhand, Alankar)",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "nibandh-evam-patra-lekhan",
+     "name": "Nibandh evam Patra Lekhan",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "vyakaran",
+     "name": "Vyakaran",
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  },
+  {
+   "id": "sanskrit",
+   "name": "Sanskrit",
+   "modules": [
+    {
+     "id": "gadya-bhag",
+     "name": "Gadya Bhag",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "padya-bhag",
+     "name": "Padya Bhag",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "vyakaran-sandhi-samas-karak-pratyay",
+     "name": "Vyakaran (Sandhi, Samas, Karak, Pratyay)",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "anuvad",
+     "name": "Anuvad",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "rachana-patra-anuchchhed",
+     "name": "Rachana (Patra, Anuchchhed)",
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  },
+  {
+   "name": "Geography",
+   "modules": [
+    {
+     "name": "Manav Bhugol - Prakriti evam Vishay Kshetra",
+     "topics": [],
+     "status": "verified",
+     "id": "manav-bhugol-prakriti-evam-vishay-kshetra"
+    },
+    {
+     "name": "Vishwa Jansankhya",
+     "topics": [],
+     "status": "verified",
+     "id": "vishwa-jansankhya"
+    },
+    {
+     "name": "Manav Vikas",
+     "topics": [],
+     "status": "verified",
+     "id": "manav-vikas"
+    },
+    {
+     "name": "Prathmik & Ditiyak Kriyayein",
+     "topics": [],
+     "status": "verified",
+     "id": "prathmik-ditiyak-kriyayein"
+    },
+    {
+     "name": "Jansankhya Vitran",
+     "topics": [],
+     "status": "verified",
+     "id": "jansankhya-vitran"
+    },
+    {
+     "name": "Pravas",
+     "topics": [],
+     "status": "verified",
+     "id": "pravas"
+    },
+    {
+     "name": "Manav Basti",
+     "topics": [],
+     "status": "verified",
+     "id": "manav-basti"
+    },
+    {
+     "name": "Bhu-Sansadhan tatha Krishi",
+     "topics": [],
+     "status": "verified",
+     "id": "bhu-sansadhan-tatha-krishi"
+    }
+   ],
+   "id": "geography"
+  },
+  {
+   "name": "History",
+   "modules": [
+    {
+     "name": "Bricks, Beads and Bones (Harappan)",
+     "topics": [],
+     "status": "verified",
+     "id": "bricks-beads-and-bones-harappan"
+    },
+    {
+     "name": "Kings, Farmers and Towns",
+     "topics": [],
+     "status": "verified",
+     "id": "kings-farmers-and-towns"
+    },
+    {
+     "name": "Kinship, Caste and Class",
+     "topics": [],
+     "status": "verified",
+     "id": "kinship-caste-and-class"
+    },
+    {
+     "name": "Thinkers, Beliefs and Buildings",
+     "topics": [],
+     "status": "verify",
+     "id": "thinkers-beliefs-and-buildings"
+    },
+    {
+     "name": "Through the Eyes of Travellers",
+     "topics": [],
+     "status": "verified",
+     "id": "through-the-eyes-of-travellers"
+    },
+    {
+     "name": "Bhakti-Sufi Traditions",
+     "topics": [],
+     "status": "verified",
+     "id": "bhakti-sufi-traditions"
+    },
+    {
+     "name": "An Imperial Capital: Vijayanagara",
+     "topics": [],
+     "status": "verified",
+     "id": "an-imperial-capital-vijayanagara"
+    },
+    {
+     "name": "Peasants, Zamindars and the State",
+     "topics": [],
+     "status": "verify",
+     "id": "peasants-zamindars-and-the-state"
+    },
+    {
+     "name": "Colonialism and the Countryside",
+     "topics": [],
+     "status": "verified",
+     "id": "colonialism-and-the-countryside"
+    },
+    {
+     "name": "Rebels and the Raj",
+     "topics": [],
+     "status": "verified",
+     "id": "rebels-and-the-raj"
+    },
+    {
+     "name": "Mahatma Gandhi and the Nationalist Movement",
+     "topics": [],
+     "status": "verified",
+     "id": "mahatma-gandhi-and-the-nationalist-movement"
+    },
+    {
+     "name": "Framing the Constitution",
+     "topics": [],
+     "status": "verify",
+     "id": "framing-the-constitution"
+    }
+   ],
+   "id": "history"
+  },
+  {
+   "name": "Political Science",
+   "modules": [
+    {
+     "name": "The End of Bipolarity",
+     "topics": [],
+     "status": "verified",
+     "id": "the-end-of-bipolarity"
+    },
+    {
+     "name": "New Centres of Power",
+     "topics": [],
+     "status": "verified",
+     "id": "new-centres-of-power"
+    },
+    {
+     "name": "Contemporary South Asia",
+     "topics": [],
+     "status": "verified",
+     "id": "contemporary-south-asia"
+    },
+    {
+     "name": "International Organisations",
+     "topics": [],
+     "status": "verified",
+     "id": "international-organisations"
+    },
+    {
+     "name": "Environment and Natural Resources",
+     "topics": [],
+     "status": "verified",
+     "id": "environment-and-natural-resources"
+    },
+    {
+     "name": "Challenges of Nation Building",
+     "topics": [],
+     "status": "verified",
+     "id": "challenges-of-nation-building"
+    },
+    {
+     "name": "Planned Development",
+     "topics": [],
+     "status": "verified",
+     "id": "planned-development"
+    },
+    {
+     "name": "India's External Relations",
+     "topics": [],
+     "status": "verified",
+     "id": "india-s-external-relations"
+    },
+    {
+     "name": "Democratic Resurgence",
+     "topics": [],
+     "status": "verified",
+     "id": "democratic-resurgence"
+    },
+    {
+     "name": "Regional Aspirations",
+     "topics": [],
+     "status": "verified",
+     "id": "regional-aspirations"
+    }
+   ],
+   "id": "political-science"
+  },
+  {
+   "name": "Economics",
+   "modules": [
+    {
+     "name": "Macro: National Income Accounting",
+     "topics": [],
+     "status": "verify",
+     "id": "macro-national-income-accounting"
+    },
+    {
+     "name": "Macro: Money and Banking",
+     "topics": [],
+     "status": "verify",
+     "id": "macro-money-and-banking"
+    },
+    {
+     "name": "Macro: Determination of Income and Employment",
+     "topics": [],
+     "status": "verify",
+     "id": "macro-determination-of-income-and-employment"
+    },
+    {
+     "name": "Macro: Government Budget and the Economy",
+     "topics": [],
+     "status": "verify",
+     "id": "macro-government-budget-and-the-economy"
+    },
+    {
+     "name": "Macro: Balance of Payments",
+     "topics": [],
+     "status": "verify",
+     "id": "macro-balance-of-payments"
+    },
+    {
+     "name": "Indian Economy: Development Experience (1947–90) and Reforms since 1991",
+     "topics": [],
+     "status": "verify",
+     "id": "indian-economy-development-experience-1947-90-and-reforms-since-1991"
+    },
+    {
+     "name": "Indian Economy: Current Challenges",
+     "topics": [],
+     "status": "verify",
+     "id": "indian-economy-current-challenges"
+    },
+    {
+     "name": "Indian Economy: Comparison with Neighbours",
+     "topics": [],
+     "status": "verify",
+     "id": "indian-economy-comparison-with-neighbours"
+    }
+   ],
+   "id": "economics"
+  },
+  {
+   "id": "sociology",
+   "name": "Sociology",
+   "modules": [
+    {
+     "id": "introducing-indian-society",
+     "name": "Introducing Indian Society",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "the-demographic-structure-of-indian-society",
+     "name": "The Demographic Structure of Indian Society",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "social-institutions-continuity-and-change",
+     "name": "Social Institutions: Continuity and Change",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "the-market-as-a-social-institution",
+     "name": "The Market as a Social Institution",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "patterns-of-social-inequality-and-exclusion",
+     "name": "Patterns of Social Inequality and Exclusion",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "the-challenges-of-cultural-diversity",
+     "name": "The Challenges of Cultural Diversity",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "structural-change",
+     "name": "Structural Change",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "cultural-change",
+     "name": "Cultural Change",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "change-and-development-in-rural-society",
+     "name": "Change and Development in Rural Society",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "change-and-development-in-industrial-society",
+     "name": "Change and Development in Industrial Society",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "globalisation-and-social-change",
+     "name": "Globalisation and Social Change",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "mass-media-and-communications",
+     "name": "Mass Media and Communications",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "social-movements",
+     "name": "Social Movements",
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  },
+  {
+   "id": "psychology",
+   "name": "Psychology",
+   "modules": [
+    {
+     "id": "variations-in-psychological-attributes",
+     "name": "Variations in Psychological Attributes",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "self-and-personality",
+     "name": "Self and Personality",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "meeting-life-challenges",
+     "name": "Meeting Life Challenges",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "psychological-disorders",
+     "name": "Psychological Disorders",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "therapeutic-approaches",
+     "name": "Therapeutic Approaches",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "attitude-and-social-cognition",
+     "name": "Attitude and Social Cognition",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "social-influence-and-group-processes",
+     "name": "Social Influence and Group Processes",
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  }
+ ]
+}

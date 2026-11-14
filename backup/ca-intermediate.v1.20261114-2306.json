@@ -1,0 +1,328 @@
+{
+ "id": "ca-intermediate",
+ "course": "ca",
+ "level": "intermediate",
+ "name": "CA Intermediate",
+ "version": 1,
+ "subjects": [
+  {
+   "id": "ca-intermediate-s1",
+   "name": "Advanced Accounting",
+   "modules": [
+    {
+     "id": "ca-intermediate-s1-m1",
+     "name": "Accounting Standards (AS)",
+     "group": null,
+     "topics": [
+      "AS 1, 2, 3, 10, 11",
+      "AS 12, 13, 16, 22"
+     ]
+    },
+    {
+     "id": "ca-intermediate-s1-m2",
+     "name": "Company Accounts",
+     "group": null,
+     "topics": [
+      "Redemption of Preference Shares & Debentures",
+      "Bonus and Rights Issue",
+      "Buyback of Securities"
+     ]
+    },
+    {
+     "id": "ca-intermediate-s1-m3",
+     "name": "Financial Statements of Companies",
+     "group": null,
+     "topics": [
+      "P&L and Balance Sheet (Schedule III)"
+     ]
+    },
+    {
+     "id": "ca-intermediate-s1-m4",
+     "name": "Amalgamation and Reconstruction",
+     "group": null,
+     "topics": [
+      "Amalgamation (Merger/Purchase)",
+      "Internal Reconstruction"
+     ]
+    },
+    {
+     "id": "ca-intermediate-s1-m5",
+     "name": "Partnership & Branch Accounts",
+     "group": null,
+     "topics": [
+      "Dissolution & Piecemeal Distribution",
+      "Inland & Foreign Branch Accounting"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ca-intermediate-s2",
+   "name": "Corporate and Other Laws",
+   "modules": [
+    {
+     "id": "ca-intermediate-s2-m1",
+     "name": "Prospectus & Allotment of Securities",
+     "group": "Company Law",
+     "topics": []
+    },
+    {
+     "id": "ca-intermediate-s2-m2",
+     "name": "Share Capital and Debentures",
+     "group": "Company Law",
+     "topics": []
+    },
+    {
+     "id": "ca-intermediate-s2-m3",
+     "name": "Acceptance of Deposits & Charges",
+     "group": "Company Law",
+     "topics": []
+    },
+    {
+     "id": "ca-intermediate-s2-m4",
+     "name": "Management & Administration (AGM/EGM)",
+     "group": "Company Law",
+     "topics": []
+    },
+    {
+     "id": "ca-intermediate-s2-m5",
+     "name": "Declaration & Payment of Dividend",
+     "group": "Company Law",
+     "topics": []
+    },
+    {
+     "id": "ca-intermediate-s2-m6",
+     "name": "Accounts & Audit of Companies",
+     "group": "Company Law",
+     "topics": []
+    },
+    {
+     "id": "ca-intermediate-s2-m7",
+     "name": "Contract Act: Indemnity, Guarantee, Bailment, Agency",
+     "group": "Other Laws",
+     "topics": []
+    },
+    {
+     "id": "ca-intermediate-s2-m8",
+     "name": "Negotiable Instruments Act, 1881",
+     "group": "Other Laws",
+     "topics": []
+    },
+    {
+     "id": "ca-intermediate-s2-m9",
+     "name": "General Clauses Act & Interpretation of Statutes",
+     "group": "Other Laws",
+     "topics": []
+    }
+   ]
+  },
+  {
+   "id": "ca-intermediate-s3",
+   "name": "Taxation",
+   "modules": [
+    {
+     "id": "ca-intermediate-s3-m1",
+     "name": "Basic Concepts & Residential Status",
+     "group": "Income Tax",
+     "topics": []
+    },
+    {
+     "id": "ca-intermediate-s3-m2",
+     "name": "Heads of Income",
+     "group": "Income Tax",
+     "topics": [
+      "Salary",
+      "House Property",
+      "PGBP",
+      "Capital Gains",
+      "Other Sources"
+     ]
+    },
+    {
+     "id": "ca-intermediate-s3-m3",
+     "name": "Clubbing & Set-off of Losses",
+     "group": "Income Tax",
+     "topics": []
+    },
+    {
+     "id": "ca-intermediate-s3-m4",
+     "name": "Deductions under Chapter VI-A",
+     "group": "Income Tax",
+     "topics": []
+    },
+    {
+     "id": "ca-intermediate-s3-m5",
+     "name": "TDS/TCS, Advance Tax & Return Filing",
+     "group": "Income Tax",
+     "topics": []
+    },
+    {
+     "id": "ca-intermediate-s3-m6",
+     "name": "Concept of Supply & Charge of GST",
+     "group": "GST",
+     "topics": [
+      "Concept of Supply",
+      "Charge of GST & Composition Scheme"
+     ]
+    },
+    {
+     "id": "ca-intermediate-s3-m7",
+     "name": "Exemptions from GST",
+     "group": "GST",
+     "topics": []
+    },
+    {
+     "id": "ca-intermediate-s3-m8",
+     "name": "Input Tax Credit (ITC)",
+     "group": "GST",
+     "topics": []
+    },
+    {
+     "id": "ca-intermediate-s3-m9",
+     "name": "Registration, Tax Invoice & E-Way Bill",
+     "group": "GST",
+     "topics": []
+    }
+   ]
+  },
+  {
+   "id": "ca-intermediate-s4",
+   "name": "Cost and Management Accounting",
+   "modules": [
+    {
+     "id": "ca-intermediate-s4-m1",
+     "name": "Basic Cost Concepts",
+     "group": null,
+     "topics": [
+      "Cost Sheet Preparation",
+      "Material Costing",
+      "Labour Costing",
+      "Overheads Allocation and Absorption"
+     ]
+    },
+    {
+     "id": "ca-intermediate-s4-m2",
+     "name": "Costing Methods",
+     "group": null,
+     "topics": [
+      "Job, Batch and Contract Costing",
+      "Process Costing",
+      "Service Costing"
+     ]
+    },
+    {
+     "id": "ca-intermediate-s4-m3",
+     "name": "Decision Making Tools",
+     "group": null,
+     "topics": [
+      "Marginal Costing & CVP Analysis",
+      "Standard Costing & Variance Analysis",
+      "Budgetary Control"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ca-intermediate-s5",
+   "name": "Auditing and Ethics",
+   "modules": [
+    {
+     "id": "ca-intermediate-s5-m1",
+     "name": "Auditing Concepts",
+     "group": null,
+     "topics": [
+      "Nature, Scope and Objectives of Audit",
+      "Audit Strategy, Planning and Programme",
+      "Audit Documentation & Evidence"
+     ]
+    },
+    {
+     "id": "ca-intermediate-s5-m2",
+     "name": "Internal Control & Risk Assessment",
+     "group": null,
+     "topics": [
+      "Evaluation of Internal Control",
+      "Auditing in Automated Environment"
+     ]
+    },
+    {
+     "id": "ca-intermediate-s5-m3",
+     "name": "Audit Sampling & Verification",
+     "group": null,
+     "topics": [
+      "Vouching & Verification of Assets/Liabilities",
+      "Company Audit & Audit Report"
+     ]
+    },
+    {
+     "id": "ca-intermediate-s5-m4",
+     "name": "Professional Ethics",
+     "group": null,
+     "topics": [
+      "Code of Ethics for Chartered Accountants"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ca-intermediate-s6",
+   "name": "Financial Management & Strategic Management",
+   "modules": [
+    {
+     "id": "ca-intermediate-s6-m1",
+     "name": "Scope & Objectives of FM",
+     "group": "Financial Management",
+     "topics": []
+    },
+    {
+     "id": "ca-intermediate-s6-m2",
+     "name": "Cost of Capital & Capital Structure",
+     "group": "Financial Management",
+     "topics": []
+    },
+    {
+     "id": "ca-intermediate-s6-m3",
+     "name": "Leverage Analysis",
+     "group": "Financial Management",
+     "topics": []
+    },
+    {
+     "id": "ca-intermediate-s6-m4",
+     "name": "Capital Budgeting Decisions",
+     "group": "Financial Management",
+     "topics": []
+    },
+    {
+     "id": "ca-intermediate-s6-m5",
+     "name": "Working Capital Management",
+     "group": "Financial Management",
+     "topics": []
+    },
+    {
+     "id": "ca-intermediate-s6-m6",
+     "name": "Introduction to Strategy",
+     "group": "Strategic Management",
+     "topics": []
+    },
+    {
+     "id": "ca-intermediate-s6-m7",
+     "name": "Strategic Analysis (SWOT, PESTEL)",
+     "group": "Strategic Management",
+     "topics": []
+    },
+    {
+     "id": "ca-intermediate-s6-m8",
+     "name": "Strategy Formulation & Implementation",
+     "group": "Strategic Management",
+     "topics": []
+    },
+    {
+     "id": "ca-intermediate-s6-m9",
+     "name": "Strategic Leadership & Control",
+     "group": "Strategic Management",
+     "topics": []
+    }
+   ]
+  }
+ ]
+}
