@@ -3,7 +3,7 @@
  "course": "board",
  "level": "others-12-commerce",
  "name": "Other boards (NCERT-based) · Class 12 · Commerce",
- "version": 3,
+ "version": 4,
  "board": "others",
  "class": "12",
  "stream": "commerce",
@@ -351,79 +351,105 @@
      "name": "Relations and Functions",
      "topics": [],
      "status": "verify",
-     "id": "relations-and-functions"
+     "id": "relations-and-functions",
+     "weight": 5.0,
+     "weight_src": "CBSE curriculum 2026-27, unit-wise theory marks (unit split evenly across its chapters), shown as % of the theory paper"
     },
     {
      "name": "Inverse Trigonometric Functions",
      "topics": [],
      "status": "verify",
-     "id": "inverse-trigonometric-functions"
+     "id": "inverse-trigonometric-functions",
+     "weight": 5.0,
+     "weight_src": "CBSE curriculum 2026-27, unit-wise theory marks (unit split evenly across its chapters), shown as % of the theory paper"
     },
     {
      "name": "Matrices",
      "topics": [],
      "status": "verify",
-     "id": "matrices"
+     "id": "matrices",
+     "weight": 6.2,
+     "weight_src": "CBSE curriculum 2026-27, unit-wise theory marks (unit split evenly across its chapters), shown as % of the theory paper"
     },
     {
      "name": "Determinants",
      "topics": [],
      "status": "verify",
-     "id": "determinants"
+     "id": "determinants",
+     "weight": 6.2,
+     "weight_src": "CBSE curriculum 2026-27, unit-wise theory marks (unit split evenly across its chapters), shown as % of the theory paper"
     },
     {
      "name": "Continuity and Differentiability",
      "topics": [],
      "status": "verify",
-     "id": "continuity-and-differentiability"
+     "id": "continuity-and-differentiability",
+     "weight": 8.8,
+     "weight_src": "CBSE curriculum 2026-27, unit-wise theory marks (unit split evenly across its chapters), shown as % of the theory paper"
     },
     {
      "name": "Application of Derivatives",
      "topics": [],
      "status": "verify",
-     "id": "application-of-derivatives"
+     "id": "application-of-derivatives",
+     "weight": 8.8,
+     "weight_src": "CBSE curriculum 2026-27, unit-wise theory marks (unit split evenly across its chapters), shown as % of the theory paper"
     },
     {
      "name": "Integrals",
      "topics": [],
      "status": "verify",
-     "id": "integrals"
+     "id": "integrals",
+     "weight": 8.8,
+     "weight_src": "CBSE curriculum 2026-27, unit-wise theory marks (unit split evenly across its chapters), shown as % of the theory paper"
     },
     {
      "name": "Application of Integrals",
      "topics": [],
      "status": "verify",
-     "id": "application-of-integrals"
+     "id": "application-of-integrals",
+     "weight": 8.8,
+     "weight_src": "CBSE curriculum 2026-27, unit-wise theory marks (unit split evenly across its chapters), shown as % of the theory paper"
     },
     {
      "name": "Differential Equations",
      "topics": [],
      "status": "verify",
-     "id": "differential-equations"
+     "id": "differential-equations",
+     "weight": 8.8,
+     "weight_src": "CBSE curriculum 2026-27, unit-wise theory marks (unit split evenly across its chapters), shown as % of the theory paper"
     },
     {
      "name": "Vector Algebra",
      "topics": [],
      "status": "verify",
-     "id": "vector-algebra"
+     "id": "vector-algebra",
+     "weight": 8.8,
+     "weight_src": "CBSE curriculum 2026-27, unit-wise theory marks (unit split evenly across its chapters), shown as % of the theory paper"
     },
     {
      "name": "Three Dimensional Geometry",
      "topics": [],
      "status": "verify",
-     "id": "three-dimensional-geometry"
+     "id": "three-dimensional-geometry",
+     "weight": 8.8,
+     "weight_src": "CBSE curriculum 2026-27, unit-wise theory marks (unit split evenly across its chapters), shown as % of the theory paper"
     },
     {
      "name": "Linear Programming",
      "topics": [],
      "status": "verify",
-     "id": "linear-programming"
+     "id": "linear-programming",
+     "weight": 6.2,
+     "weight_src": "CBSE curriculum 2026-27, unit-wise theory marks (unit split evenly across its chapters), shown as % of the theory paper"
     },
     {
      "name": "Probability",
      "topics": [],
      "status": "verify",
-     "id": "probability"
+     "id": "probability",
+     "weight": 10.0,
+     "weight_src": "CBSE curriculum 2026-27, unit-wise theory marks (unit split evenly across its chapters), shown as % of the theory paper"
     }
    ],
    "id": "mathematics"
@@ -554,5 +580,6 @@
     }
    ]
   }
- ]
+ ],
+ "weights_note": "CBSE curriculum 2026-27, unit-wise theory marks (unit split evenly across its chapters), shown as % of the theory paper. Biology unit marks differ between sources — check the CBSE PDF."
 }

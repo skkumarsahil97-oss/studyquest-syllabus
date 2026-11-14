@@ -1,0 +1,588 @@
+{
+ "id": "board-cbse-10",
+ "course": "board",
+ "level": "cbse-10",
+ "name": "CBSE · Class 10",
+ "version": 3,
+ "board": "cbse",
+ "class": "10",
+ "stream": null,
+ "subjects": [
+  {
+   "id": "english",
+   "name": "English",
+   "modules": [
+    {
+     "id": "first-flight-a-letter-to-god",
+     "name": "First Flight: A Letter to God",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "first-flight-nelson-mandela-long-walk-to-freedom",
+     "name": "First Flight: Nelson Mandela: Long Walk to Freedom",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "first-flight-two-stories-about-flying",
+     "name": "First Flight: Two Stories about Flying",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "first-flight-from-the-diary-of-anne-frank",
+     "name": "First Flight: From the Diary of Anne Frank",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "first-flight-glimpses-of-india",
+     "name": "First Flight: Glimpses of India",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "first-flight-mijbil-the-otter",
+     "name": "First Flight: Mijbil the Otter",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "first-flight-madam-rides-the-bus",
+     "name": "First Flight: Madam Rides the Bus",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "first-flight-the-sermon-at-benares",
+     "name": "First Flight: The Sermon at Benares",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "first-flight-the-proposal",
+     "name": "First Flight: The Proposal",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "poem-dust-of-snow",
+     "name": "Poem: Dust of Snow",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "poem-fire-and-ice",
+     "name": "Poem: Fire and Ice",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "poem-a-tiger-in-the-zoo",
+     "name": "Poem: A Tiger in the Zoo",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "poem-how-to-tell-wild-animals",
+     "name": "Poem: How to Tell Wild Animals",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "poem-the-ball-poem",
+     "name": "Poem: The Ball Poem",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "poem-amanda",
+     "name": "Poem: Amanda!",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "poem-the-trees",
+     "name": "Poem: The Trees",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "poem-fog",
+     "name": "Poem: Fog",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "poem-the-tale-of-custard-the-dragon",
+     "name": "Poem: The Tale of Custard the Dragon",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "poem-for-anne-gregory",
+     "name": "Poem: For Anne Gregory",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "footprints-a-triumph-of-surgery",
+     "name": "Footprints: A Triumph of Surgery",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "footprints-the-thief-s-story",
+     "name": "Footprints: The Thief's Story",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "footprints-the-midnight-visitor",
+     "name": "Footprints: The Midnight Visitor",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "footprints-a-question-of-trust",
+     "name": "Footprints: A Question of Trust",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "footprints-footprints-without-feet",
+     "name": "Footprints: Footprints without Feet",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "footprints-the-making-of-a-scientist",
+     "name": "Footprints: The Making of a Scientist",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "footprints-the-necklace",
+     "name": "Footprints: The Necklace",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "footprints-bholi",
+     "name": "Footprints: Bholi",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "footprints-the-book-that-saved-the-earth",
+     "name": "Footprints: The Book That Saved the Earth",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "reading-unseen-passages",
+     "name": "Reading: Unseen Passages",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "grammar",
+     "name": "Grammar",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "writing-skills",
+     "name": "Writing Skills",
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  },
+  {
+   "id": "hindi",
+   "name": "Hindi",
+   "modules": [
+    {
+     "id": "kshitij-sparsh-gadya-khand",
+     "name": "Kshitij / Sparsh: Gadya Khand",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "kshitij-sparsh-kavya-khand",
+     "name": "Kshitij / Sparsh: Kavya Khand",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "kritika-sanchayan",
+     "name": "Kritika / Sanchayan",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "vyakaran",
+     "name": "Vyakaran",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "lekhan-patra-anuchchhed-vigyapan",
+     "name": "Lekhan (Patra, Anuchchhed, Vigyapan)",
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  },
+  {
+   "id": "sanskrit",
+   "name": "Sanskrit",
+   "modules": [
+    {
+     "id": "gadya-bhag",
+     "name": "Gadya Bhag",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "padya-bhag",
+     "name": "Padya Bhag",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "vyakaran-sandhi-samas-karak-pratyay",
+     "name": "Vyakaran (Sandhi, Samas, Karak, Pratyay)",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "anuvad",
+     "name": "Anuvad",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "rachana-patra-anuchchhed",
+     "name": "Rachana (Patra, Anuchchhed)",
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  },
+  {
+   "name": "Science",
+   "modules": [
+    {
+     "name": "Chemical Reactions and Equations",
+     "topics": [],
+     "status": "verified",
+     "id": "chemical-reactions-and-equations"
+    },
+    {
+     "name": "Acids, Bases and Salts",
+     "topics": [],
+     "status": "verified",
+     "id": "acids-bases-and-salts"
+    },
+    {
+     "name": "Metals and Non-metals",
+     "topics": [],
+     "status": "verified",
+     "id": "metals-and-non-metals"
+    },
+    {
+     "name": "Carbon and its Compounds",
+     "topics": [],
+     "status": "verified",
+     "id": "carbon-and-its-compounds"
+    },
+    {
+     "name": "Life Processes",
+     "topics": [],
+     "status": "verified",
+     "id": "life-processes"
+    },
+    {
+     "name": "Control and Coordination",
+     "topics": [],
+     "status": "verified",
+     "id": "control-and-coordination"
+    },
+    {
+     "name": "How do Organisms Reproduce?",
+     "topics": [],
+     "status": "verified",
+     "id": "how-do-organisms-reproduce"
+    },
+    {
+     "name": "Heredity and Evolution",
+     "topics": [],
+     "status": "verified",
+     "id": "heredity-and-evolution"
+    },
+    {
+     "name": "Light: Reflection and Refraction",
+     "topics": [],
+     "status": "verified",
+     "id": "light-reflection-and-refraction"
+    },
+    {
+     "name": "Human Eye and Colourful World",
+     "topics": [],
+     "status": "verified",
+     "id": "human-eye-and-colourful-world"
+    },
+    {
+     "name": "Electricity",
+     "topics": [],
+     "status": "verified",
+     "id": "electricity"
+    },
+    {
+     "name": "Magnetic Effects of Electric Current",
+     "topics": [],
+     "status": "verified",
+     "id": "magnetic-effects-of-electric-current"
+    },
+    {
+     "name": "Our Environment",
+     "topics": [],
+     "status": "verify",
+     "id": "our-environment"
+    }
+   ],
+   "id": "science"
+  },
+  {
+   "name": "Mathematics",
+   "modules": [
+    {
+     "name": "Real Numbers",
+     "topics": [],
+     "status": "verified",
+     "id": "real-numbers"
+    },
+    {
+     "name": "Polynomials",
+     "topics": [],
+     "status": "verified",
+     "id": "polynomials"
+    },
+    {
+     "name": "Pair of Linear Equations",
+     "topics": [],
+     "status": "verified",
+     "id": "pair-of-linear-equations"
+    },
+    {
+     "name": "Quadratic Equations",
+     "topics": [],
+     "status": "verified",
+     "id": "quadratic-equations"
+    },
+    {
+     "name": "Arithmetic Progressions",
+     "topics": [],
+     "status": "verified",
+     "id": "arithmetic-progressions"
+    },
+    {
+     "name": "Triangles",
+     "topics": [],
+     "status": "verified",
+     "id": "triangles"
+    },
+    {
+     "name": "Coordinate Geometry",
+     "topics": [],
+     "status": "verified",
+     "id": "coordinate-geometry"
+    },
+    {
+     "name": "Introduction to Trigonometry",
+     "topics": [],
+     "status": "verified",
+     "id": "introduction-to-trigonometry"
+    },
+    {
+     "name": "Some Applications of Trigonometry",
+     "topics": [],
+     "status": "verified",
+     "id": "some-applications-of-trigonometry"
+    },
+    {
+     "name": "Circles",
+     "topics": [],
+     "status": "verified",
+     "id": "circles"
+    },
+    {
+     "name": "Areas Related to Circles",
+     "topics": [],
+     "status": "verified",
+     "id": "areas-related-to-circles"
+    },
+    {
+     "name": "Surface Areas and Volumes",
+     "topics": [],
+     "status": "verified",
+     "id": "surface-areas-and-volumes"
+    },
+    {
+     "name": "Statistics",
+     "topics": [],
+     "status": "verified",
+     "id": "statistics"
+    },
+    {
+     "name": "Probability",
+     "topics": [],
+     "status": "verified",
+     "id": "probability"
+    }
+   ],
+   "id": "mathematics"
+  },
+  {
+   "name": "Social Science",
+   "modules": [
+    {
+     "name": "History: Rise of Nationalism in Europe",
+     "topics": [],
+     "status": "verify",
+     "id": "history-rise-of-nationalism-in-europe"
+    },
+    {
+     "name": "History: Nationalism in India",
+     "topics": [],
+     "status": "verify",
+     "id": "history-nationalism-in-india"
+    },
+    {
+     "name": "History: The Making of a Global World",
+     "topics": [],
+     "status": "verify",
+     "id": "history-the-making-of-a-global-world"
+    },
+    {
+     "name": "History: The Age of Industrialisation",
+     "topics": [],
+     "status": "verify",
+     "id": "history-the-age-of-industrialisation"
+    },
+    {
+     "name": "History: Print Culture and the Modern World",
+     "topics": [],
+     "status": "verify",
+     "id": "history-print-culture-and-the-modern-world"
+    },
+    {
+     "name": "Geography: Resources and Development",
+     "topics": [],
+     "status": "verify",
+     "id": "geography-resources-and-development"
+    },
+    {
+     "name": "Geography: Forest and Wildlife Resources",
+     "topics": [],
+     "status": "verify",
+     "id": "geography-forest-and-wildlife-resources"
+    },
+    {
+     "name": "Geography: Water Resources",
+     "topics": [],
+     "status": "verify",
+     "id": "geography-water-resources"
+    },
+    {
+     "name": "Geography: Agriculture",
+     "topics": [],
+     "status": "verify",
+     "id": "geography-agriculture"
+    },
+    {
+     "name": "Geography: Minerals and Energy Resources",
+     "topics": [],
+     "status": "verify",
+     "id": "geography-minerals-and-energy-resources"
+    },
+    {
+     "name": "Geography: Manufacturing Industries",
+     "topics": [],
+     "status": "verify",
+     "id": "geography-manufacturing-industries"
+    },
+    {
+     "name": "Geography: Lifelines of National Economy",
+     "topics": [],
+     "status": "verify",
+     "id": "geography-lifelines-of-national-economy"
+    },
+    {
+     "name": "Civics: Power Sharing",
+     "topics": [],
+     "status": "verify",
+     "id": "civics-power-sharing"
+    },
+    {
+     "name": "Civics: Federalism",
+     "topics": [],
+     "status": "verify",
+     "id": "civics-federalism"
+    },
+    {
+     "name": "Civics: Gender, Religion and Caste",
+     "topics": [],
+     "status": "verify",
+     "id": "civics-gender-religion-and-caste"
+    },
+    {
+     "name": "Civics: Political Parties",
+     "topics": [],
+     "status": "verify",
+     "id": "civics-political-parties"
+    },
+    {
+     "name": "Civics: Outcomes of Democracy",
+     "topics": [],
+     "status": "verify",
+     "id": "civics-outcomes-of-democracy"
+    },
+    {
+     "name": "Economics: Development",
+     "topics": [],
+     "status": "verify",
+     "id": "economics-development"
+    },
+    {
+     "name": "Economics: Sectors of the Indian Economy",
+     "topics": [],
+     "status": "verify",
+     "id": "economics-sectors-of-the-indian-economy"
+    },
+    {
+     "name": "Economics: Money and Credit",
+     "topics": [],
+     "status": "verify",
+     "id": "economics-money-and-credit"
+    },
+    {
+     "name": "Economics: Globalisation and the Indian Economy",
+     "topics": [],
+     "status": "verify",
+     "id": "economics-globalisation-and-the-indian-economy"
+    },
+    {
+     "name": "Economics: Consumer Rights",
+     "topics": [],
+     "status": "verify",
+     "id": "economics-consumer-rights"
+    }
+   ],
+   "id": "social-science"
+  }
+ ]
+}

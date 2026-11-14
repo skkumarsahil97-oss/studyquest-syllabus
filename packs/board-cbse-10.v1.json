@@ -3,7 +3,7 @@
  "course": "board",
  "level": "cbse-10",
  "name": "CBSE · Class 10",
- "version": 3,
+ "version": 4,
  "board": "cbse",
  "class": "10",
  "stream": null,
@@ -279,79 +279,105 @@
      "name": "Chemical Reactions and Equations",
      "topics": [],
      "status": "verified",
-     "id": "chemical-reactions-and-equations"
+     "id": "chemical-reactions-and-equations",
+     "weight": 7.8,
+     "weight_src": "CBSE curriculum 2026-27, unit-wise theory marks (unit split evenly across its chapters), shown as % of the theory paper"
     },
     {
      "name": "Acids, Bases and Salts",
      "topics": [],
      "status": "verified",
-     "id": "acids-bases-and-salts"
+     "id": "acids-bases-and-salts",
+     "weight": 7.8,
+     "weight_src": "CBSE curriculum 2026-27, unit-wise theory marks (unit split evenly across its chapters), shown as % of the theory paper"
     },
     {
      "name": "Metals and Non-metals",
      "topics": [],
      "status": "verified",
-     "id": "metals-and-non-metals"
+     "id": "metals-and-non-metals",
+     "weight": 7.8,
+     "weight_src": "CBSE curriculum 2026-27, unit-wise theory marks (unit split evenly across its chapters), shown as % of the theory paper"
     },
     {
      "name": "Carbon and its Compounds",
      "topics": [],
      "status": "verified",
-     "id": "carbon-and-its-compounds"
+     "id": "carbon-and-its-compounds",
+     "weight": 7.8,
+     "weight_src": "CBSE curriculum 2026-27, unit-wise theory marks (unit split evenly across its chapters), shown as % of the theory paper"
     },
     {
      "name": "Life Processes",
      "topics": [],
      "status": "verified",
-     "id": "life-processes"
+     "id": "life-processes",
+     "weight": 7.8,
+     "weight_src": "CBSE curriculum 2026-27, unit-wise theory marks (unit split evenly across its chapters), shown as % of the theory paper"
     },
     {
      "name": "Control and Coordination",
      "topics": [],
      "status": "verified",
-     "id": "control-and-coordination"
+     "id": "control-and-coordination",
+     "weight": 7.8,
+     "weight_src": "CBSE curriculum 2026-27, unit-wise theory marks (unit split evenly across its chapters), shown as % of the theory paper"
     },
     {
      "name": "How do Organisms Reproduce?",
      "topics": [],
      "status": "verified",
-     "id": "how-do-organisms-reproduce"
+     "id": "how-do-organisms-reproduce",
+     "weight": 7.8,
+     "weight_src": "CBSE curriculum 2026-27, unit-wise theory marks (unit split evenly across its chapters), shown as % of the theory paper"
     },
     {
      "name": "Heredity and Evolution",
      "topics": [],
      "status": "verified",
-     "id": "heredity-and-evolution"
+     "id": "heredity-and-evolution",
+     "weight": 7.8,
+     "weight_src": "CBSE curriculum 2026-27, unit-wise theory marks (unit split evenly across its chapters), shown as % of the theory paper"
     },
     {
      "name": "Light: Reflection and Refraction",
      "topics": [],
      "status": "verified",
-     "id": "light-reflection-and-refraction"
+     "id": "light-reflection-and-refraction",
+     "weight": 7.5,
+     "weight_src": "CBSE curriculum 2026-27, unit-wise theory marks (unit split evenly across its chapters), shown as % of the theory paper"
     },
     {
      "name": "Human Eye and Colourful World",
      "topics": [],
      "status": "verified",
-     "id": "human-eye-and-colourful-world"
+     "id": "human-eye-and-colourful-world",
+     "weight": 7.5,
+     "weight_src": "CBSE curriculum 2026-27, unit-wise theory marks (unit split evenly across its chapters), shown as % of the theory paper"
     },
     {
      "name": "Electricity",
      "topics": [],
      "status": "verified",
-     "id": "electricity"
+     "id": "electricity",
+     "weight": 8.1,
+     "weight_src": "CBSE curriculum 2026-27, unit-wise theory marks (unit split evenly across its chapters), shown as % of the theory paper"
     },
     {
      "name": "Magnetic Effects of Electric Current",
      "topics": [],
      "status": "verified",
-     "id": "magnetic-effects-of-electric-current"
+     "id": "magnetic-effects-of-electric-current",
+     "weight": 8.1,
+     "weight_src": "CBSE curriculum 2026-27, unit-wise theory marks (unit split evenly across its chapters), shown as % of the theory paper"
     },
     {
      "name": "Our Environment",
      "topics": [],
      "status": "verify",
-     "id": "our-environment"
+     "id": "our-environment",
+     "weight": 6.2,
+     "weight_src": "CBSE curriculum 2026-27, unit-wise theory marks (unit split evenly across its chapters), shown as % of the theory paper"
     }
    ],
    "id": "science"
@@ -363,85 +389,113 @@
      "name": "Real Numbers",
      "topics": [],
      "status": "verified",
-     "id": "real-numbers"
+     "id": "real-numbers",
+     "weight": 7.5,
+     "weight_src": "CBSE curriculum 2026-27, unit-wise theory marks (unit split evenly across its chapters), shown as % of the theory paper"
     },
     {
      "name": "Polynomials",
      "topics": [],
      "status": "verified",
-     "id": "polynomials"
+     "id": "polynomials",
+     "weight": 6.2,
+     "weight_src": "CBSE curriculum 2026-27, unit-wise theory marks (unit split evenly across its chapters), shown as % of the theory paper"
     },
     {
      "name": "Pair of Linear Equations",
      "topics": [],
      "status": "verified",
-     "id": "pair-of-linear-equations"
+     "id": "pair-of-linear-equations",
+     "weight": 6.2,
+     "weight_src": "CBSE curriculum 2026-27, unit-wise theory marks (unit split evenly across its chapters), shown as % of the theory paper"
     },
     {
      "name": "Quadratic Equations",
      "topics": [],
      "status": "verified",
-     "id": "quadratic-equations"
+     "id": "quadratic-equations",
+     "weight": 6.2,
+     "weight_src": "CBSE curriculum 2026-27, unit-wise theory marks (unit split evenly across its chapters), shown as % of the theory paper"
     },
     {
      "name": "Arithmetic Progressions",
      "topics": [],
      "status": "verified",
-     "id": "arithmetic-progressions"
+     "id": "arithmetic-progressions",
+     "weight": 6.2,
+     "weight_src": "CBSE curriculum 2026-27, unit-wise theory marks (unit split evenly across its chapters), shown as % of the theory paper"
     },
     {
      "name": "Triangles",
      "topics": [],
      "status": "verified",
-     "id": "triangles"
+     "id": "triangles",
+     "weight": 9.4,
+     "weight_src": "CBSE curriculum 2026-27, unit-wise theory marks (unit split evenly across its chapters), shown as % of the theory paper"
     },
     {
      "name": "Coordinate Geometry",
      "topics": [],
      "status": "verified",
-     "id": "coordinate-geometry"
+     "id": "coordinate-geometry",
+     "weight": 7.5,
+     "weight_src": "CBSE curriculum 2026-27, unit-wise theory marks (unit split evenly across its chapters), shown as % of the theory paper"
     },
     {
      "name": "Introduction to Trigonometry",
      "topics": [],
      "status": "verified",
-     "id": "introduction-to-trigonometry"
+     "id": "introduction-to-trigonometry",
+     "weight": 7.5,
+     "weight_src": "CBSE curriculum 2026-27, unit-wise theory marks (unit split evenly across its chapters), shown as % of the theory paper"
     },
     {
      "name": "Some Applications of Trigonometry",
      "topics": [],
      "status": "verified",
-     "id": "some-applications-of-trigonometry"
+     "id": "some-applications-of-trigonometry",
+     "weight": 7.5,
+     "weight_src": "CBSE curriculum 2026-27, unit-wise theory marks (unit split evenly across its chapters), shown as % of the theory paper"
     },
     {
      "name": "Circles",
      "topics": [],
      "status": "verified",
-     "id": "circles"
+     "id": "circles",
+     "weight": 9.4,
+     "weight_src": "CBSE curriculum 2026-27, unit-wise theory marks (unit split evenly across its chapters), shown as % of the theory paper"
     },
     {
      "name": "Areas Related to Circles",
      "topics": [],
      "status": "verified",
-     "id": "areas-related-to-circles"
+     "id": "areas-related-to-circles",
+     "weight": 6.2,
+     "weight_src": "CBSE curriculum 2026-27, unit-wise theory marks (unit split evenly across its chapters), shown as % of the theory paper"
     },
     {
      "name": "Surface Areas and Volumes",
      "topics": [],
      "status": "verified",
-     "id": "surface-areas-and-volumes"
+     "id": "surface-areas-and-volumes",
+     "weight": 6.2,
+     "weight_src": "CBSE curriculum 2026-27, unit-wise theory marks (unit split evenly across its chapters), shown as % of the theory paper"
     },
     {
      "name": "Statistics",
      "topics": [],
      "status": "verified",
-     "id": "statistics"
+     "id": "statistics",
+     "weight": 6.9,
+     "weight_src": "CBSE curriculum 2026-27, unit-wise theory marks (unit split evenly across its chapters), shown as % of the theory paper"
     },
     {
      "name": "Probability",
      "topics": [],
      "status": "verified",
-     "id": "probability"
+     "id": "probability",
+     "weight": 6.9,
+     "weight_src": "CBSE curriculum 2026-27, unit-wise theory marks (unit split evenly across its chapters), shown as % of the theory paper"
     }
    ],
    "id": "mathematics"
@@ -453,136 +507,181 @@
      "name": "History: Rise of Nationalism in Europe",
      "topics": [],
      "status": "verify",
-     "id": "history-rise-of-nationalism-in-europe"
+     "id": "history-rise-of-nationalism-in-europe",
+     "weight": 5.0,
+     "weight_src": "CBSE curriculum 2026-27, unit-wise theory marks (unit split evenly across its chapters), shown as % of the theory paper"
     },
     {
      "name": "History: Nationalism in India",
      "topics": [],
      "status": "verify",
-     "id": "history-nationalism-in-india"
+     "id": "history-nationalism-in-india",
+     "weight": 5.0,
+     "weight_src": "CBSE curriculum 2026-27, unit-wise theory marks (unit split evenly across its chapters), shown as % of the theory paper"
     },
     {
      "name": "History: The Making of a Global World",
      "topics": [],
      "status": "verify",
-     "id": "history-the-making-of-a-global-world"
+     "id": "history-the-making-of-a-global-world",
+     "weight": 5.0,
+     "weight_src": "CBSE curriculum 2026-27, unit-wise theory marks (unit split evenly across its chapters), shown as % of the theory paper"
     },
     {
      "name": "History: The Age of Industrialisation",
      "topics": [],
      "status": "verify",
-     "id": "history-the-age-of-industrialisation"
+     "id": "history-the-age-of-industrialisation",
+     "weight": 5.0,
+     "weight_src": "CBSE curriculum 2026-27, unit-wise theory marks (unit split evenly across its chapters), shown as % of the theory paper"
     },
     {
      "name": "History: Print Culture and the Modern World",
      "topics": [],
      "status": "verify",
-     "id": "history-print-culture-and-the-modern-world"
+     "id": "history-print-culture-and-the-modern-world",
+     "weight": 5.0,
+     "weight_src": "CBSE curriculum 2026-27, unit-wise theory marks (unit split evenly across its chapters), shown as % of the theory paper"
     },
     {
      "name": "Geography: Resources and Development",
      "topics": [],
      "status": "verify",
-     "id": "geography-resources-and-development"
+     "id": "geography-resources-and-development",
+     "weight": 3.6,
+     "weight_src": "CBSE curriculum 2026-27, unit-wise theory marks (unit split evenly across its chapters), shown as % of the theory paper"
     },
     {
      "name": "Geography: Forest and Wildlife Resources",
      "topics": [],
      "status": "verify",
-     "id": "geography-forest-and-wildlife-resources"
+     "id": "geography-forest-and-wildlife-resources",
+     "weight": 3.6,
+     "weight_src": "CBSE curriculum 2026-27, unit-wise theory marks (unit split evenly across its chapters), shown as % of the theory paper"
     },
     {
      "name": "Geography: Water Resources",
      "topics": [],
      "status": "verify",
-     "id": "geography-water-resources"
+     "id": "geography-water-resources",
+     "weight": 3.6,
+     "weight_src": "CBSE curriculum 2026-27, unit-wise theory marks (unit split evenly across its chapters), shown as % of the theory paper"
     },
     {
      "name": "Geography: Agriculture",
      "topics": [],
      "status": "verify",
-     "id": "geography-agriculture"
+     "id": "geography-agriculture",
+     "weight": 3.6,
+     "weight_src": "CBSE curriculum 2026-27, unit-wise theory marks (unit split evenly across its chapters), shown as % of the theory paper"
     },
     {
      "name": "Geography: Minerals and Energy Resources",
      "topics": [],
      "status": "verify",
-     "id": "geography-minerals-and-energy-resources"
+     "id": "geography-minerals-and-energy-resources",
+     "weight": 3.6,
+     "weight_src": "CBSE curriculum 2026-27, unit-wise theory marks (unit split evenly across its chapters), shown as % of the theory paper"
     },
     {
      "name": "Geography: Manufacturing Industries",
      "topics": [],
      "status": "verify",
-     "id": "geography-manufacturing-industries"
+     "id": "geography-manufacturing-industries",
+     "weight": 3.6,
+     "weight_src": "CBSE curriculum 2026-27, unit-wise theory marks (unit split evenly across its chapters), shown as % of the theory paper"
     },
     {
      "name": "Geography: Lifelines of National Economy",
      "topics": [],
      "status": "verify",
-     "id": "geography-lifelines-of-national-economy"
+     "id": "geography-lifelines-of-national-economy",
+     "weight": 3.6,
+     "weight_src": "CBSE curriculum 2026-27, unit-wise theory marks (unit split evenly across its chapters), shown as % of the theory paper"
     },
     {
      "name": "Civics: Power Sharing",
      "topics": [],
      "status": "verify",
-     "id": "civics-power-sharing"
+     "id": "civics-power-sharing",
+     "weight": 5.0,
+     "weight_src": "CBSE curriculum 2026-27, unit-wise theory marks (unit split evenly across its chapters), shown as % of the theory paper"
     },
     {
      "name": "Civics: Federalism",
      "topics": [],
      "status": "verify",
-     "id": "civics-federalism"
+     "id": "civics-federalism",
+     "weight": 5.0,
+     "weight_src": "CBSE curriculum 2026-27, unit-wise theory marks (unit split evenly across its chapters), shown as % of the theory paper"
     },
     {
      "name": "Civics: Gender, Religion and Caste",
      "topics": [],
      "status": "verify",
-     "id": "civics-gender-religion-and-caste"
+     "id": "civics-gender-religion-and-caste",
+     "weight": 5.0,
+     "weight_src": "CBSE curriculum 2026-27, unit-wise theory marks (unit split evenly across its chapters), shown as % of the theory paper"
     },
     {
      "name": "Civics: Political Parties",
      "topics": [],
      "status": "verify",
-     "id": "civics-political-parties"
+     "id": "civics-political-parties",
+     "weight": 5.0,
+     "weight_src": "CBSE curriculum 2026-27, unit-wise theory marks (unit split evenly across its chapters), shown as % of the theory paper"
     },
     {
      "name": "Civics: Outcomes of Democracy",
      "topics": [],
      "status": "verify",
-     "id": "civics-outcomes-of-democracy"
+     "id": "civics-outcomes-of-democracy",
+     "weight": 5.0,
+     "weight_src": "CBSE curriculum 2026-27, unit-wise theory marks (unit split evenly across its chapters), shown as % of the theory paper"
     },
     {
      "name": "Economics: Development",
      "topics": [],
      "status": "verify",
-     "id": "economics-development"
+     "id": "economics-development",
+     "weight": 5.0,
+     "weight_src": "CBSE curriculum 2026-27, unit-wise theory marks (unit split evenly across its chapters), shown as % of the theory paper"
     },
     {
      "name": "Economics: Sectors of the Indian Economy",
      "topics": [],
      "status": "verify",
-     "id": "economics-sectors-of-the-indian-economy"
+     "id": "economics-sectors-of-the-indian-economy",
+     "weight": 5.0,
+     "weight_src": "CBSE curriculum 2026-27, unit-wise theory marks (unit split evenly across its chapters), shown as % of the theory paper"
     },
     {
      "name": "Economics: Money and Credit",
      "topics": [],
      "status": "verify",
-     "id": "economics-money-and-credit"
+     "id": "economics-money-and-credit",
+     "weight": 5.0,
+     "weight_src": "CBSE curriculum 2026-27, unit-wise theory marks (unit split evenly across its chapters), shown as % of the theory paper"
     },
     {
      "name": "Economics: Globalisation and the Indian Economy",
      "topics": [],
      "status": "verify",
-     "id": "economics-globalisation-and-the-indian-economy"
+     "id": "economics-globalisation-and-the-indian-economy",
+     "weight": 5.0,
+     "weight_src": "CBSE curriculum 2026-27, unit-wise theory marks (unit split evenly across its chapters), shown as % of the theory paper"
     },
     {
      "name": "Economics: Consumer Rights",
      "topics": [],
      "status": "verify",
-     "id": "economics-consumer-rights"
+     "id": "economics-consumer-rights",
+     "weight": 5.0,
+     "weight_src": "CBSE curriculum 2026-27, unit-wise theory marks (unit split evenly across its chapters), shown as % of the theory paper"
     }
    ],
    "id": "social-science"
   }
- ]
+ ],
+ "weights_note": "CBSE curriculum 2026-27, unit-wise theory marks (unit split evenly across its chapters), shown as % of the theory paper"
 }

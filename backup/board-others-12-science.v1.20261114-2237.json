@@ -1,0 +1,630 @@
+{
+ "id": "board-others-12-science",
+ "course": "board",
+ "level": "others-12-science",
+ "name": "Other boards (NCERT-based) · Class 12 · Science",
+ "version": 3,
+ "board": "others",
+ "class": "12",
+ "stream": "science",
+ "subjects": [
+  {
+   "id": "english",
+   "name": "English",
+   "modules": [
+    {
+     "id": "flamingo-the-last-lesson",
+     "name": "Flamingo: The Last Lesson",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "flamingo-lost-spring",
+     "name": "Flamingo: Lost Spring",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "flamingo-deep-water",
+     "name": "Flamingo: Deep Water",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "flamingo-the-rattrap",
+     "name": "Flamingo: The Rattrap",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "flamingo-indigo",
+     "name": "Flamingo: Indigo",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "flamingo-poets-and-pancakes",
+     "name": "Flamingo: Poets and Pancakes",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "flamingo-the-interview",
+     "name": "Flamingo: The Interview",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "flamingo-going-places",
+     "name": "Flamingo: Going Places",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "poem-my-mother-at-sixty-six",
+     "name": "Poem: My Mother at Sixty-Six",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "poem-keeping-quiet",
+     "name": "Poem: Keeping Quiet",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "poem-a-thing-of-beauty",
+     "name": "Poem: A Thing of Beauty",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "poem-a-roadside-stand-check-if-in-syllabus",
+     "name": "Poem: A Roadside Stand (check if in syllabus)",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "poem-aunt-jennifer-s-tigers",
+     "name": "Poem: Aunt Jennifer's Tigers",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "vistas-the-third-level",
+     "name": "Vistas: The Third Level",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "vistas-the-tiger-king",
+     "name": "Vistas: The Tiger King",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "vistas-journey-to-the-end-of-the-earth",
+     "name": "Vistas: Journey to the End of the Earth",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "vistas-the-enemy",
+     "name": "Vistas: The Enemy",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "vistas-on-the-face-of-it",
+     "name": "Vistas: On the Face of It",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "vistas-memories-of-childhood",
+     "name": "Vistas: Memories of Childhood",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "reading-unseen-passages",
+     "name": "Reading: Unseen Passages",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "writing-notice-invitation-letter-article-report",
+     "name": "Writing: Notice, Invitation, Letter, Article, Report",
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  },
+  {
+   "id": "hindi-core",
+   "name": "Hindi Core",
+   "modules": [
+    {
+     "id": "aroh-kavya-khand",
+     "name": "Aroh: Kavya Khand",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "aroh-gadya-khand",
+     "name": "Aroh: Gadya Khand",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "vitan",
+     "name": "Vitan",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "abhivyakti-aur-madhyam",
+     "name": "Abhivyakti aur Madhyam",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "lekhan-nibandh-patra-feature",
+     "name": "Lekhan (Nibandh, Patra, Feature)",
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  },
+  {
+   "name": "Physics",
+   "modules": [
+    {
+     "name": "Electric Charges and Fields",
+     "topics": [],
+     "status": "verified",
+     "id": "electric-charges-and-fields"
+    },
+    {
+     "name": "Electrostatic Potential and Capacitance",
+     "topics": [],
+     "status": "verified",
+     "id": "electrostatic-potential-and-capacitance"
+    },
+    {
+     "name": "Current Electricity",
+     "topics": [],
+     "status": "verified",
+     "id": "current-electricity"
+    },
+    {
+     "name": "Moving Charges and Magnetism",
+     "topics": [],
+     "status": "verified",
+     "id": "moving-charges-and-magnetism"
+    },
+    {
+     "name": "Magnetism and Matter",
+     "topics": [],
+     "status": "verified",
+     "id": "magnetism-and-matter"
+    },
+    {
+     "name": "Electromagnetic Induction",
+     "topics": [],
+     "status": "verified",
+     "id": "electromagnetic-induction"
+    },
+    {
+     "name": "Alternating Current",
+     "topics": [],
+     "status": "verified",
+     "id": "alternating-current"
+    },
+    {
+     "name": "Electromagnetic Waves",
+     "topics": [],
+     "status": "verify",
+     "id": "electromagnetic-waves"
+    },
+    {
+     "name": "Ray Optics and Optical Instruments",
+     "topics": [],
+     "status": "verified",
+     "id": "ray-optics-and-optical-instruments"
+    },
+    {
+     "name": "Wave Optics",
+     "topics": [],
+     "status": "verified",
+     "id": "wave-optics"
+    },
+    {
+     "name": "Dual Nature of Radiation and Matter",
+     "topics": [],
+     "status": "verified",
+     "id": "dual-nature-of-radiation-and-matter"
+    },
+    {
+     "name": "Atoms",
+     "topics": [],
+     "status": "verified",
+     "id": "atoms"
+    },
+    {
+     "name": "Nuclei",
+     "topics": [],
+     "status": "verified",
+     "id": "nuclei"
+    },
+    {
+     "name": "Semiconductor Electronics",
+     "topics": [],
+     "status": "verified",
+     "id": "semiconductor-electronics"
+    }
+   ],
+   "id": "physics"
+  },
+  {
+   "name": "Chemistry",
+   "modules": [
+    {
+     "name": "Solutions",
+     "topics": [],
+     "status": "verified",
+     "id": "solutions"
+    },
+    {
+     "name": "Electrochemistry",
+     "topics": [],
+     "status": "verified",
+     "id": "electrochemistry"
+    },
+    {
+     "name": "Chemical Kinetics",
+     "topics": [],
+     "status": "verified",
+     "id": "chemical-kinetics"
+    },
+    {
+     "name": "d and f Block Elements",
+     "topics": [],
+     "status": "verified",
+     "id": "d-and-f-block-elements"
+    },
+    {
+     "name": "Coordination Compounds",
+     "topics": [],
+     "status": "verified",
+     "id": "coordination-compounds"
+    },
+    {
+     "name": "Haloalkanes and Haloarenes",
+     "topics": [],
+     "status": "verified",
+     "id": "haloalkanes-and-haloarenes"
+    },
+    {
+     "name": "Alcohols, Phenols and Ethers",
+     "topics": [],
+     "status": "verified",
+     "id": "alcohols-phenols-and-ethers"
+    },
+    {
+     "name": "Aldehydes, Ketones and Carboxylic Acids",
+     "topics": [],
+     "status": "verified",
+     "id": "aldehydes-ketones-and-carboxylic-acids"
+    },
+    {
+     "name": "Amines",
+     "topics": [],
+     "status": "verified",
+     "id": "amines"
+    },
+    {
+     "name": "Biomolecules",
+     "topics": [],
+     "status": "verified",
+     "id": "biomolecules"
+    }
+   ],
+   "id": "chemistry"
+  },
+  {
+   "name": "Mathematics",
+   "modules": [
+    {
+     "name": "Relations and Functions",
+     "topics": [],
+     "status": "verify",
+     "id": "relations-and-functions"
+    },
+    {
+     "name": "Inverse Trigonometric Functions",
+     "topics": [],
+     "status": "verify",
+     "id": "inverse-trigonometric-functions"
+    },
+    {
+     "name": "Matrices",
+     "topics": [],
+     "status": "verify",
+     "id": "matrices"
+    },
+    {
+     "name": "Determinants",
+     "topics": [],
+     "status": "verify",
+     "id": "determinants"
+    },
+    {
+     "name": "Continuity and Differentiability",
+     "topics": [],
+     "status": "verify",
+     "id": "continuity-and-differentiability"
+    },
+    {
+     "name": "Application of Derivatives",
+     "topics": [],
+     "status": "verify",
+     "id": "application-of-derivatives"
+    },
+    {
+     "name": "Integrals",
+     "topics": [],
+     "status": "verify",
+     "id": "integrals"
+    },
+    {
+     "name": "Application of Integrals",
+     "topics": [],
+     "status": "verify",
+     "id": "application-of-integrals"
+    },
+    {
+     "name": "Differential Equations",
+     "topics": [],
+     "status": "verify",
+     "id": "differential-equations"
+    },
+    {
+     "name": "Vector Algebra",
+     "topics": [],
+     "status": "verify",
+     "id": "vector-algebra"
+    },
+    {
+     "name": "Three Dimensional Geometry",
+     "topics": [],
+     "status": "verify",
+     "id": "three-dimensional-geometry"
+    },
+    {
+     "name": "Linear Programming",
+     "topics": [],
+     "status": "verify",
+     "id": "linear-programming"
+    },
+    {
+     "name": "Probability",
+     "topics": [],
+     "status": "verify",
+     "id": "probability"
+    }
+   ],
+   "id": "mathematics"
+  },
+  {
+   "name": "Biology",
+   "modules": [
+    {
+     "name": "Sexual Reproduction in Flowering Plants",
+     "topics": [],
+     "status": "verify",
+     "id": "sexual-reproduction-in-flowering-plants"
+    },
+    {
+     "name": "Human Reproduction",
+     "topics": [],
+     "status": "verify",
+     "id": "human-reproduction"
+    },
+    {
+     "name": "Reproductive Health",
+     "topics": [],
+     "status": "verify",
+     "id": "reproductive-health"
+    },
+    {
+     "name": "Principles of Inheritance and Variation",
+     "topics": [],
+     "status": "verify",
+     "id": "principles-of-inheritance-and-variation"
+    },
+    {
+     "name": "Molecular Basis of Inheritance",
+     "topics": [],
+     "status": "verify",
+     "id": "molecular-basis-of-inheritance"
+    },
+    {
+     "name": "Evolution",
+     "topics": [],
+     "status": "verify",
+     "id": "evolution"
+    },
+    {
+     "name": "Human Health and Disease",
+     "topics": [],
+     "status": "verify",
+     "id": "human-health-and-disease"
+    },
+    {
+     "name": "Microbes in Human Welfare",
+     "topics": [],
+     "status": "verify",
+     "id": "microbes-in-human-welfare"
+    },
+    {
+     "name": "Biotechnology: Principles and Processes",
+     "topics": [],
+     "status": "verify",
+     "id": "biotechnology-principles-and-processes"
+    },
+    {
+     "name": "Biotechnology and its Applications",
+     "topics": [],
+     "status": "verify",
+     "id": "biotechnology-and-its-applications"
+    },
+    {
+     "name": "Organisms and Populations",
+     "topics": [],
+     "status": "verify",
+     "id": "organisms-and-populations"
+    },
+    {
+     "name": "Ecosystem",
+     "topics": [],
+     "status": "verify",
+     "id": "ecosystem"
+    },
+    {
+     "name": "Biodiversity and Conservation",
+     "topics": [],
+     "status": "verify",
+     "id": "biodiversity-and-conservation"
+    }
+   ],
+   "id": "biology"
+  },
+  {
+   "id": "physical-education",
+   "name": "Physical Education",
+   "modules": [
+    {
+     "id": "management-of-sporting-events",
+     "name": "Management of Sporting Events",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "children-and-women-in-sports",
+     "name": "Children and Women in Sports",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "yoga-as-preventive-measure-for-lifestyle-disease",
+     "name": "Yoga as Preventive Measure for Lifestyle Disease",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "physical-education-and-sports-for-cwsn",
+     "name": "Physical Education and Sports for CWSN",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "sports-and-nutrition",
+     "name": "Sports and Nutrition",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "test-and-measurement-in-sports",
+     "name": "Test and Measurement in Sports",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "physiology-and-injuries-in-sports",
+     "name": "Physiology and Injuries in Sports",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "biomechanics-and-sports",
+     "name": "Biomechanics and Sports",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "psychology-and-sports",
+     "name": "Psychology and Sports",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "training-in-sports",
+     "name": "Training in Sports",
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  },
+  {
+   "id": "computer-science",
+   "name": "Computer Science",
+   "modules": [
+    {
+     "id": "python-revision-tour",
+     "name": "Python Revision Tour",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "working-with-functions",
+     "name": "Working with Functions",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "exception-handling",
+     "name": "Exception Handling",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "file-handling",
+     "name": "File Handling",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "data-structure-stack",
+     "name": "Data Structure: Stack",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "computer-networks",
+     "name": "Computer Networks",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "database-concepts",
+     "name": "Database Concepts",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "structured-query-language-sql",
+     "name": "Structured Query Language (SQL)",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "interface-python-with-mysql",
+     "name": "Interface Python with MySQL",
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  }
+ ]
+}

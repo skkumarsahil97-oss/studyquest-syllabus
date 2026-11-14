@@ -1,0 +1,558 @@
+{
+ "id": "board-cbse-12-commerce",
+ "course": "board",
+ "level": "cbse-12-commerce",
+ "name": "CBSE · Class 12 · Commerce",
+ "version": 3,
+ "board": "cbse",
+ "class": "12",
+ "stream": "commerce",
+ "subjects": [
+  {
+   "id": "english",
+   "name": "English",
+   "modules": [
+    {
+     "id": "flamingo-the-last-lesson",
+     "name": "Flamingo: The Last Lesson",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "flamingo-lost-spring",
+     "name": "Flamingo: Lost Spring",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "flamingo-deep-water",
+     "name": "Flamingo: Deep Water",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "flamingo-the-rattrap",
+     "name": "Flamingo: The Rattrap",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "flamingo-indigo",
+     "name": "Flamingo: Indigo",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "flamingo-poets-and-pancakes",
+     "name": "Flamingo: Poets and Pancakes",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "flamingo-the-interview",
+     "name": "Flamingo: The Interview",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "flamingo-going-places",
+     "name": "Flamingo: Going Places",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "poem-my-mother-at-sixty-six",
+     "name": "Poem: My Mother at Sixty-Six",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "poem-keeping-quiet",
+     "name": "Poem: Keeping Quiet",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "poem-a-thing-of-beauty",
+     "name": "Poem: A Thing of Beauty",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "poem-a-roadside-stand-check-if-in-syllabus",
+     "name": "Poem: A Roadside Stand (check if in syllabus)",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "poem-aunt-jennifer-s-tigers",
+     "name": "Poem: Aunt Jennifer's Tigers",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "vistas-the-third-level",
+     "name": "Vistas: The Third Level",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "vistas-the-tiger-king",
+     "name": "Vistas: The Tiger King",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "vistas-journey-to-the-end-of-the-earth",
+     "name": "Vistas: Journey to the End of the Earth",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "vistas-the-enemy",
+     "name": "Vistas: The Enemy",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "vistas-on-the-face-of-it",
+     "name": "Vistas: On the Face of It",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "vistas-memories-of-childhood",
+     "name": "Vistas: Memories of Childhood",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "reading-unseen-passages",
+     "name": "Reading: Unseen Passages",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "writing-notice-invitation-letter-article-report",
+     "name": "Writing: Notice, Invitation, Letter, Article, Report",
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  },
+  {
+   "id": "hindi-core",
+   "name": "Hindi Core",
+   "modules": [
+    {
+     "id": "aroh-kavya-khand",
+     "name": "Aroh: Kavya Khand",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "aroh-gadya-khand",
+     "name": "Aroh: Gadya Khand",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "vitan",
+     "name": "Vitan",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "abhivyakti-aur-madhyam",
+     "name": "Abhivyakti aur Madhyam",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "lekhan-nibandh-patra-feature",
+     "name": "Lekhan (Nibandh, Patra, Feature)",
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  },
+  {
+   "name": "Accountancy",
+   "modules": [
+    {
+     "name": "Accounting for Partnership: Basic Concepts",
+     "topics": [],
+     "status": "verified",
+     "id": "accounting-for-partnership-basic-concepts"
+    },
+    {
+     "name": "Reconstitution of Partnership (Admission/Retirement/Death)",
+     "topics": [],
+     "status": "verified",
+     "id": "reconstitution-of-partnership-admission-retirement-death"
+    },
+    {
+     "name": "Dissolution of Partnership Firm",
+     "topics": [],
+     "status": "verified",
+     "id": "dissolution-of-partnership-firm"
+    },
+    {
+     "name": "Accounting for Share Capital",
+     "topics": [],
+     "status": "verified",
+     "id": "accounting-for-share-capital"
+    },
+    {
+     "name": "Issue and Redemption of Debentures",
+     "topics": [],
+     "status": "verified",
+     "id": "issue-and-redemption-of-debentures"
+    },
+    {
+     "name": "Analysis of Financial Statements",
+     "topics": [],
+     "status": "verified",
+     "id": "analysis-of-financial-statements"
+    },
+    {
+     "name": "Accounting Ratios",
+     "topics": [],
+     "status": "verified",
+     "id": "accounting-ratios"
+    },
+    {
+     "name": "Cash Flow Statement",
+     "topics": [],
+     "status": "verified",
+     "id": "cash-flow-statement"
+    }
+   ],
+   "id": "accountancy"
+  },
+  {
+   "name": "Business Studies",
+   "modules": [
+    {
+     "name": "Nature and Significance of Management",
+     "topics": [],
+     "status": "verified",
+     "id": "nature-and-significance-of-management"
+    },
+    {
+     "name": "Principles of Management",
+     "topics": [],
+     "status": "verified",
+     "id": "principles-of-management"
+    },
+    {
+     "name": "Business Environment",
+     "topics": [],
+     "status": "verified",
+     "id": "business-environment"
+    },
+    {
+     "name": "Planning & Organizing",
+     "topics": [],
+     "status": "verified",
+     "id": "planning-organizing"
+    },
+    {
+     "name": "Staffing, Directing & Controlling",
+     "topics": [],
+     "status": "verified",
+     "id": "staffing-directing-controlling"
+    },
+    {
+     "name": "Financial Management",
+     "topics": [],
+     "status": "verified",
+     "id": "financial-management"
+    },
+    {
+     "name": "Financial Markets",
+     "topics": [],
+     "status": "verified",
+     "id": "financial-markets"
+    },
+    {
+     "name": "Marketing Management",
+     "topics": [],
+     "status": "verified",
+     "id": "marketing-management"
+    },
+    {
+     "name": "Consumer Protection",
+     "topics": [],
+     "status": "verified",
+     "id": "consumer-protection"
+    }
+   ],
+   "id": "business-studies"
+  },
+  {
+   "name": "Economics",
+   "modules": [
+    {
+     "name": "Macro: National Income Accounting",
+     "topics": [],
+     "status": "verify",
+     "id": "macro-national-income-accounting"
+    },
+    {
+     "name": "Macro: Money and Banking",
+     "topics": [],
+     "status": "verify",
+     "id": "macro-money-and-banking"
+    },
+    {
+     "name": "Macro: Determination of Income and Employment",
+     "topics": [],
+     "status": "verify",
+     "id": "macro-determination-of-income-and-employment"
+    },
+    {
+     "name": "Macro: Government Budget and the Economy",
+     "topics": [],
+     "status": "verify",
+     "id": "macro-government-budget-and-the-economy"
+    },
+    {
+     "name": "Macro: Balance of Payments",
+     "topics": [],
+     "status": "verify",
+     "id": "macro-balance-of-payments"
+    },
+    {
+     "name": "Indian Economy: Development Experience (1947–90) and Reforms since 1991",
+     "topics": [],
+     "status": "verify",
+     "id": "indian-economy-development-experience-1947-90-and-reforms-since-1991"
+    },
+    {
+     "name": "Indian Economy: Current Challenges",
+     "topics": [],
+     "status": "verify",
+     "id": "indian-economy-current-challenges"
+    },
+    {
+     "name": "Indian Economy: Comparison with Neighbours",
+     "topics": [],
+     "status": "verify",
+     "id": "indian-economy-comparison-with-neighbours"
+    }
+   ],
+   "id": "economics"
+  },
+  {
+   "name": "Mathematics",
+   "modules": [
+    {
+     "name": "Relations and Functions",
+     "topics": [],
+     "status": "verify",
+     "id": "relations-and-functions"
+    },
+    {
+     "name": "Inverse Trigonometric Functions",
+     "topics": [],
+     "status": "verify",
+     "id": "inverse-trigonometric-functions"
+    },
+    {
+     "name": "Matrices",
+     "topics": [],
+     "status": "verify",
+     "id": "matrices"
+    },
+    {
+     "name": "Determinants",
+     "topics": [],
+     "status": "verify",
+     "id": "determinants"
+    },
+    {
+     "name": "Continuity and Differentiability",
+     "topics": [],
+     "status": "verify",
+     "id": "continuity-and-differentiability"
+    },
+    {
+     "name": "Application of Derivatives",
+     "topics": [],
+     "status": "verify",
+     "id": "application-of-derivatives"
+    },
+    {
+     "name": "Integrals",
+     "topics": [],
+     "status": "verify",
+     "id": "integrals"
+    },
+    {
+     "name": "Application of Integrals",
+     "topics": [],
+     "status": "verify",
+     "id": "application-of-integrals"
+    },
+    {
+     "name": "Differential Equations",
+     "topics": [],
+     "status": "verify",
+     "id": "differential-equations"
+    },
+    {
+     "name": "Vector Algebra",
+     "topics": [],
+     "status": "verify",
+     "id": "vector-algebra"
+    },
+    {
+     "name": "Three Dimensional Geometry",
+     "topics": [],
+     "status": "verify",
+     "id": "three-dimensional-geometry"
+    },
+    {
+     "name": "Linear Programming",
+     "topics": [],
+     "status": "verify",
+     "id": "linear-programming"
+    },
+    {
+     "name": "Probability",
+     "topics": [],
+     "status": "verify",
+     "id": "probability"
+    }
+   ],
+   "id": "mathematics"
+  },
+  {
+   "id": "physical-education",
+   "name": "Physical Education",
+   "modules": [
+    {
+     "id": "management-of-sporting-events",
+     "name": "Management of Sporting Events",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "children-and-women-in-sports",
+     "name": "Children and Women in Sports",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "yoga-as-preventive-measure-for-lifestyle-disease",
+     "name": "Yoga as Preventive Measure for Lifestyle Disease",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "physical-education-and-sports-for-cwsn",
+     "name": "Physical Education and Sports for CWSN",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "sports-and-nutrition",
+     "name": "Sports and Nutrition",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "test-and-measurement-in-sports",
+     "name": "Test and Measurement in Sports",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "physiology-and-injuries-in-sports",
+     "name": "Physiology and Injuries in Sports",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "biomechanics-and-sports",
+     "name": "Biomechanics and Sports",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "psychology-and-sports",
+     "name": "Psychology and Sports",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "training-in-sports",
+     "name": "Training in Sports",
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  },
+  {
+   "id": "computer-science",
+   "name": "Computer Science",
+   "modules": [
+    {
+     "id": "python-revision-tour",
+     "name": "Python Revision Tour",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "working-with-functions",
+     "name": "Working with Functions",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "exception-handling",
+     "name": "Exception Handling",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "file-handling",
+     "name": "File Handling",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "data-structure-stack",
+     "name": "Data Structure: Stack",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "computer-networks",
+     "name": "Computer Networks",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "database-concepts",
+     "name": "Database Concepts",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "structured-query-language-sql",
+     "name": "Structured Query Language (SQL)",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "interface-python-with-mysql",
+     "name": "Interface Python with MySQL",
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  }
+ ]
+}

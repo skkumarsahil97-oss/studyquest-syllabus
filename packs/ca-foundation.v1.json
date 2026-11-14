@@ -3,7 +3,7 @@
  "course": "ca",
  "level": "foundation",
  "name": "CA Foundation",
- "version": 1,
+ "version": 2,
  "subjects": [
   {
    "id": "ca-foundation-s1",
@@ -17,7 +17,9 @@
       "Meaning and Scope of Accounting",
       "Accounting Concepts, Principles and Conventions",
       "Capital and Revenue Expenditures/Receipts"
-     ]
+     ],
+     "weight": 7.5,
+     "weight_src": "ICAI section-wise weightage (issued 26 Oct 2023, May 2024 onwards, ±5%)"
     },
     {
      "id": "ca-foundation-s1-m2",
@@ -28,7 +30,9 @@
       "Trial Balance",
       "Subsidiary Books & Cash Book",
       "Rectification of Errors"
-     ]
+     ],
+     "weight": 8.1,
+     "weight_src": "ICAI section-wise weightage (issued 26 Oct 2023, May 2024 onwards, ±5%)"
     },
     {
      "id": "ca-foundation-s1-m3",
@@ -37,7 +41,9 @@
      "topics": [
       "Pass Book vs Cash Book Reconciliation",
       "Timing Differences & Errors"
-     ]
+     ],
+     "weight": 8.1,
+     "weight_src": "ICAI section-wise weightage (issued 26 Oct 2023, May 2024 onwards, ±5%)"
     },
     {
      "id": "ca-foundation-s1-m4",
@@ -46,7 +52,9 @@
      "topics": [
       "Valuation of Inventory (FIFO, LIFO, Weighted Average)",
       "Depreciation Methods (SLM, WDV)"
-     ]
+     ],
+     "weight": 8.1,
+     "weight_src": "ICAI section-wise weightage (issued 26 Oct 2023, May 2024 onwards, ±5%)"
     },
     {
      "id": "ca-foundation-s1-m5",
@@ -55,7 +63,9 @@
      "topics": [
       "Bills of Exchange and Promissory Notes",
       "Consignment Accounts"
-     ]
+     ],
+     "weight": 8.1,
+     "weight_src": "ICAI section-wise weightage (issued 26 Oct 2023, May 2024 onwards, ±5%)"
     },
     {
      "id": "ca-foundation-s1-m6",
@@ -64,7 +74,66 @@
      "topics": [
       "Trading and Profit & Loss Account",
       "Balance Sheet Adjustments"
-     ]
+     ],
+     "weight": 7.5,
+     "weight_src": "ICAI section-wise weightage (issued 26 Oct 2023, May 2024 onwards, ±5%)"
+    },
+    {
+     "id": "ca-foundation-s1-mfinancialstateme",
+     "name": "Financial Statements of Not-for-Profit Organisations",
+     "name_hi": "",
+     "group": null,
+     "topics": [
+      "Receipts and Payments Account",
+      "Income and Expenditure Account",
+      "Balance Sheet of NPOs"
+     ],
+     "status": "verify",
+     "weight": 7.5,
+     "weight_src": "ICAI section-wise weightage (issued 26 Oct 2023, May 2024 onwards, ±5%)"
+    },
+    {
+     "id": "ca-foundation-s1-maccountsfrominco",
+     "name": "Accounts from Incomplete Records",
+     "name_hi": "",
+     "group": null,
+     "topics": [
+      "Statement of Affairs Method",
+      "Conversion Method"
+     ],
+     "status": "verify",
+     "weight": 7.5,
+     "weight_src": "ICAI section-wise weightage (issued 26 Oct 2023, May 2024 onwards, ±5%)"
+    },
+    {
+     "id": "ca-foundation-s1-mpartnershipandll",
+     "name": "Partnership and LLP Accounts",
+     "name_hi": "",
+     "group": null,
+     "topics": [
+      "Goodwill",
+      "Admission of a Partner",
+      "Retirement and Death of a Partner",
+      "Dissolution of Partnership Firms and LLPs"
+     ],
+     "status": "verify",
+     "weight": 17.5,
+     "weight_src": "ICAI section-wise weightage (issued 26 Oct 2023, May 2024 onwards, ±5%)"
+    },
+    {
+     "id": "ca-foundation-s1-mcompanyaccounts",
+     "name": "Company Accounts",
+     "name_hi": "",
+     "group": null,
+     "topics": [
+      "Issue of Shares and Debentures",
+      "Redemption of Preference Shares",
+      "Redemption of Debentures",
+      "Bonus and Right Issue"
+     ],
+     "status": "verify",
+     "weight": 20.0,
+     "weight_src": "ICAI section-wise weightage (issued 26 Oct 2023, May 2024 onwards, ±5%)"
     }
    ]
   },
@@ -72,6 +141,19 @@
    "id": "ca-foundation-s2",
    "name": "Business Laws",
    "modules": [
+    {
+     "id": "ca-foundation-s2-mindianregulatory",
+     "name": "Indian Regulatory Framework",
+     "name_hi": "",
+     "group": null,
+     "topics": [
+      "Laws and Regulators in India",
+      "Process of Law Making"
+     ],
+     "status": "verify",
+     "weight": 2.5,
+     "weight_src": "ICAI section-wise weightage (issued 26 Oct 2023, May 2024 onwards, ±5%)"
+    },
     {
      "id": "ca-foundation-s2-m1",
      "name": "Indian Contract Act, 1872",
@@ -83,7 +165,9 @@
       "Capacity to Contract",
       "Free Consent",
       "Performance and Breach of Contract"
-     ]
+     ],
+     "weight": 25.0,
+     "weight_src": "ICAI section-wise weightage (issued 26 Oct 2023, May 2024 onwards, ±5%)"
     },
     {
      "id": "ca-foundation-s2-m2",
@@ -94,7 +178,9 @@
       "Conditions and Warranties",
       "Transfer of Ownership",
       "Unpaid Seller Rights"
-     ]
+     ],
+     "weight": 17.5,
+     "weight_src": "ICAI section-wise weightage (issued 26 Oct 2023, May 2024 onwards, ±5%)"
     },
     {
      "id": "ca-foundation-s2-m3",
@@ -104,7 +190,9 @@
       "General Nature of Partnership",
       "Rights and Duties of Partners",
       "Registration and Dissolution of Firm"
-     ]
+     ],
+     "weight": 17.5,
+     "weight_src": "ICAI section-wise weightage (issued 26 Oct 2023, May 2024 onwards, ±5%)"
     },
     {
      "id": "ca-foundation-s2-m4",
@@ -113,7 +201,9 @@
      "topics": [
       "Salient Features",
       "Incorporation and Partners' Relationships"
-     ]
+     ],
+     "weight": 7.5,
+     "weight_src": "ICAI section-wise weightage (issued 26 Oct 2023, May 2024 onwards, ±5%)"
     },
     {
      "id": "ca-foundation-s2-m5",
@@ -122,7 +212,23 @@
      "topics": [
       "Essential Features & Classification of Companies",
       "Incorporation Procedure"
-     ]
+     ],
+     "weight": 17.5,
+     "weight_src": "ICAI section-wise weightage (issued 26 Oct 2023, May 2024 onwards, ±5%)"
+    },
+    {
+     "id": "ca-foundation-s2-mnegotiableinstru",
+     "name": "Negotiable Instruments Act, 1881",
+     "name_hi": "",
+     "group": null,
+     "topics": [
+      "Promissory Note, Bill of Exchange and Cheque",
+      "Holder and Holder in Due Course",
+      "Dishonour and Discharge"
+     ],
+     "status": "verify",
+     "weight": 12.5,
+     "weight_src": "ICAI section-wise weightage (issued 26 Oct 2023, May 2024 onwards, ±5%)"
     }
    ]
   },
@@ -134,85 +240,154 @@
      "id": "ca-foundation-s3-m1",
      "name": "Ratio & Proportion, Indices, Logarithms",
      "group": "Business Mathematics",
-     "topics": []
+     "topics": [],
+     "weight": 3.3,
+     "weight_src": "ICAI section-wise weightage (issued 26 Oct 2023, May 2024 onwards, ±5%)"
     },
     {
      "id": "ca-foundation-s3-m2",
      "name": "Equations & Matrices",
      "group": "Business Mathematics",
-     "topics": []
+     "topics": [],
+     "weight": 3.3,
+     "weight_src": "ICAI section-wise weightage (issued 26 Oct 2023, May 2024 onwards, ±5%)"
     },
     {
      "id": "ca-foundation-s3-m3",
      "name": "Linear Inequalities",
      "group": "Business Mathematics",
-     "topics": []
+     "topics": [],
+     "weight": 3.3,
+     "weight_src": "ICAI section-wise weightage (issued 26 Oct 2023, May 2024 onwards, ±5%)"
     },
     {
      "id": "ca-foundation-s3-m4",
      "name": "Simple & Compound Interest, Annuities",
      "group": "Business Mathematics",
-     "topics": []
+     "topics": [],
+     "weight": 14.0,
+     "weight_src": "ICAI section-wise weightage (issued 26 Oct 2023, May 2024 onwards, ±5%)"
     },
     {
      "id": "ca-foundation-s3-m5",
      "name": "Permutations and Combinations",
      "group": "Business Mathematics",
-     "topics": []
+     "topics": [],
+     "weight": 4.0,
+     "weight_src": "ICAI section-wise weightage (issued 26 Oct 2023, May 2024 onwards, ±5%)"
     },
     {
      "id": "ca-foundation-s3-m6",
      "name": "Sequence and Series (AP & GP)",
      "group": "Business Mathematics",
-     "topics": []
+     "topics": [],
+     "weight": 4.0,
+     "weight_src": "ICAI section-wise weightage (issued 26 Oct 2023, May 2024 onwards, ±5%)"
+    },
+    {
+     "id": "ca-foundation-s3-msetsrelationsand",
+     "name": "Sets, Relations and Functions",
+     "name_hi": "",
+     "group": null,
+     "topics": [
+      "Sets and Venn Diagrams",
+      "Relations",
+      "Functions"
+     ],
+     "status": "verify",
+     "weight": 4.0,
+     "weight_src": "ICAI section-wise weightage (issued 26 Oct 2023, May 2024 onwards, ±5%)"
+    },
+    {
+     "id": "ca-foundation-s3-mbasicapplication",
+     "name": "Basic Applications of Calculus",
+     "name_hi": "",
+     "group": null,
+     "topics": [
+      "Differentiation",
+      "Integration",
+      "Applications in Business"
+     ],
+     "status": "verify",
+     "weight": 4.0,
+     "weight_src": "ICAI section-wise weightage (issued 26 Oct 2023, May 2024 onwards, ±5%)"
     },
     {
      "id": "ca-foundation-s3-m7",
      "name": "Number Series, Coding-Decoding",
      "group": "Logical Reasoning",
-     "topics": []
+     "topics": [],
+     "weight": 5.0,
+     "weight_src": "ICAI section-wise weightage (issued 26 Oct 2023, May 2024 onwards, ±5%)"
     },
     {
      "id": "ca-foundation-s3-m8",
      "name": "Direction Tests",
      "group": "Logical Reasoning",
-     "topics": []
+     "topics": [],
+     "weight": 5.0,
+     "weight_src": "ICAI section-wise weightage (issued 26 Oct 2023, May 2024 onwards, ±5%)"
     },
     {
      "id": "ca-foundation-s3-m9",
      "name": "Seating Arrangements",
      "group": "Logical Reasoning",
-     "topics": []
+     "topics": [],
+     "weight": 5.0,
+     "weight_src": "ICAI section-wise weightage (issued 26 Oct 2023, May 2024 onwards, ±5%)"
     },
     {
      "id": "ca-foundation-s3-m10",
      "name": "Blood Relations",
      "group": "Logical Reasoning",
-     "topics": []
+     "topics": [],
+     "weight": 5.0,
+     "weight_src": "ICAI section-wise weightage (issued 26 Oct 2023, May 2024 onwards, ±5%)"
     },
     {
      "id": "ca-foundation-s3-m11",
      "name": "Statistical Representation of Data",
      "group": "Statistics",
-     "topics": []
+     "topics": [],
+     "weight": 9.5,
+     "weight_src": "ICAI section-wise weightage (issued 26 Oct 2023, May 2024 onwards, ±5%)"
     },
     {
      "id": "ca-foundation-s3-m12",
      "name": "Central Tendency and Dispersion",
      "group": "Statistics",
-     "topics": []
+     "topics": [],
+     "weight": 9.5,
+     "weight_src": "ICAI section-wise weightage (issued 26 Oct 2023, May 2024 onwards, ±5%)"
     },
     {
      "id": "ca-foundation-s3-m13",
      "name": "Probability & Theoretical Distributions",
      "group": "Statistics",
-     "topics": []
+     "topics": [],
+     "weight": 11.0,
+     "weight_src": "ICAI section-wise weightage (issued 26 Oct 2023, May 2024 onwards, ±5%)"
     },
     {
      "id": "ca-foundation-s3-m14",
      "name": "Correlation and Regression",
      "group": "Statistics",
-     "topics": []
+     "topics": [],
+     "weight": 5.0,
+     "weight_src": "ICAI section-wise weightage (issued 26 Oct 2023, May 2024 onwards, ±5%)"
+    },
+    {
+     "id": "ca-foundation-s3-mindexnumbers",
+     "name": "Index Numbers",
+     "name_hi": "",
+     "group": null,
+     "topics": [
+      "Construction of Index Numbers",
+      "Tests of Adequacy"
+     ],
+     "status": "verify",
+     "weight": 5.0,
+     "weight_src": "ICAI section-wise weightage (issued 26 Oct 2023, May 2024 onwards, ±5%)"
     }
    ]
   },
@@ -227,7 +402,9 @@
      "topics": [
       "Basic Problems of an Economy",
       "Micro vs Macro Economics"
-     ]
+     ],
+     "weight": 5.0,
+     "weight_src": "ICAI section-wise weightage (issued 26 Oct 2023, May 2024 onwards, ±5%)"
     },
     {
      "id": "ca-foundation-s4-m2",
@@ -237,7 +414,9 @@
       "Law of Demand & Elasticity",
       "Consumer Behaviour (Utility & Indifference Curve)",
       "Law of Supply & Elasticity"
-     ]
+     ],
+     "weight": 10.0,
+     "weight_src": "ICAI section-wise weightage (issued 26 Oct 2023, May 2024 onwards, ±5%)"
     },
     {
      "id": "ca-foundation-s4-m3",
@@ -246,7 +425,9 @@
      "topics": [
       "Production Function & Laws of Returns",
       "Cost Concepts and Curves"
-     ]
+     ],
+     "weight": 10.0,
+     "weight_src": "ICAI section-wise weightage (issued 26 Oct 2023, May 2024 onwards, ±5%)"
     },
     {
      "id": "ca-foundation-s4-m4",
@@ -257,7 +438,9 @@
       "Monopoly",
       "Monopolistic Competition",
       "Oligopoly"
-     ]
+     ],
+     "weight": 15.0,
+     "weight_src": "ICAI section-wise weightage (issued 26 Oct 2023, May 2024 onwards, ±5%)"
     },
     {
      "id": "ca-foundation-s4-m5",
@@ -266,9 +449,68 @@
      "topics": [
       "National Income Concepts and Measurement",
       "Phases of Business Cycles"
-     ]
+     ],
+     "weight": 20.0,
+     "weight_src": "ICAI section-wise weightage (issued 26 Oct 2023, May 2024 onwards, ±5%)"
+    },
+    {
+     "id": "ca-foundation-s4-mpublicfinance",
+     "name": "Public Finance",
+     "name_hi": "",
+     "group": null,
+     "topics": [
+      "Fiscal Functions",
+      "Market Failure",
+      "Government Interventions",
+      "Fiscal Policy"
+     ],
+     "status": "verify",
+     "weight": 10.0,
+     "weight_src": "ICAI section-wise weightage (issued 26 Oct 2023, May 2024 onwards, ±5%)"
+    },
+    {
+     "id": "ca-foundation-s4-mmoneymarket",
+     "name": "Money Market",
+     "name_hi": "",
+     "group": null,
+     "topics": [
+      "Concept of Money and Money Supply",
+      "Credit Creation",
+      "Monetary Policy"
+     ],
+     "status": "verify",
+     "weight": 10.0,
+     "weight_src": "ICAI section-wise weightage (issued 26 Oct 2023, May 2024 onwards, ±5%)"
+    },
+    {
+     "id": "ca-foundation-s4-minternationaltra",
+     "name": "International Trade",
+     "name_hi": "",
+     "group": null,
+     "topics": [
+      "Theories of International Trade",
+      "Trade Policy Instruments",
+      "Exchange Rates"
+     ],
+     "status": "verify",
+     "weight": 10.0,
+     "weight_src": "ICAI section-wise weightage (issued 26 Oct 2023, May 2024 onwards, ±5%)"
+    },
+    {
+     "id": "ca-foundation-s4-mindianeconomy",
+     "name": "Indian Economy",
+     "name_hi": "",
+     "group": null,
+     "topics": [
+      "Indian Economy before and after Independence",
+      "Economic Reforms since 1991"
+     ],
+     "status": "verify",
+     "weight": 10.0,
+     "weight_src": "ICAI section-wise weightage (issued 26 Oct 2023, May 2024 onwards, ±5%)"
     }
    ]
   }
- ]
+ ],
+ "weights_note": "ICAI section-wise weightage (issued 26 Oct 2023, May 2024 onwards, ±5%). Marks out of 100 per paper; a section shared by several chapters is split evenly."
 }

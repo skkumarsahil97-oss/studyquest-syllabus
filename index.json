@@ -13,7 +13,7 @@
      "id": "cbse-10",
      "name": "CBSE · Class 10",
      "pack": "packs/board-cbse-10.v1.json",
-     "version": 3,
+     "version": 4,
      "subjects": 6,
      "chapters": 90
     },
@@ -21,7 +21,7 @@
      "id": "cbse-12-science",
      "name": "CBSE · Class 12 · Science",
      "pack": "packs/board-cbse-12-science.v1.json",
-     "version": 3,
+     "version": 4,
      "subjects": 8,
      "chapters": 95
     },
@@ -29,7 +29,7 @@
      "id": "cbse-12-commerce",
      "name": "CBSE · Class 12 · Commerce",
      "pack": "packs/board-cbse-12-commerce.v1.json",
-     "version": 3,
+     "version": 4,
      "subjects": 8,
      "chapters": 83
     },
@@ -141,7 +141,7 @@
      "id": "others-10",
      "name": "Other boards (NCERT-based) · Class 10",
      "pack": "packs/board-others-10.v1.json",
-     "version": 3,
+     "version": 4,
      "subjects": 6,
      "chapters": 90
     },
@@ -149,7 +149,7 @@
      "id": "others-12-science",
      "name": "Other boards (NCERT-based) · Class 12 · Science",
      "pack": "packs/board-others-12-science.v1.json",
-     "version": 3,
+     "version": 4,
      "subjects": 8,
      "chapters": 95
     },
@@ -157,7 +157,7 @@
      "id": "others-12-commerce",
      "name": "Other boards (NCERT-based) · Class 12 · Commerce",
      "pack": "packs/board-others-12-commerce.v1.json",
-     "version": 3,
+     "version": 4,
      "subjects": 8,
      "chapters": 83
     },
@@ -182,9 +182,9 @@
      "id": "foundation",
      "name": "Foundation",
      "pack": "packs/ca-foundation.v1.json",
-     "version": 1,
+     "version": 2,
      "subjects": 4,
-     "chapters": 30
+     "chapters": 43
     },
     {
      "id": "intermediate",
