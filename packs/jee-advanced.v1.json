@@ -3,7 +3,7 @@
  "course": "jee",
  "level": "advanced",
  "name": "IIT JEE JEE Main + Advanced",
- "version": 1,
+ "version": 2,
  "subjects": [
   {
    "id": "jee-advanced-s1",
@@ -15,7 +15,9 @@
      "group": "Class 11",
      "topics": [
       "Units, dimensions, errors"
-     ]
+     ],
+     "weight": 2.1,
+     "weight_src": "Estimate from past papers (NTA publishes no official chapter weightage) — relative importance, normalised to 100 per subject"
     },
     {
      "id": "jee-advanced-s1-m2",
@@ -25,7 +27,9 @@
       "Motion in a straight line",
       "Motion in a plane",
       "Projectile motion"
-     ]
+     ],
+     "weight": 3.4,
+     "weight_src": "Estimate from past papers (NTA publishes no official chapter weightage) — relative importance, normalised to 100 per subject"
     },
     {
      "id": "jee-advanced-s1-m3",
@@ -35,7 +39,9 @@
       "Newton's laws",
       "Friction",
       "Circular motion"
-     ]
+     ],
+     "weight": 3.4,
+     "weight_src": "Estimate from past papers (NTA publishes no official chapter weightage) — relative importance, normalised to 100 per subject"
     },
     {
      "id": "jee-advanced-s1-m4",
@@ -44,7 +50,9 @@
      "topics": [
       "Work-energy theorem",
       "Collisions"
-     ]
+     ],
+     "weight": 3.4,
+     "weight_src": "Estimate from past papers (NTA publishes no official chapter weightage) — relative importance, normalised to 100 per subject"
     },
     {
      "id": "jee-advanced-s1-m5",
@@ -54,7 +62,9 @@
       "Centre of mass",
       "Torque & angular momentum",
       "Moment of inertia"
-     ]
+     ],
+     "weight": 5.5,
+     "weight_src": "Estimate from past papers (NTA publishes no official chapter weightage) — relative importance, normalised to 100 per subject"
     },
     {
      "id": "jee-advanced-s1-m6",
@@ -64,7 +74,9 @@
       "Kepler's laws",
       "Gravitational potential",
       "Satellites"
-     ]
+     ],
+     "weight": 3.4,
+     "weight_src": "Estimate from past papers (NTA publishes no official chapter weightage) — relative importance, normalised to 100 per subject"
     },
     {
      "id": "jee-advanced-s1-m7",
@@ -75,7 +87,9 @@
       "Fluids & viscosity",
       "Surface tension",
       "Heat transfer"
-     ]
+     ],
+     "weight": 3.4,
+     "weight_src": "Estimate from past papers (NTA publishes no official chapter weightage) — relative importance, normalised to 100 per subject"
     },
     {
      "id": "jee-advanced-s1-m8",
@@ -84,7 +98,9 @@
      "topics": [
       "Laws of thermodynamics",
       "Heat engines"
-     ]
+     ],
+     "weight": 5.5,
+     "weight_src": "Estimate from past papers (NTA publishes no official chapter weightage) — relative importance, normalised to 100 per subject"
     },
     {
      "id": "jee-advanced-s1-m9",
@@ -93,7 +109,9 @@
      "topics": [
       "Ideal gas",
       "Degrees of freedom"
-     ]
+     ],
+     "weight": 2.8,
+     "weight_src": "Estimate from past papers (NTA publishes no official chapter weightage) — relative importance, normalised to 100 per subject"
     },
     {
      "id": "jee-advanced-s1-m10",
@@ -102,7 +120,9 @@
      "topics": [
       "SHM",
       "Waves & sound"
-     ]
+     ],
+     "weight": 4.1,
+     "weight_src": "Estimate from past papers (NTA publishes no official chapter weightage) — relative importance, normalised to 100 per subject"
     },
     {
      "id": "jee-advanced-s1-m11",
@@ -112,7 +132,9 @@
       "Coulomb law & field",
       "Potential",
       "Capacitors"
-     ]
+     ],
+     "weight": 5.5,
+     "weight_src": "Estimate from past papers (NTA publishes no official chapter weightage) — relative importance, normalised to 100 per subject"
     },
     {
      "id": "jee-advanced-s1-m12",
@@ -121,7 +143,9 @@
      "topics": [
       "Ohm's law & circuits",
       "Kirchhoff's laws"
-     ]
+     ],
+     "weight": 6.2,
+     "weight_src": "Estimate from past papers (NTA publishes no official chapter weightage) — relative importance, normalised to 100 per subject"
     },
     {
      "id": "jee-advanced-s1-m13",
@@ -130,7 +154,9 @@
      "topics": [
       "Biot-Savart & Ampere",
       "Magnetism & matter"
-     ]
+     ],
+     "weight": 5.5,
+     "weight_src": "Estimate from past papers (NTA publishes no official chapter weightage) — relative importance, normalised to 100 per subject"
     },
     {
      "id": "jee-advanced-s1-m14",
@@ -139,13 +165,17 @@
      "topics": [
       "Faraday's law",
       "AC circuits"
-     ]
+     ],
+     "weight": 4.1,
+     "weight_src": "Estimate from past papers (NTA publishes no official chapter weightage) — relative importance, normalised to 100 per subject"
     },
     {
      "id": "jee-advanced-s1-m15",
      "name": "Electromagnetic Waves",
      "group": "Class 12",
-     "topics": []
+     "topics": [],
+     "weight": 2.1,
+     "weight_src": "Estimate from past papers (NTA publishes no official chapter weightage) — relative importance, normalised to 100 per subject"
     },
     {
      "id": "jee-advanced-s1-m16",
@@ -154,19 +184,25 @@
      "topics": [
       "Ray optics",
       "Wave optics"
-     ]
+     ],
+     "weight": 6.2,
+     "weight_src": "Estimate from past papers (NTA publishes no official chapter weightage) — relative importance, normalised to 100 per subject"
     },
     {
      "id": "jee-advanced-s1-m17",
      "name": "Dual Nature of Matter and Radiation",
      "group": "Class 12",
-     "topics": []
+     "topics": [],
+     "weight": 3.4,
+     "weight_src": "Estimate from past papers (NTA publishes no official chapter weightage) — relative importance, normalised to 100 per subject"
     },
     {
      "id": "jee-advanced-s1-m18",
      "name": "Atoms and Nuclei",
      "group": "Class 12",
-     "topics": []
+     "topics": [],
+     "weight": 5.5,
+     "weight_src": "Estimate from past papers (NTA publishes no official chapter weightage) — relative importance, normalised to 100 per subject"
     },
     {
      "id": "jee-advanced-s1-m19",
@@ -175,37 +211,49 @@
      "topics": [
       "Semiconductors",
       "Diodes"
-     ]
+     ],
+     "weight": 3.4,
+     "weight_src": "Estimate from past papers (NTA publishes no official chapter weightage) — relative importance, normalised to 100 per subject"
     },
     {
      "id": "jee-advanced-s1-m20",
      "name": "Experimental Skills",
      "group": "Practical",
-     "topics": []
+     "topics": [],
+     "weight": 2.1,
+     "weight_src": "Estimate from past papers (NTA publishes no official chapter weightage) — relative importance, normalised to 100 per subject"
     },
     {
      "id": "jee-advanced-s1-m21",
      "name": "Rigid Body Dynamics (Advanced)",
      "group": "Advanced",
-     "topics": []
+     "topics": [],
+     "weight": 5.5,
+     "weight_src": "Estimate from past papers (NTA publishes no official chapter weightage) — relative importance, normalised to 100 per subject"
     },
     {
      "id": "jee-advanced-s1-m22",
      "name": "Fluid Mechanics & Viscosity (Advanced)",
      "group": "Advanced",
-     "topics": []
+     "topics": [],
+     "weight": 3.4,
+     "weight_src": "Estimate from past papers (NTA publishes no official chapter weightage) — relative importance, normalised to 100 per subject"
     },
     {
      "id": "jee-advanced-s1-m23",
      "name": "Wave Optics & Interference (Advanced)",
      "group": "Advanced",
-     "topics": []
+     "topics": [],
+     "weight": 4.1,
+     "weight_src": "Estimate from past papers (NTA publishes no official chapter weightage) — relative importance, normalised to 100 per subject"
     },
     {
      "id": "jee-advanced-s1-m24",
      "name": "EM Waves & Modern Physics (Advanced)",
      "group": "Advanced",
-     "topics": []
+     "topics": [],
+     "weight": 5.5,
+     "weight_src": "Estimate from past papers (NTA publishes no official chapter weightage) — relative importance, normalised to 100 per subject"
     }
    ]
   },
@@ -217,145 +265,193 @@
      "id": "jee-advanced-s2-m1",
      "name": "Some Basic Concepts in Chemistry",
      "group": "Physical",
-     "topics": []
+     "topics": [],
+     "weight": 3.7,
+     "weight_src": "Estimate from past papers (NTA publishes no official chapter weightage) — relative importance, normalised to 100 per subject"
     },
     {
      "id": "jee-advanced-s2-m2",
      "name": "Atomic Structure",
      "group": "Physical",
-     "topics": []
+     "topics": [],
+     "weight": 4.4,
+     "weight_src": "Estimate from past papers (NTA publishes no official chapter weightage) — relative importance, normalised to 100 per subject"
     },
     {
      "id": "jee-advanced-s2-m3",
      "name": "Chemical Bonding and Molecular Structure",
      "group": "Physical",
-     "topics": []
+     "topics": [],
+     "weight": 5.9,
+     "weight_src": "Estimate from past papers (NTA publishes no official chapter weightage) — relative importance, normalised to 100 per subject"
     },
     {
      "id": "jee-advanced-s2-m4",
      "name": "Chemical Thermodynamics",
      "group": "Physical",
-     "topics": []
+     "topics": [],
+     "weight": 4.4,
+     "weight_src": "Estimate from past papers (NTA publishes no official chapter weightage) — relative importance, normalised to 100 per subject"
     },
     {
      "id": "jee-advanced-s2-m5",
      "name": "Solutions",
      "group": "Physical",
-     "topics": []
+     "topics": [],
+     "weight": 2.9,
+     "weight_src": "Estimate from past papers (NTA publishes no official chapter weightage) — relative importance, normalised to 100 per subject"
     },
     {
      "id": "jee-advanced-s2-m6",
      "name": "Equilibrium",
      "group": "Physical",
-     "topics": []
+     "topics": [],
+     "weight": 4.4,
+     "weight_src": "Estimate from past papers (NTA publishes no official chapter weightage) — relative importance, normalised to 100 per subject"
     },
     {
      "id": "jee-advanced-s2-m7",
      "name": "Redox Reactions and Electrochemistry",
      "group": "Physical",
-     "topics": []
+     "topics": [],
+     "weight": 3.7,
+     "weight_src": "Estimate from past papers (NTA publishes no official chapter weightage) — relative importance, normalised to 100 per subject"
     },
     {
      "id": "jee-advanced-s2-m8",
      "name": "Chemical Kinetics",
      "group": "Physical",
-     "topics": []
+     "topics": [],
+     "weight": 2.9,
+     "weight_src": "Estimate from past papers (NTA publishes no official chapter weightage) — relative importance, normalised to 100 per subject"
     },
     {
      "id": "jee-advanced-s2-m9",
      "name": "Classification of Elements and Periodicity",
      "group": "Inorganic",
-     "topics": []
+     "topics": [],
+     "weight": 5.1,
+     "weight_src": "Estimate from past papers (NTA publishes no official chapter weightage) — relative importance, normalised to 100 per subject"
     },
     {
      "id": "jee-advanced-s2-m10",
      "name": "p-Block Elements",
      "group": "Inorganic",
-     "topics": []
+     "topics": [],
+     "weight": 5.1,
+     "weight_src": "Estimate from past papers (NTA publishes no official chapter weightage) — relative importance, normalised to 100 per subject"
     },
     {
      "id": "jee-advanced-s2-m11",
      "name": "d- and f-Block Elements",
      "group": "Inorganic",
-     "topics": []
+     "topics": [],
+     "weight": 5.1,
+     "weight_src": "Estimate from past papers (NTA publishes no official chapter weightage) — relative importance, normalised to 100 per subject"
     },
     {
      "id": "jee-advanced-s2-m12",
      "name": "Coordination Compounds",
      "group": "Inorganic",
-     "topics": []
+     "topics": [],
+     "weight": 5.9,
+     "weight_src": "Estimate from past papers (NTA publishes no official chapter weightage) — relative importance, normalised to 100 per subject"
     },
     {
      "id": "jee-advanced-s2-m13",
      "name": "Purification and Characterisation of Organic Compounds",
      "group": "Organic",
-     "topics": []
+     "topics": [],
+     "weight": 2.2,
+     "weight_src": "Estimate from past papers (NTA publishes no official chapter weightage) — relative importance, normalised to 100 per subject"
     },
     {
      "id": "jee-advanced-s2-m14",
      "name": "Some Basic Principles of Organic Chemistry",
      "group": "Organic",
-     "topics": []
+     "topics": [],
+     "weight": 5.9,
+     "weight_src": "Estimate from past papers (NTA publishes no official chapter weightage) — relative importance, normalised to 100 per subject"
     },
     {
      "id": "jee-advanced-s2-m15",
      "name": "Hydrocarbons",
      "group": "Organic",
-     "topics": []
+     "topics": [],
+     "weight": 3.7,
+     "weight_src": "Estimate from past papers (NTA publishes no official chapter weightage) — relative importance, normalised to 100 per subject"
     },
     {
      "id": "jee-advanced-s2-m16",
      "name": "Organic Compounds Containing Halogens",
      "group": "Organic",
-     "topics": []
+     "topics": [],
+     "weight": 2.9,
+     "weight_src": "Estimate from past papers (NTA publishes no official chapter weightage) — relative importance, normalised to 100 per subject"
     },
     {
      "id": "jee-advanced-s2-m17",
      "name": "Organic Compounds Containing Oxygen",
      "group": "Organic",
-     "topics": []
+     "topics": [],
+     "weight": 5.1,
+     "weight_src": "Estimate from past papers (NTA publishes no official chapter weightage) — relative importance, normalised to 100 per subject"
     },
     {
      "id": "jee-advanced-s2-m18",
      "name": "Organic Compounds Containing Nitrogen",
      "group": "Organic",
-     "topics": []
+     "topics": [],
+     "weight": 2.9,
+     "weight_src": "Estimate from past papers (NTA publishes no official chapter weightage) — relative importance, normalised to 100 per subject"
     },
     {
      "id": "jee-advanced-s2-m19",
      "name": "Biomolecules",
      "group": "Organic",
-     "topics": []
+     "topics": [],
+     "weight": 2.9,
+     "weight_src": "Estimate from past papers (NTA publishes no official chapter weightage) — relative importance, normalised to 100 per subject"
     },
     {
      "id": "jee-advanced-s2-m20",
      "name": "Principles Related to Practical Chemistry",
      "group": "Organic",
-     "topics": []
+     "topics": [],
+     "weight": 1.5,
+     "weight_src": "Estimate from past papers (NTA publishes no official chapter weightage) — relative importance, normalised to 100 per subject"
     },
     {
      "id": "jee-advanced-s2-m21",
      "name": "Qualitative (Salt) Analysis",
      "group": "Advanced",
-     "topics": []
+     "topics": [],
+     "weight": 2.9,
+     "weight_src": "Estimate from past papers (NTA publishes no official chapter weightage) — relative importance, normalised to 100 per subject"
     },
     {
      "id": "jee-advanced-s2-m22",
      "name": "Electrochemistry & Equilibrium (Advanced)",
      "group": "Advanced",
-     "topics": []
+     "topics": [],
+     "weight": 5.1,
+     "weight_src": "Estimate from past papers (NTA publishes no official chapter weightage) — relative importance, normalised to 100 per subject"
     },
     {
      "id": "jee-advanced-s2-m23",
      "name": "Reaction Mechanisms (SN1, SN2, E1, E2)",
      "group": "Advanced",
-     "topics": []
+     "topics": [],
+     "weight": 5.9,
+     "weight_src": "Estimate from past papers (NTA publishes no official chapter weightage) — relative importance, normalised to 100 per subject"
     },
     {
      "id": "jee-advanced-s2-m24",
      "name": "Coordination Chemistry & Isomerism (Advanced)",
      "group": "Advanced",
-     "topics": []
+     "topics": [],
+     "weight": 5.1,
+     "weight_src": "Estimate from past papers (NTA publishes no official chapter weightage) — relative importance, normalised to 100 per subject"
     }
    ]
   },
@@ -367,43 +463,57 @@
      "id": "jee-advanced-s3-m1",
      "name": "Sets, Relations and Functions",
      "group": "Algebra",
-     "topics": []
+     "topics": [],
+     "weight": 4.0,
+     "weight_src": "Estimate from past papers (NTA publishes no official chapter weightage) — relative importance, normalised to 100 per subject"
     },
     {
      "id": "jee-advanced-s3-m2",
      "name": "Complex Numbers and Quadratic Equations",
      "group": "Algebra",
-     "topics": []
+     "topics": [],
+     "weight": 4.8,
+     "weight_src": "Estimate from past papers (NTA publishes no official chapter weightage) — relative importance, normalised to 100 per subject"
     },
     {
      "id": "jee-advanced-s3-m3",
      "name": "Matrices and Determinants",
      "group": "Algebra",
-     "topics": []
+     "topics": [],
+     "weight": 6.5,
+     "weight_src": "Estimate from past papers (NTA publishes no official chapter weightage) — relative importance, normalised to 100 per subject"
     },
     {
      "id": "jee-advanced-s3-m4",
      "name": "Permutations and Combinations",
      "group": "Algebra",
-     "topics": []
+     "topics": [],
+     "weight": 4.0,
+     "weight_src": "Estimate from past papers (NTA publishes no official chapter weightage) — relative importance, normalised to 100 per subject"
     },
     {
      "id": "jee-advanced-s3-m5",
      "name": "Binomial Theorem",
      "group": "Algebra",
-     "topics": []
+     "topics": [],
+     "weight": 3.2,
+     "weight_src": "Estimate from past papers (NTA publishes no official chapter weightage) — relative importance, normalised to 100 per subject"
     },
     {
      "id": "jee-advanced-s3-m6",
      "name": "Sequence and Series",
      "group": "Algebra",
-     "topics": []
+     "topics": [],
+     "weight": 5.6,
+     "weight_src": "Estimate from past papers (NTA publishes no official chapter weightage) — relative importance, normalised to 100 per subject"
     },
     {
      "id": "jee-advanced-s3-m7",
      "name": "Limits, Continuity and Differentiability",
      "group": "Calculus",
-     "topics": []
+     "topics": [],
+     "weight": 7.3,
+     "weight_src": "Estimate from past papers (NTA publishes no official chapter weightage) — relative importance, normalised to 100 per subject"
     },
     {
      "id": "jee-advanced-s3-m8",
@@ -412,13 +522,17 @@
      "topics": [
       "Indefinite",
       "Definite"
-     ]
+     ],
+     "weight": 8.9,
+     "weight_src": "Estimate from past papers (NTA publishes no official chapter weightage) — relative importance, normalised to 100 per subject"
     },
     {
      "id": "jee-advanced-s3-m9",
      "name": "Differential Equations",
      "group": "Calculus",
-     "topics": []
+     "topics": [],
+     "weight": 4.8,
+     "weight_src": "Estimate from past papers (NTA publishes no official chapter weightage) — relative importance, normalised to 100 per subject"
     },
     {
      "id": "jee-advanced-s3-m10",
@@ -428,57 +542,76 @@
       "Straight lines",
       "Circles",
       "Conic sections"
-     ]
+     ],
+     "weight": 10.5,
+     "weight_src": "Estimate from past papers (NTA publishes no official chapter weightage) — relative importance, normalised to 100 per subject"
     },
     {
      "id": "jee-advanced-s3-m11",
      "name": "Three Dimensional Geometry",
      "group": "Geometry",
-     "topics": []
+     "topics": [],
+     "weight": 4.8,
+     "weight_src": "Estimate from past papers (NTA publishes no official chapter weightage) — relative importance, normalised to 100 per subject"
     },
     {
      "id": "jee-advanced-s3-m12",
      "name": "Vector Algebra",
      "group": "Geometry",
-     "topics": []
+     "topics": [],
+     "weight": 4.0,
+     "weight_src": "Estimate from past papers (NTA publishes no official chapter weightage) — relative importance, normalised to 100 per subject"
     },
     {
      "id": "jee-advanced-s3-m13",
      "name": "Statistics and Probability",
      "group": "Statistics & Trigonometry",
-     "topics": []
+     "topics": [],
+     "weight": 5.6,
+     "weight_src": "Estimate from past papers (NTA publishes no official chapter weightage) — relative importance, normalised to 100 per subject"
     },
     {
      "id": "jee-advanced-s3-m14",
      "name": "Trigonometry",
      "group": "Statistics & Trigonometry",
-     "topics": []
+     "topics": [],
+     "weight": 4.8,
+     "weight_src": "Estimate from past papers (NTA publishes no official chapter weightage) — relative importance, normalised to 100 per subject"
     },
     {
      "id": "jee-advanced-s3-m15",
      "name": "Application of Derivatives (Advanced)",
      "group": "Advanced",
-     "topics": []
+     "topics": [],
+     "weight": 6.5,
+     "weight_src": "Estimate from past papers (NTA publishes no official chapter weightage) — relative importance, normalised to 100 per subject"
     },
     {
      "id": "jee-advanced-s3-m16",
      "name": "3D Geometry & Vectors (Advanced)",
      "group": "Advanced",
-     "topics": []
+     "topics": [],
+     "weight": 5.6,
+     "weight_src": "Estimate from past papers (NTA publishes no official chapter weightage) — relative importance, normalised to 100 per subject"
     },
     {
      "id": "jee-advanced-s3-m17",
      "name": "Conditional Probability (Advanced)",
      "group": "Advanced",
-     "topics": []
+     "topics": [],
+     "weight": 4.8,
+     "weight_src": "Estimate from past papers (NTA publishes no official chapter weightage) — relative importance, normalised to 100 per subject"
     },
     {
      "id": "jee-advanced-s3-m18",
      "name": "Complex Numbers & Geometry (Advanced)",
      "group": "Advanced",
-     "topics": []
+     "topics": [],
+     "weight": 4.0,
+     "weight_src": "Estimate from past papers (NTA publishes no official chapter weightage) — relative importance, normalised to 100 per subject"
     }
    ]
   }
- ]
+ ],
+ "weights_note": "Estimate from past papers (NTA publishes no official chapter weightage) — relative importance, normalised to 100 per subject"
 }

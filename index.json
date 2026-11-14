@@ -281,7 +281,7 @@
      "id": "main",
      "name": "JEE Main",
      "pack": "packs/jee-main.v1.json",
-     "version": 1,
+     "version": 2,
      "subjects": 3,
      "chapters": 54
     },
@@ -289,7 +289,7 @@
      "id": "advanced",
      "name": "JEE Main + Advanced",
      "pack": "packs/jee-advanced.v1.json",
-     "version": 1,
+     "version": 2,
      "subjects": 3,
      "chapters": 66
     }
@@ -306,7 +306,7 @@
      "id": "ug",
      "name": "NEET UG 2026",
      "pack": "packs/neet-ug.v1.json",
-     "version": 1,
+     "version": 2,
      "subjects": 3,
      "chapters": 50
     }

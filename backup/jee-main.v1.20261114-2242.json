@@ -1,0 +1,412 @@
+{
+ "id": "jee-main",
+ "course": "jee",
+ "level": "main",
+ "name": "IIT JEE JEE Main",
+ "version": 1,
+ "subjects": [
+  {
+   "id": "jee-main-s1",
+   "name": "Physics",
+   "modules": [
+    {
+     "id": "jee-main-s1-m1",
+     "name": "Units and Measurements",
+     "group": "Class 11",
+     "topics": [
+      "Units, dimensions, errors"
+     ]
+    },
+    {
+     "id": "jee-main-s1-m2",
+     "name": "Kinematics",
+     "group": "Class 11",
+     "topics": [
+      "Motion in a straight line",
+      "Motion in a plane",
+      "Projectile motion"
+     ]
+    },
+    {
+     "id": "jee-main-s1-m3",
+     "name": "Laws of Motion",
+     "group": "Class 11",
+     "topics": [
+      "Newton's laws",
+      "Friction",
+      "Circular motion"
+     ]
+    },
+    {
+     "id": "jee-main-s1-m4",
+     "name": "Work, Energy and Power",
+     "group": "Class 11",
+     "topics": [
+      "Work-energy theorem",
+      "Collisions"
+     ]
+    },
+    {
+     "id": "jee-main-s1-m5",
+     "name": "Rotational Motion",
+     "group": "Class 11",
+     "topics": [
+      "Centre of mass",
+      "Torque & angular momentum",
+      "Moment of inertia"
+     ]
+    },
+    {
+     "id": "jee-main-s1-m6",
+     "name": "Gravitation",
+     "group": "Class 11",
+     "topics": [
+      "Kepler's laws",
+      "Gravitational potential",
+      "Satellites"
+     ]
+    },
+    {
+     "id": "jee-main-s1-m7",
+     "name": "Properties of Solids and Liquids",
+     "group": "Class 11",
+     "topics": [
+      "Elasticity",
+      "Fluids & viscosity",
+      "Surface tension",
+      "Heat transfer"
+     ]
+    },
+    {
+     "id": "jee-main-s1-m8",
+     "name": "Thermodynamics",
+     "group": "Class 11",
+     "topics": [
+      "Laws of thermodynamics",
+      "Heat engines"
+     ]
+    },
+    {
+     "id": "jee-main-s1-m9",
+     "name": "Kinetic Theory of Gases",
+     "group": "Class 11",
+     "topics": [
+      "Ideal gas",
+      "Degrees of freedom"
+     ]
+    },
+    {
+     "id": "jee-main-s1-m10",
+     "name": "Oscillations and Waves",
+     "group": "Class 11",
+     "topics": [
+      "SHM",
+      "Waves & sound"
+     ]
+    },
+    {
+     "id": "jee-main-s1-m11",
+     "name": "Electrostatics",
+     "group": "Class 12",
+     "topics": [
+      "Coulomb law & field",
+      "Potential",
+      "Capacitors"
+     ]
+    },
+    {
+     "id": "jee-main-s1-m12",
+     "name": "Current Electricity",
+     "group": "Class 12",
+     "topics": [
+      "Ohm's law & circuits",
+      "Kirchhoff's laws"
+     ]
+    },
+    {
+     "id": "jee-main-s1-m13",
+     "name": "Magnetic Effects of Current and Magnetism",
+     "group": "Class 12",
+     "topics": [
+      "Biot-Savart & Ampere",
+      "Magnetism & matter"
+     ]
+    },
+    {
+     "id": "jee-main-s1-m14",
+     "name": "Electromagnetic Induction and AC",
+     "group": "Class 12",
+     "topics": [
+      "Faraday's law",
+      "AC circuits"
+     ]
+    },
+    {
+     "id": "jee-main-s1-m15",
+     "name": "Electromagnetic Waves",
+     "group": "Class 12",
+     "topics": []
+    },
+    {
+     "id": "jee-main-s1-m16",
+     "name": "Optics",
+     "group": "Class 12",
+     "topics": [
+      "Ray optics",
+      "Wave optics"
+     ]
+    },
+    {
+     "id": "jee-main-s1-m17",
+     "name": "Dual Nature of Matter and Radiation",
+     "group": "Class 12",
+     "topics": []
+    },
+    {
+     "id": "jee-main-s1-m18",
+     "name": "Atoms and Nuclei",
+     "group": "Class 12",
+     "topics": []
+    },
+    {
+     "id": "jee-main-s1-m19",
+     "name": "Electronic Devices",
+     "group": "Class 12",
+     "topics": [
+      "Semiconductors",
+      "Diodes"
+     ]
+    },
+    {
+     "id": "jee-main-s1-m20",
+     "name": "Experimental Skills",
+     "group": "Practical",
+     "topics": []
+    }
+   ]
+  },
+  {
+   "id": "jee-main-s2",
+   "name": "Chemistry",
+   "modules": [
+    {
+     "id": "jee-main-s2-m1",
+     "name": "Some Basic Concepts in Chemistry",
+     "group": "Physical",
+     "topics": []
+    },
+    {
+     "id": "jee-main-s2-m2",
+     "name": "Atomic Structure",
+     "group": "Physical",
+     "topics": []
+    },
+    {
+     "id": "jee-main-s2-m3",
+     "name": "Chemical Bonding and Molecular Structure",
+     "group": "Physical",
+     "topics": []
+    },
+    {
+     "id": "jee-main-s2-m4",
+     "name": "Chemical Thermodynamics",
+     "group": "Physical",
+     "topics": []
+    },
+    {
+     "id": "jee-main-s2-m5",
+     "name": "Solutions",
+     "group": "Physical",
+     "topics": []
+    },
+    {
+     "id": "jee-main-s2-m6",
+     "name": "Equilibrium",
+     "group": "Physical",
+     "topics": []
+    },
+    {
+     "id": "jee-main-s2-m7",
+     "name": "Redox Reactions and Electrochemistry",
+     "group": "Physical",
+     "topics": []
+    },
+    {
+     "id": "jee-main-s2-m8",
+     "name": "Chemical Kinetics",
+     "group": "Physical",
+     "topics": []
+    },
+    {
+     "id": "jee-main-s2-m9",
+     "name": "Classification of Elements and Periodicity",
+     "group": "Inorganic",
+     "topics": []
+    },
+    {
+     "id": "jee-main-s2-m10",
+     "name": "p-Block Elements",
+     "group": "Inorganic",
+     "topics": []
+    },
+    {
+     "id": "jee-main-s2-m11",
+     "name": "d- and f-Block Elements",
+     "group": "Inorganic",
+     "topics": []
+    },
+    {
+     "id": "jee-main-s2-m12",
+     "name": "Coordination Compounds",
+     "group": "Inorganic",
+     "topics": []
+    },
+    {
+     "id": "jee-main-s2-m13",
+     "name": "Purification and Characterisation of Organic Compounds",
+     "group": "Organic",
+     "topics": []
+    },
+    {
+     "id": "jee-main-s2-m14",
+     "name": "Some Basic Principles of Organic Chemistry",
+     "group": "Organic",
+     "topics": []
+    },
+    {
+     "id": "jee-main-s2-m15",
+     "name": "Hydrocarbons",
+     "group": "Organic",
+     "topics": []
+    },
+    {
+     "id": "jee-main-s2-m16",
+     "name": "Organic Compounds Containing Halogens",
+     "group": "Organic",
+     "topics": []
+    },
+    {
+     "id": "jee-main-s2-m17",
+     "name": "Organic Compounds Containing Oxygen",
+     "group": "Organic",
+     "topics": []
+    },
+    {
+     "id": "jee-main-s2-m18",
+     "name": "Organic Compounds Containing Nitrogen",
+     "group": "Organic",
+     "topics": []
+    },
+    {
+     "id": "jee-main-s2-m19",
+     "name": "Biomolecules",
+     "group": "Organic",
+     "topics": []
+    },
+    {
+     "id": "jee-main-s2-m20",
+     "name": "Principles Related to Practical Chemistry",
+     "group": "Organic",
+     "topics": []
+    }
+   ]
+  },
+  {
+   "id": "jee-main-s3",
+   "name": "Mathematics",
+   "modules": [
+    {
+     "id": "jee-main-s3-m1",
+     "name": "Sets, Relations and Functions",
+     "group": "Algebra",
+     "topics": []
+    },
+    {
+     "id": "jee-main-s3-m2",
+     "name": "Complex Numbers and Quadratic Equations",
+     "group": "Algebra",
+     "topics": []
+    },
+    {
+     "id": "jee-main-s3-m3",
+     "name": "Matrices and Determinants",
+     "group": "Algebra",
+     "topics": []
+    },
+    {
+     "id": "jee-main-s3-m4",
+     "name": "Permutations and Combinations",
+     "group": "Algebra",
+     "topics": []
+    },
+    {
+     "id": "jee-main-s3-m5",
+     "name": "Binomial Theorem",
+     "group": "Algebra",
+     "topics": []
+    },
+    {
+     "id": "jee-main-s3-m6",
+     "name": "Sequence and Series",
+     "group": "Algebra",
+     "topics": []
+    },
+    {
+     "id": "jee-main-s3-m7",
+     "name": "Limits, Continuity and Differentiability",
+     "group": "Calculus",
+     "topics": []
+    },
+    {
+     "id": "jee-main-s3-m8",
+     "name": "Integral Calculus",
+     "group": "Calculus",
+     "topics": [
+      "Indefinite",
+      "Definite"
+     ]
+    },
+    {
+     "id": "jee-main-s3-m9",
+     "name": "Differential Equations",
+     "group": "Calculus",
+     "topics": []
+    },
+    {
+     "id": "jee-main-s3-m10",
+     "name": "Coordinate Geometry",
+     "group": "Geometry",
+     "topics": [
+      "Straight lines",
+      "Circles",
+      "Conic sections"
+     ]
+    },
+    {
+     "id": "jee-main-s3-m11",
+     "name": "Three Dimensional Geometry",
+     "group": "Geometry",
+     "topics": []
+    },
+    {
+     "id": "jee-main-s3-m12",
+     "name": "Vector Algebra",
+     "group": "Geometry",
+     "topics": []
+    },
+    {
+     "id": "jee-main-s3-m13",
+     "name": "Statistics and Probability",
+     "group": "Statistics & Trigonometry",
+     "topics": []
+    },
+    {
+     "id": "jee-main-s3-m14",
+     "name": "Trigonometry",
+     "group": "Statistics & Trigonometry",
+     "topics": []
+    }
+   ]
+  }
+ ]
+}
