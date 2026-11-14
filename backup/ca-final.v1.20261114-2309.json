@@ -1,0 +1,184 @@
+{
+ "id": "ca-final",
+ "course": "ca",
+ "level": "final",
+ "name": "CA Final",
+ "version": 1,
+ "subjects": [
+  {
+   "id": "ca-final-s1",
+   "name": "Financial Reporting (FR)",
+   "modules": [
+    {
+     "id": "ca-final-s1-m1",
+     "name": "Ind AS Framework & Roadmap",
+     "group": null,
+     "topics": []
+    },
+    {
+     "id": "ca-final-s1-m2",
+     "name": "Ind AS on Assets, Liabilities, Revenue",
+     "group": null,
+     "topics": []
+    },
+    {
+     "id": "ca-final-s1-m3",
+     "name": "Business Combinations & Corporate Restructuring",
+     "group": null,
+     "topics": []
+    },
+    {
+     "id": "ca-final-s1-m4",
+     "name": "Consolidated Financial Statements",
+     "group": null,
+     "topics": []
+    }
+   ]
+  },
+  {
+   "id": "ca-final-s2",
+   "name": "Advanced Financial Management (AFM)",
+   "modules": [
+    {
+     "id": "ca-final-s2-m1",
+     "name": "Financial Policy & Corporate Strategy",
+     "group": null,
+     "topics": []
+    },
+    {
+     "id": "ca-final-s2-m2",
+     "name": "Security Analysis & Portfolio Management",
+     "group": null,
+     "topics": []
+    },
+    {
+     "id": "ca-final-s2-m3",
+     "name": "Derivatives Analysis & Valuation",
+     "group": null,
+     "topics": []
+    },
+    {
+     "id": "ca-final-s2-m4",
+     "name": "Foreign Exchange Risk Management",
+     "group": null,
+     "topics": []
+    },
+    {
+     "id": "ca-final-s2-m5",
+     "name": "Mutual Funds & Mergers",
+     "group": null,
+     "topics": []
+    }
+   ]
+  },
+  {
+   "id": "ca-final-s3",
+   "name": "Advanced Auditing, Assurance & Ethics",
+   "modules": [
+    {
+     "id": "ca-final-s3-m1",
+     "name": "Quality Control & SA Standards",
+     "group": null,
+     "topics": []
+    },
+    {
+     "id": "ca-final-s3-m2",
+     "name": "Audit of Financial Statements & Group Entities",
+     "group": null,
+     "topics": []
+    },
+    {
+     "id": "ca-final-s3-m3",
+     "name": "Specialised Audits (Banks, NBFCs, Insurance)",
+     "group": null,
+     "topics": []
+    },
+    {
+     "id": "ca-final-s3-m4",
+     "name": "Digital Audit & Forensic Audit",
+     "group": null,
+     "topics": []
+    },
+    {
+     "id": "ca-final-s3-m5",
+     "name": "ICAI Code of Ethics",
+     "group": null,
+     "topics": []
+    }
+   ]
+  },
+  {
+   "id": "ca-final-s4",
+   "name": "Direct Tax Laws & International Taxation",
+   "modules": [
+    {
+     "id": "ca-final-s4-m1",
+     "name": "Comprehensive Income Tax Provisions",
+     "group": null,
+     "topics": []
+    },
+    {
+     "id": "ca-final-s4-m2",
+     "name": "Corporate Taxation & Assessment",
+     "group": null,
+     "topics": []
+    },
+    {
+     "id": "ca-final-s4-m3",
+     "name": "Tax Planning & Anti-Avoidance (GAAR)",
+     "group": null,
+     "topics": []
+    },
+    {
+     "id": "ca-final-s4-m4",
+     "name": "Transfer Pricing & DTAA",
+     "group": null,
+     "topics": []
+    }
+   ]
+  },
+  {
+   "id": "ca-final-s5",
+   "name": "Indirect Tax Laws",
+   "modules": [
+    {
+     "id": "ca-final-s5-m1",
+     "name": "Customs Law & FTP",
+     "group": null,
+     "topics": []
+    },
+    {
+     "id": "ca-final-s5-m2",
+     "name": "Comprehensive GST Provisions",
+     "group": null,
+     "topics": []
+    },
+    {
+     "id": "ca-final-s5-m3",
+     "name": "Appeals, Revisions and Offences",
+     "group": null,
+     "topics": []
+    }
+   ]
+  },
+  {
+   "id": "ca-final-s6",
+   "name": "Integrated Business Solutions",
+   "modules": [
+    {
+     "id": "ca-final-s6-m1",
+     "name": "Multidisciplinary Case Studies",
+     "group": null,
+     "topics": [
+      "FR",
+      "AFM",
+      "Audit",
+      "Tax",
+      "Law",
+      "Strategy"
+     ]
+    }
+   ]
+  }
+ ]
+}

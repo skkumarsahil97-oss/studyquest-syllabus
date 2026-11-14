@@ -3,182 +3,1138 @@
  "course": "ca",
  "level": "final",
  "name": "CA Final",
- "version": 1,
+ "version": 2,
  "subjects": [
   {
    "id": "ca-final-s1",
    "name": "Financial Reporting (FR)",
+   "name_hi": "",
    "modules": [
     {
-     "id": "ca-final-s1-m1",
-     "name": "Ind AS Framework & Roadmap",
+     "id": "ca-final-s1-mintroductiontoindi",
+     "name": "Introduction to Indian Accounting Standards",
+     "name_hi": "",
      "group": null,
-     "topics": []
+     "topics": [],
+     "status": "verify",
+     "weight": 1.0,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
     },
     {
-     "id": "ca-final-s1-m2",
-     "name": "Ind AS on Assets, Liabilities, Revenue",
+     "id": "ca-final-s1-mconceptualframewor",
+     "name": "Conceptual Framework for Financial Reporting under Ind AS",
+     "name_hi": "",
      "group": null,
-     "topics": []
+     "topics": [],
+     "status": "verify",
+     "weight": 1.9,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
     },
     {
-     "id": "ca-final-s1-m3",
-     "name": "Business Combinations & Corporate Restructuring",
+     "id": "ca-final-s1-mpresentationoffina",
+     "name": "Presentation of Financial Statements (Ind AS 1, 34, 7)",
+     "name_hi": "",
      "group": null,
-     "topics": []
+     "topics": [],
+     "status": "verify",
+     "weight": 5.8,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
     },
     {
-     "id": "ca-final-s1-m4",
-     "name": "Consolidated Financial Statements",
+     "id": "ca-final-s1-mmeasurementbasedon",
+     "name": "Measurement based on Accounting Policies (Ind AS 8, 10, 113)",
+     "name_hi": "",
      "group": null,
-     "topics": []
+     "topics": [],
+     "status": "verify",
+     "weight": 4.9,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-final-s1-mindas115revenuefro",
+     "name": "Ind AS 115: Revenue from Contracts with Customers",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 7.8,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-final-s1-mindasonassetsindas",
+     "name": "Ind AS on Assets (Ind AS 2, 16, 23, 36, 38, 40, 105, 116)",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 14.6,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-final-s1-mindasonliabilities",
+     "name": "Ind AS on Liabilities (Ind AS 19, 37)",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 5.8,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-final-s1-mitemsimpactingfina",
+     "name": "Items Impacting Financial Statements (Ind AS 12, 21)",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 4.9,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-final-s1-mindas102andotherin",
+     "name": "Ind AS 102 and Other Ind AS (20, 41)",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 3.9,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-final-s1-mdisclosuresindas24",
+     "name": "Disclosures (Ind AS 24, 33, 108)",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 4.9,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-final-s1-mfinancialinstrumen",
+     "name": "Financial Instruments (Ind AS 32, 107, 109)",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 11.7,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-final-s1-mindas103businessco",
+     "name": "Ind AS 103: Business Combinations",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 8.7,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-final-s1-mconsolidatedandsep",
+     "name": "Consolidated and Separate Financial Statements (Ind AS 27, 28, 110, 111, 112)",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 14.6,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-final-s1-mindas101firsttimea",
+     "name": "Ind AS 101: First-time Adoption",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 3.9,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-final-s1-manalysisoffinancia",
+     "name": "Analysis of Financial Statements",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 2.9,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-final-s1-mprofessionalandeth",
+     "name": "Professional and Ethical Duty of a Chartered Accountant",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 1.9,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-final-s1-maccountingandtechn",
+     "name": "Accounting and Technology",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 1.0,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
     }
    ]
   },
   {
    "id": "ca-final-s2",
    "name": "Advanced Financial Management (AFM)",
+   "name_hi": "",
    "modules": [
     {
-     "id": "ca-final-s2-m1",
-     "name": "Financial Policy & Corporate Strategy",
+     "id": "ca-final-s2-mfinancialpolicyand",
+     "name": "Financial Policy and Corporate Strategy",
+     "name_hi": "",
      "group": null,
-     "topics": []
+     "topics": [],
+     "status": "verify",
+     "weight": 4.0,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
     },
     {
-     "id": "ca-final-s2-m2",
-     "name": "Security Analysis & Portfolio Management",
+     "id": "ca-final-s2-mriskmanagement",
+     "name": "Risk Management",
+     "name_hi": "",
      "group": null,
-     "topics": []
+     "topics": [],
+     "status": "verify",
+     "weight": 5.0,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
     },
     {
-     "id": "ca-final-s2-m3",
-     "name": "Derivatives Analysis & Valuation",
+     "id": "ca-final-s2-madvancedcapitalbud",
+     "name": "Advanced Capital Budgeting Decisions",
+     "name_hi": "",
      "group": null,
-     "topics": []
+     "topics": [],
+     "status": "verify",
+     "weight": 6.0,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
     },
     {
-     "id": "ca-final-s2-m4",
-     "name": "Foreign Exchange Risk Management",
+     "id": "ca-final-s2-msecurityanalysis",
+     "name": "Security Analysis",
+     "name_hi": "",
      "group": null,
-     "topics": []
+     "topics": [],
+     "status": "verify",
+     "weight": 4.0,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
     },
     {
-     "id": "ca-final-s2-m5",
-     "name": "Mutual Funds & Mergers",
+     "id": "ca-final-s2-msecurityvaluation",
+     "name": "Security Valuation",
+     "name_hi": "",
      "group": null,
-     "topics": []
+     "topics": [],
+     "status": "verify",
+     "weight": 12.5,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-final-s2-mportfoliomanagemen",
+     "name": "Portfolio Management",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 11.5,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-final-s2-msecuritization",
+     "name": "Securitization",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 3.0,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-final-s2-mmutualfunds",
+     "name": "Mutual Funds",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 6.0,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-final-s2-mderivativesanalysi",
+     "name": "Derivatives Analysis and Valuation",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 12.3,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-final-s2-mforeignexchangeexp",
+     "name": "Foreign Exchange Exposure and Risk Management",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 10.0,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-final-s2-minternationalfinan",
+     "name": "International Financial Management",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 4.0,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-final-s2-minterestrateriskma",
+     "name": "Interest Rate Risk Management",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 5.0,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-final-s2-mbusinessvaluation",
+     "name": "Business Valuation",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 7.0,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-final-s2-mmergersacquisition",
+     "name": "Mergers, Acquisitions and Corporate Restructuring",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 8.0,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-final-s2-mstartupfinance",
+     "name": "Startup Finance",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 2.0,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
     }
    ]
   },
   {
    "id": "ca-final-s3",
    "name": "Advanced Auditing, Assurance & Ethics",
+   "name_hi": "",
    "modules": [
     {
-     "id": "ca-final-s3-m1",
-     "name": "Quality Control & SA Standards",
+     "id": "ca-final-s3-mqualitycontrol",
+     "name": "Quality Control",
+     "name_hi": "",
      "group": null,
-     "topics": []
+     "topics": [],
+     "status": "verify",
+     "weight": 5.1,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
     },
     {
-     "id": "ca-final-s3-m2",
-     "name": "Audit of Financial Statements & Group Entities",
+     "id": "ca-final-s3-mgeneralauditingpri",
+     "name": "General Auditing Principles and Auditors’ Responsibilities",
+     "name_hi": "",
      "group": null,
-     "topics": []
+     "topics": [],
+     "status": "verify",
+     "weight": 4.0,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
     },
     {
-     "id": "ca-final-s3-m3",
-     "name": "Specialised Audits (Banks, NBFCs, Insurance)",
+     "id": "ca-final-s3-mauditplanningstrat",
+     "name": "Audit Planning, Strategy and Execution",
+     "name_hi": "",
      "group": null,
-     "topics": []
+     "topics": [],
+     "status": "verify",
+     "weight": 5.1,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
     },
     {
-     "id": "ca-final-s3-m4",
-     "name": "Digital Audit & Forensic Audit",
+     "id": "ca-final-s3-mmaterialityriskass",
+     "name": "Materiality, Risk Assessment and Internal Control",
+     "name_hi": "",
      "group": null,
-     "topics": []
+     "topics": [],
+     "status": "verify",
+     "weight": 6.1,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
     },
     {
-     "id": "ca-final-s3-m5",
-     "name": "ICAI Code of Ethics",
+     "id": "ca-final-s3-mauditevidence",
+     "name": "Audit Evidence",
+     "name_hi": "",
      "group": null,
-     "topics": []
+     "topics": [],
+     "status": "verify",
+     "weight": 5.1,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-final-s3-mcompletionandrevie",
+     "name": "Completion and Review",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 4.0,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-final-s3-mreporting",
+     "name": "Reporting",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 9.1,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-final-s3-mspecialisedareas",
+     "name": "Specialised Areas",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 4.0,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-final-s3-mrelatedservices",
+     "name": "Related Services",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 2.0,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-final-s3-mreviewoffinanciali",
+     "name": "Review of Financial Information",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 2.0,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-final-s3-mprospectivefinanci",
+     "name": "Prospective Financial Information and Other Assurance Services",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 3.0,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-final-s3-mdigitalauditingand",
+     "name": "Digital Auditing and Assurance",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 4.5,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-final-s3-mgroupaudits",
+     "name": "Group Audits",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 4.5,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-final-s3-mspecialfeaturesofa",
+     "name": "Special Features of Audit of Banks and NBFCs",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 5.1,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-final-s3-moverviewofauditofp",
+     "name": "Overview of Audit of Public Sector Undertakings",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 3.0,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-final-s3-minternalaudit",
+     "name": "Internal Audit",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 4.0,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-final-s3-mduediligenceinvest",
+     "name": "Due Diligence, Investigation and Forensic Accounting",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 4.0,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-final-s3-mesgassuranceandsus",
+     "name": "ESG Assurance and Sustainable Development Goals",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 4.5,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-final-s3-mprofessionalethics",
+     "name": "Professional Ethics and Liabilities of Auditors",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 20.7,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
     }
    ]
   },
   {
    "id": "ca-final-s4",
    "name": "Direct Tax Laws & International Taxation",
+   "name_hi": "",
    "modules": [
     {
-     "id": "ca-final-s4-m1",
-     "name": "Comprehensive Income Tax Provisions",
+     "id": "ca-final-s4-mdtbasicconcepts",
+     "name": "DT: Basic Concepts",
+     "name_hi": "",
      "group": null,
-     "topics": []
+     "topics": [],
+     "status": "verify",
+     "weight": 2.0,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
     },
     {
-     "id": "ca-final-s4-m2",
-     "name": "Corporate Taxation & Assessment",
+     "id": "ca-final-s4-mincomeswhichdonotf",
+     "name": "Incomes which do not form part of Total Income",
+     "name_hi": "",
      "group": null,
-     "topics": []
+     "topics": [],
+     "status": "verify",
+     "weight": 3.0,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
     },
     {
-     "id": "ca-final-s4-m3",
-     "name": "Tax Planning & Anti-Avoidance (GAAR)",
+     "id": "ca-final-s4-mprofitsandgainsofb",
+     "name": "Profits and Gains of Business or Profession",
+     "name_hi": "",
      "group": null,
-     "topics": []
+     "topics": [],
+     "status": "verify",
+     "weight": 9.0,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
     },
     {
-     "id": "ca-final-s4-m4",
-     "name": "Transfer Pricing & DTAA",
+     "id": "ca-final-s4-mcapitalgains",
+     "name": "Capital Gains",
+     "name_hi": "",
      "group": null,
-     "topics": []
+     "topics": [],
+     "status": "verify",
+     "weight": 8.0,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-final-s4-mincomefromothersou",
+     "name": "Income from Other Sources",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 3.0,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-final-s4-mincomeofotherperso",
+     "name": "Income of Other Persons included in Total Income",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 2.0,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-final-s4-maggregationsetoffa",
+     "name": "Aggregation, Set-off and Carry Forward of Losses",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 2.0,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-final-s4-mdeductionsfromgros",
+     "name": "Deductions from Gross Total Income",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 3.0,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-final-s4-massessmentofvariou",
+     "name": "Assessment of Various Entities",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 5.0,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-final-s4-massessmentoftrusts",
+     "name": "Assessment of Trusts, Institutions and Political Parties",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 3.0,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-final-s4-mtaxplanningtaxavoi",
+     "name": "Tax Planning, Tax Avoidance and Tax Evasion (GAAR)",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 2.0,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-final-s4-mtaxationofdigitalt",
+     "name": "Taxation of Digital Transactions",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 1.5,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-final-s4-mdeductioncollectio",
+     "name": "Deduction, Collection and Recovery of Tax",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 5.0,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-final-s4-mincometaxauthoriti",
+     "name": "Income-tax Authorities",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 1.5,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-final-s4-massessmentprocedur",
+     "name": "Assessment Procedure",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 5.0,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-final-s4-mappealsandrevision",
+     "name": "Appeals and Revision",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 4.0,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-final-s4-mdisputeresolution",
+     "name": "Dispute Resolution",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 2.0,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-final-s4-mmiscellaneousprovi",
+     "name": "Miscellaneous Provisions",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 1.5,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-final-s4-mprovisionstocounte",
+     "name": "Provisions to Counteract Unethical Tax Practices",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 3.0,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-final-s4-mtaxauditandethical",
+     "name": "Tax Audit and Ethical Compliances",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 2.0,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-final-s4-mnonresidenttaxatio",
+     "name": "Non-resident Taxation",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 8.0,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-final-s4-mdoubletaxationreli",
+     "name": "Double Taxation Relief",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 4.0,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-final-s4-madvancerulings",
+     "name": "Advance Rulings",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 2.0,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-final-s4-mtransferpricing",
+     "name": "Transfer Pricing",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 9.0,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-final-s4-mfundamentalsofbeps",
+     "name": "Fundamentals of BEPS",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 3.0,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-final-s4-mtaxtreatiesconcept",
+     "name": "Tax Treaties: Concepts, Application and Interpretation",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 6.5,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
     }
    ]
   },
   {
    "id": "ca-final-s5",
    "name": "Indirect Tax Laws",
+   "name_hi": "",
    "modules": [
     {
-     "id": "ca-final-s5-m1",
-     "name": "Customs Law & FTP",
+     "id": "ca-final-s5-mgstsupplyundergst",
+     "name": "GST: Supply under GST",
+     "name_hi": "",
      "group": null,
-     "topics": []
+     "topics": [],
+     "status": "verify",
+     "weight": 4.2,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
     },
     {
-     "id": "ca-final-s5-m2",
-     "name": "Comprehensive GST Provisions",
+     "id": "ca-final-s5-mchargeofgst",
+     "name": "Charge of GST",
+     "name_hi": "",
      "group": null,
-     "topics": []
+     "topics": [],
+     "status": "verify",
+     "weight": 4.2,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
     },
     {
-     "id": "ca-final-s5-m3",
-     "name": "Appeals, Revisions and Offences",
+     "id": "ca-final-s5-mplaceofsupply",
+     "name": "Place of Supply",
+     "name_hi": "",
      "group": null,
-     "topics": []
+     "topics": [],
+     "status": "verify",
+     "weight": 5.2,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-final-s5-mexemptionsfromgst",
+     "name": "Exemptions from GST",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 4.2,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-final-s5-mtimeofsupply",
+     "name": "Time of Supply",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 3.1,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-final-s5-mvalueofsupply",
+     "name": "Value of Supply",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 5.2,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-final-s5-minputtaxcredit",
+     "name": "Input Tax Credit",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 7.3,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-final-s5-mregistration",
+     "name": "Registration",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 3.1,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-final-s5-mtaxinvoicecreditan",
+     "name": "Tax Invoice, Credit and Debit Notes",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 2.1,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-final-s5-maccountsandrecords",
+     "name": "Accounts and Records; E-Way Bill",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 2.1,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-final-s5-mpaymentoftax",
+     "name": "Payment of Tax",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 2.1,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-final-s5-mtdsandtcs",
+     "name": "TDS and TCS",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 1.6,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-final-s5-mreturns",
+     "name": "Returns",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 2.1,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-final-s5-mimportandexportund",
+     "name": "Import and Export under GST",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 3.1,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-final-s5-mrefunds",
+     "name": "Refunds",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 3.1,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-final-s5-mjobwork",
+     "name": "Job Work",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 1.6,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-final-s5-massessmentandaudit",
+     "name": "Assessment and Audit",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 2.1,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-final-s5-minspectionsearchse",
+     "name": "Inspection, Search, Seizure and Arrest",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 2.1,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-final-s5-mdemandsandrecovery",
+     "name": "Demands and Recovery",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 3.1,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-final-s5-mliabilitytopayince",
+     "name": "Liability to Pay in Certain Cases",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 1.0,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-final-s5-madvanceruling",
+     "name": "Advance Ruling",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 2.1,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-final-s5-mappealsandrevision",
+     "name": "Appeals and Revision",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 2.1,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-final-s5-moffencesandpenalti",
+     "name": "Offences and Penalties",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 2.1,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-final-s5-mgstmiscellaneouspr",
+     "name": "GST: Miscellaneous Provisions",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 1.0,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-final-s5-mcustomslevyofandex",
+     "name": "Customs: Levy of and Exemptions from Customs Duty",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 4.8,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-final-s5-mtypesofcustomsduty",
+     "name": "Types of Customs Duty",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 3.6,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-final-s5-mclassificationofim",
+     "name": "Classification of Imported and Export Goods",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 2.4,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-final-s5-mvaluationundercust",
+     "name": "Valuation under Customs",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 6.0,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-final-s5-mimportationexporta",
+     "name": "Importation, Exportation and Transportation of Goods",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 3.6,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-final-s5-mwarehousingandrefu",
+     "name": "Warehousing and Refund",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 3.6,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
+    },
+    {
+     "id": "ca-final-s5-mforeigntradepolicy",
+     "name": "Foreign Trade Policy",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify",
+     "weight": 6.0,
+     "weight_src": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify"
     }
    ]
   },
   {
    "id": "ca-final-s6",
    "name": "Integrated Business Solutions",
+   "name_hi": "",
    "modules": [
     {
-     "id": "ca-final-s6-m1",
+     "id": "ca-final-s6-mmultidisciplinaryc",
      "name": "Multidisciplinary Case Studies",
+     "name_hi": "",
      "group": null,
-     "topics": [
-      "FR",
-      "AFM",
-      "Audit",
-      "Tax",
-      "Law",
-      "Strategy"
-     ]
+     "topics": [],
+     "status": "verify"
     }
    ]
   }
- ]
+ ],
+ "weights_note": "ICAI new-scheme chapters; weight = ICAI section-wise range + marks counted in the last 6 ICAI papers (May 2024–May 2026) where known, rest estimated — please verify. DT: chapter names follow the Income-tax Act, 1961; update when ICAI moves CA Final to the Income-tax Act, 2025."
 }
