@@ -3,7 +3,7 @@
  "course": "board",
  "level": "cbse-12-commerce",
  "name": "CBSE · Class 12 · Commerce",
- "version": 4,
+ "version": 5,
  "board": "cbse",
  "class": "12",
  "stream": "commerce",
@@ -183,49 +183,65 @@
      "name": "Accounting for Partnership: Basic Concepts",
      "topics": [],
      "status": "verified",
-     "id": "accounting-for-partnership-basic-concepts"
+     "id": "accounting-for-partnership-basic-concepts",
+     "weight": 15.0,
+     "weight_src": "CBSE curriculum 2026-27, unit-wise theory marks (unit split evenly across its chapters), shown as % of the theory paper"
     },
     {
      "name": "Reconstitution of Partnership (Admission/Retirement/Death)",
      "topics": [],
      "status": "verified",
-     "id": "reconstitution-of-partnership-admission-retirement-death"
+     "id": "reconstitution-of-partnership-admission-retirement-death",
+     "weight": 15.0,
+     "weight_src": "CBSE curriculum 2026-27, unit-wise theory marks (unit split evenly across its chapters), shown as % of the theory paper"
     },
     {
      "name": "Dissolution of Partnership Firm",
      "topics": [],
      "status": "verified",
-     "id": "dissolution-of-partnership-firm"
+     "id": "dissolution-of-partnership-firm",
+     "weight": 15.0,
+     "weight_src": "CBSE curriculum 2026-27, unit-wise theory marks (unit split evenly across its chapters), shown as % of the theory paper"
     },
     {
      "name": "Accounting for Share Capital",
      "topics": [],
      "status": "verified",
-     "id": "accounting-for-share-capital"
+     "id": "accounting-for-share-capital",
+     "weight": 15.0,
+     "weight_src": "CBSE curriculum 2026-27, unit-wise theory marks (unit split evenly across its chapters), shown as % of the theory paper"
     },
     {
      "name": "Issue and Redemption of Debentures",
      "topics": [],
      "status": "verified",
-     "id": "issue-and-redemption-of-debentures"
+     "id": "issue-and-redemption-of-debentures",
+     "weight": 15.0,
+     "weight_src": "CBSE curriculum 2026-27, unit-wise theory marks (unit split evenly across its chapters), shown as % of the theory paper"
     },
     {
      "name": "Analysis of Financial Statements",
      "topics": [],
      "status": "verified",
-     "id": "analysis-of-financial-statements"
+     "id": "analysis-of-financial-statements",
+     "weight": 7.5,
+     "weight_src": "CBSE curriculum 2026-27, unit-wise theory marks (unit split evenly across its chapters), shown as % of the theory paper"
     },
     {
      "name": "Accounting Ratios",
      "topics": [],
      "status": "verified",
-     "id": "accounting-ratios"
+     "id": "accounting-ratios",
+     "weight": 7.5,
+     "weight_src": "CBSE curriculum 2026-27, unit-wise theory marks (unit split evenly across its chapters), shown as % of the theory paper"
     },
     {
      "name": "Cash Flow Statement",
      "topics": [],
      "status": "verified",
-     "id": "cash-flow-statement"
+     "id": "cash-flow-statement",
+     "weight": 10.0,
+     "weight_src": "CBSE curriculum 2026-27, unit-wise theory marks (unit split evenly across its chapters), shown as % of the theory paper"
     }
    ],
    "id": "accountancy"
@@ -237,55 +253,73 @@
      "name": "Nature and Significance of Management",
      "topics": [],
      "status": "verified",
-     "id": "nature-and-significance-of-management"
+     "id": "nature-and-significance-of-management",
+     "weight": 6.7,
+     "weight_src": "CBSE curriculum 2026-27, unit-wise theory marks (unit split evenly across its chapters), shown as % of the theory paper"
     },
     {
      "name": "Principles of Management",
      "topics": [],
      "status": "verified",
-     "id": "principles-of-management"
+     "id": "principles-of-management",
+     "weight": 6.7,
+     "weight_src": "CBSE curriculum 2026-27, unit-wise theory marks (unit split evenly across its chapters), shown as % of the theory paper"
     },
     {
      "name": "Business Environment",
      "topics": [],
      "status": "verified",
-     "id": "business-environment"
+     "id": "business-environment",
+     "weight": 6.7,
+     "weight_src": "CBSE curriculum 2026-27, unit-wise theory marks (unit split evenly across its chapters), shown as % of the theory paper"
     },
     {
      "name": "Planning & Organizing",
      "topics": [],
      "status": "verified",
-     "id": "planning-organizing"
+     "id": "planning-organizing",
+     "weight": 17.5,
+     "weight_src": "CBSE curriculum 2026-27, unit-wise theory marks (unit split evenly across its chapters), shown as % of the theory paper"
     },
     {
      "name": "Staffing, Directing & Controlling",
      "topics": [],
      "status": "verified",
-     "id": "staffing-directing-controlling"
+     "id": "staffing-directing-controlling",
+     "weight": 25.0,
+     "weight_src": "CBSE curriculum 2026-27, unit-wise theory marks (unit split evenly across its chapters), shown as % of the theory paper"
     },
     {
      "name": "Financial Management",
      "topics": [],
      "status": "verified",
-     "id": "financial-management"
+     "id": "financial-management",
+     "weight": 9.4,
+     "weight_src": "CBSE curriculum 2026-27, unit-wise theory marks (unit split evenly across its chapters), shown as % of the theory paper"
     },
     {
      "name": "Financial Markets",
      "topics": [],
      "status": "verified",
-     "id": "financial-markets"
+     "id": "financial-markets",
+     "weight": 9.4,
+     "weight_src": "CBSE curriculum 2026-27, unit-wise theory marks (unit split evenly across its chapters), shown as % of the theory paper"
     },
     {
      "name": "Marketing Management",
      "topics": [],
      "status": "verified",
-     "id": "marketing-management"
+     "id": "marketing-management",
+     "weight": 9.4,
+     "weight_src": "CBSE curriculum 2026-27, unit-wise theory marks (unit split evenly across its chapters), shown as % of the theory paper"
     },
     {
      "name": "Consumer Protection",
      "topics": [],
      "status": "verified",
-     "id": "consumer-protection"
+     "id": "consumer-protection",
+     "weight": 9.4,
+     "weight_src": "CBSE curriculum 2026-27, unit-wise theory marks (unit split evenly across its chapters), shown as % of the theory paper"
     }
    ],
    "id": "business-studies"
@@ -297,49 +331,65 @@
      "name": "Macro: National Income Accounting",
      "topics": [],
      "status": "verify",
-     "id": "macro-national-income-accounting"
+     "id": "macro-national-income-accounting",
+     "weight": 12.5,
+     "weight_src": "CBSE curriculum 2026-27, unit-wise theory marks (unit split evenly across its chapters), shown as % of the theory paper — Economics Part B split differs between sources (22/6 vs 20/8), please verify"
     },
     {
      "name": "Macro: Money and Banking",
      "topics": [],
      "status": "verify",
-     "id": "macro-money-and-banking"
+     "id": "macro-money-and-banking",
+     "weight": 7.5,
+     "weight_src": "CBSE curriculum 2026-27, unit-wise theory marks (unit split evenly across its chapters), shown as % of the theory paper — Economics Part B split differs between sources (22/6 vs 20/8), please verify"
     },
     {
      "name": "Macro: Determination of Income and Employment",
      "topics": [],
      "status": "verify",
-     "id": "macro-determination-of-income-and-employment"
+     "id": "macro-determination-of-income-and-employment",
+     "weight": 15.0,
+     "weight_src": "CBSE curriculum 2026-27, unit-wise theory marks (unit split evenly across its chapters), shown as % of the theory paper — Economics Part B split differs between sources (22/6 vs 20/8), please verify"
     },
     {
      "name": "Macro: Government Budget and the Economy",
      "topics": [],
      "status": "verify",
-     "id": "macro-government-budget-and-the-economy"
+     "id": "macro-government-budget-and-the-economy",
+     "weight": 7.5,
+     "weight_src": "CBSE curriculum 2026-27, unit-wise theory marks (unit split evenly across its chapters), shown as % of the theory paper — Economics Part B split differs between sources (22/6 vs 20/8), please verify"
     },
     {
      "name": "Macro: Balance of Payments",
      "topics": [],
      "status": "verify",
-     "id": "macro-balance-of-payments"
+     "id": "macro-balance-of-payments",
+     "weight": 7.5,
+     "weight_src": "CBSE curriculum 2026-27, unit-wise theory marks (unit split evenly across its chapters), shown as % of the theory paper — Economics Part B split differs between sources (22/6 vs 20/8), please verify"
     },
     {
      "name": "Indian Economy: Development Experience (1947–90) and Reforms since 1991",
      "topics": [],
      "status": "verify",
-     "id": "indian-economy-development-experience-1947-90-and-reforms-since-1991"
+     "id": "indian-economy-development-experience-1947-90-and-reforms-since-1991",
+     "weight": 15.0,
+     "weight_src": "CBSE curriculum 2026-27, unit-wise theory marks (unit split evenly across its chapters), shown as % of the theory paper — Economics Part B split differs between sources (22/6 vs 20/8), please verify"
     },
     {
      "name": "Indian Economy: Current Challenges",
      "topics": [],
      "status": "verify",
-     "id": "indian-economy-current-challenges"
+     "id": "indian-economy-current-challenges",
+     "weight": 27.5,
+     "weight_src": "CBSE curriculum 2026-27, unit-wise theory marks (unit split evenly across its chapters), shown as % of the theory paper — Economics Part B split differs between sources (22/6 vs 20/8), please verify"
     },
     {
      "name": "Indian Economy: Comparison with Neighbours",
      "topics": [],
      "status": "verify",
-     "id": "indian-economy-comparison-with-neighbours"
+     "id": "indian-economy-comparison-with-neighbours",
+     "weight": 7.5,
+     "weight_src": "CBSE curriculum 2026-27, unit-wise theory marks (unit split evenly across its chapters), shown as % of the theory paper — Economics Part B split differs between sources (22/6 vs 20/8), please verify"
     }
    ],
    "id": "economics"
@@ -581,5 +631,5 @@
    ]
   }
  ],
- "weights_note": "CBSE curriculum 2026-27, unit-wise theory marks (unit split evenly across its chapters), shown as % of the theory paper. Biology unit marks differ between sources — check the CBSE PDF."
+ "weights_note": "CBSE curriculum 2026-27, unit-wise theory marks (unit split evenly across its chapters), shown as % of the theory paper. Economics Part B split differs between sources — check the CBSE PDF."
 }

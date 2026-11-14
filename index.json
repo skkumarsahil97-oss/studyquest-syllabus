@@ -29,7 +29,7 @@
      "id": "cbse-12-commerce",
      "name": "CBSE · Class 12 · Commerce",
      "pack": "packs/board-cbse-12-commerce.v1.json",
-     "version": 4,
+     "version": 5,
      "subjects": 8,
      "chapters": 83
     },
@@ -37,7 +37,7 @@
      "id": "cbse-12-arts",
      "name": "CBSE · Class 12 · Arts",
      "pack": "packs/board-cbse-12-arts.v1.json",
-     "version": 3,
+     "version": 4,
      "subjects": 9,
      "chapters": 103
     },
@@ -157,7 +157,7 @@
      "id": "others-12-commerce",
      "name": "Other boards (NCERT-based) · Class 12 · Commerce",
      "pack": "packs/board-others-12-commerce.v1.json",
-     "version": 4,
+     "version": 5,
      "subjects": 8,
      "chapters": 83
     },
@@ -165,7 +165,7 @@
      "id": "others-12-arts",
      "name": "Other boards (NCERT-based) · Class 12 · Arts",
      "pack": "packs/board-others-12-arts.v1.json",
-     "version": 3,
+     "version": 4,
      "subjects": 9,
      "chapters": 103
     }

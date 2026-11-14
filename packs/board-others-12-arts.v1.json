@@ -3,7 +3,7 @@
  "course": "board",
  "level": "others-12-arts",
  "name": "Other boards (NCERT-based) · Class 12 · Arts",
- "version": 3,
+ "version": 4,
  "board": "others",
  "class": "12",
  "stream": "arts",
@@ -435,49 +435,65 @@
      "name": "Macro: National Income Accounting",
      "topics": [],
      "status": "verify",
-     "id": "macro-national-income-accounting"
+     "id": "macro-national-income-accounting",
+     "weight": 12.5,
+     "weight_src": "CBSE curriculum 2026-27, unit-wise theory marks (unit split evenly across its chapters), shown as % of the theory paper — Economics Part B split differs between sources (22/6 vs 20/8), please verify"
     },
     {
      "name": "Macro: Money and Banking",
      "topics": [],
      "status": "verify",
-     "id": "macro-money-and-banking"
+     "id": "macro-money-and-banking",
+     "weight": 7.5,
+     "weight_src": "CBSE curriculum 2026-27, unit-wise theory marks (unit split evenly across its chapters), shown as % of the theory paper — Economics Part B split differs between sources (22/6 vs 20/8), please verify"
     },
     {
      "name": "Macro: Determination of Income and Employment",
      "topics": [],
      "status": "verify",
-     "id": "macro-determination-of-income-and-employment"
+     "id": "macro-determination-of-income-and-employment",
+     "weight": 15.0,
+     "weight_src": "CBSE curriculum 2026-27, unit-wise theory marks (unit split evenly across its chapters), shown as % of the theory paper — Economics Part B split differs between sources (22/6 vs 20/8), please verify"
     },
     {
      "name": "Macro: Government Budget and the Economy",
      "topics": [],
      "status": "verify",
-     "id": "macro-government-budget-and-the-economy"
+     "id": "macro-government-budget-and-the-economy",
+     "weight": 7.5,
+     "weight_src": "CBSE curriculum 2026-27, unit-wise theory marks (unit split evenly across its chapters), shown as % of the theory paper — Economics Part B split differs between sources (22/6 vs 20/8), please verify"
     },
     {
      "name": "Macro: Balance of Payments",
      "topics": [],
      "status": "verify",
-     "id": "macro-balance-of-payments"
+     "id": "macro-balance-of-payments",
+     "weight": 7.5,
+     "weight_src": "CBSE curriculum 2026-27, unit-wise theory marks (unit split evenly across its chapters), shown as % of the theory paper — Economics Part B split differs between sources (22/6 vs 20/8), please verify"
     },
     {
      "name": "Indian Economy: Development Experience (1947–90) and Reforms since 1991",
      "topics": [],
      "status": "verify",
-     "id": "indian-economy-development-experience-1947-90-and-reforms-since-1991"
+     "id": "indian-economy-development-experience-1947-90-and-reforms-since-1991",
+     "weight": 15.0,
+     "weight_src": "CBSE curriculum 2026-27, unit-wise theory marks (unit split evenly across its chapters), shown as % of the theory paper — Economics Part B split differs between sources (22/6 vs 20/8), please verify"
     },
     {
      "name": "Indian Economy: Current Challenges",
      "topics": [],
      "status": "verify",
-     "id": "indian-economy-current-challenges"
+     "id": "indian-economy-current-challenges",
+     "weight": 27.5,
+     "weight_src": "CBSE curriculum 2026-27, unit-wise theory marks (unit split evenly across its chapters), shown as % of the theory paper — Economics Part B split differs between sources (22/6 vs 20/8), please verify"
     },
     {
      "name": "Indian Economy: Comparison with Neighbours",
      "topics": [],
      "status": "verify",
-     "id": "indian-economy-comparison-with-neighbours"
+     "id": "indian-economy-comparison-with-neighbours",
+     "weight": 7.5,
+     "weight_src": "CBSE curriculum 2026-27, unit-wise theory marks (unit split evenly across its chapters), shown as % of the theory paper — Economics Part B split differs between sources (22/6 vs 20/8), please verify"
     }
    ],
    "id": "economics"
@@ -680,5 +696,6 @@
     }
    ]
   }
- ]
+ ],
+ "weights_note": "CBSE curriculum 2026-27, unit-wise theory marks (unit split evenly across its chapters), shown as % of the theory paper. Economics Part B split differs between sources — check the CBSE PDF."
 }
