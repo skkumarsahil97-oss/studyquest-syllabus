@@ -3,7 +3,7 @@
  "course": "board",
  "level": "maharashtra-12-science",
  "name": "Maharashtra Board · Class 12 · Science",
- "version": 3,
+ "version": 4,
  "board": "maharashtra",
  "class": "12",
  "stream": "science",
@@ -195,97 +195,129 @@
      "name": "Solid State",
      "topics": [],
      "status": "verify",
-     "id": "solid-state"
+     "id": "solid-state",
+     "weight": 4.3,
+     "weight_src": "Maharashtra Board HSC blueprint, chapter marks (without option)"
     },
     {
      "name": "Solutions",
      "topics": [],
      "status": "verify",
-     "id": "solutions"
+     "id": "solutions",
+     "weight": 5.7,
+     "weight_src": "Maharashtra Board HSC blueprint, chapter marks (without option)"
     },
     {
      "name": "Ionic Equilibria",
      "topics": [],
      "status": "verify",
-     "id": "ionic-equilibria"
+     "id": "ionic-equilibria",
+     "weight": 5.7,
+     "weight_src": "Maharashtra Board HSC blueprint, chapter marks (without option)"
     },
     {
      "name": "Chemical Thermodynamics",
      "topics": [],
      "status": "verify",
-     "id": "chemical-thermodynamics"
+     "id": "chemical-thermodynamics",
+     "weight": 8.6,
+     "weight_src": "Maharashtra Board HSC blueprint, chapter marks (without option)"
     },
     {
      "name": "Electrochemistry",
      "topics": [],
      "status": "verify",
-     "id": "electrochemistry"
+     "id": "electrochemistry",
+     "weight": 7.1,
+     "weight_src": "Maharashtra Board HSC blueprint, chapter marks (without option)"
     },
     {
      "name": "Chemical Kinetics",
      "topics": [],
      "status": "verify",
-     "id": "chemical-kinetics"
+     "id": "chemical-kinetics",
+     "weight": 5.7,
+     "weight_src": "Maharashtra Board HSC blueprint, chapter marks (without option)"
     },
     {
      "name": "Elements of Groups 16, 17 and 18",
      "topics": [],
      "status": "verify",
-     "id": "elements-of-groups-16-17-and-18"
+     "id": "elements-of-groups-16-17-and-18",
+     "weight": 8.6,
+     "weight_src": "Maharashtra Board HSC blueprint, chapter marks (without option)"
     },
     {
      "name": "Transition and Inner Transition Elements",
      "topics": [],
      "status": "verify",
-     "id": "transition-and-inner-transition-elements"
+     "id": "transition-and-inner-transition-elements",
+     "weight": 8.6,
+     "weight_src": "Maharashtra Board HSC blueprint, chapter marks (without option)"
     },
     {
      "name": "Coordination Compounds",
      "topics": [],
      "status": "verify",
-     "id": "coordination-compounds"
+     "id": "coordination-compounds",
+     "weight": 7.1,
+     "weight_src": "Maharashtra Board HSC blueprint, chapter marks (without option)"
     },
     {
      "name": "Halogen Derivatives",
      "topics": [],
      "status": "verify",
-     "id": "halogen-derivatives"
+     "id": "halogen-derivatives",
+     "weight": 7.1,
+     "weight_src": "Maharashtra Board HSC blueprint, chapter marks (without option)"
     },
     {
      "name": "Alcohols, Phenols and Ethers",
      "topics": [],
      "status": "verify",
-     "id": "alcohols-phenols-and-ethers"
+     "id": "alcohols-phenols-and-ethers",
+     "weight": 5.7,
+     "weight_src": "Maharashtra Board HSC blueprint, chapter marks (without option)"
     },
     {
      "name": "Aldehydes, Ketones and Carboxylic Acids",
      "topics": [],
      "status": "verify",
-     "id": "aldehydes-ketones-and-carboxylic-acids"
+     "id": "aldehydes-ketones-and-carboxylic-acids",
+     "weight": 8.6,
+     "weight_src": "Maharashtra Board HSC blueprint, chapter marks (without option)"
     },
     {
      "name": "Amines",
      "topics": [],
      "status": "verify",
-     "id": "amines"
+     "id": "amines",
+     "weight": 4.3,
+     "weight_src": "Maharashtra Board HSC blueprint, chapter marks (without option)"
     },
     {
      "name": "Biomolecules",
      "topics": [],
      "status": "verify",
-     "id": "biomolecules"
+     "id": "biomolecules",
+     "weight": 4.3,
+     "weight_src": "Maharashtra Board HSC blueprint, chapter marks (without option)"
     },
     {
      "name": "Introduction to Polymer Chemistry",
      "topics": [],
      "status": "verify",
-     "id": "introduction-to-polymer-chemistry"
+     "id": "introduction-to-polymer-chemistry",
+     "weight": 4.3,
+     "weight_src": "Maharashtra Board HSC blueprint, chapter marks (without option)"
     },
     {
      "name": "Green Chemistry and Nanochemistry",
      "topics": [],
      "status": "verify",
-     "id": "green-chemistry-and-nanochemistry"
+     "id": "green-chemistry-and-nanochemistry",
+     "weight": 4.3,
+     "weight_src": "Maharashtra Board HSC blueprint, chapter marks (without option)"
     }
    ],
    "id": "chemistry"
@@ -297,91 +329,121 @@
      "name": "Mathematical Logic",
      "topics": [],
      "status": "verify",
-     "id": "mathematical-logic"
+     "id": "mathematical-logic",
+     "weight": 7.1,
+     "weight_src": "Maharashtra Board HSC blueprint, chapter marks (with option)"
     },
     {
      "name": "Matrices",
      "topics": [],
      "status": "verify",
-     "id": "matrices"
+     "id": "matrices",
+     "weight": 5.4,
+     "weight_src": "Maharashtra Board HSC blueprint, chapter marks (with option)"
     },
     {
      "name": "Trigonometric Functions",
      "topics": [],
      "status": "verify",
-     "id": "trigonometric-functions"
+     "id": "trigonometric-functions",
+     "weight": 8.9,
+     "weight_src": "Maharashtra Board HSC blueprint, chapter marks (with option)"
     },
     {
      "name": "Pair of Straight Lines",
      "topics": [],
      "status": "verify",
-     "id": "pair-of-straight-lines"
+     "id": "pair-of-straight-lines",
+     "weight": 5.4,
+     "weight_src": "Maharashtra Board HSC blueprint, chapter marks (with option)"
     },
     {
      "name": "Vectors",
      "topics": [],
      "status": "verify",
-     "id": "vectors"
+     "id": "vectors",
+     "weight": 10.7,
+     "weight_src": "Maharashtra Board HSC blueprint, chapter marks (with option)"
     },
     {
      "name": "Line and Plane",
      "topics": [],
      "status": "verify",
-     "id": "line-and-plane"
+     "id": "line-and-plane",
+     "weight": 8.9,
+     "weight_src": "Maharashtra Board HSC blueprint, chapter marks (with option)"
     },
     {
      "name": "Linear Programming",
      "topics": [],
      "status": "verify",
-     "id": "linear-programming"
+     "id": "linear-programming",
+     "weight": 3.6,
+     "weight_src": "Maharashtra Board HSC blueprint, chapter marks (with option)"
     },
     {
      "name": "Differentiation",
      "topics": [],
      "status": "verify",
-     "id": "differentiation"
+     "id": "differentiation",
+     "weight": 8.0,
+     "weight_src": "Maharashtra Board HSC blueprint, chapter marks (with option)"
     },
     {
      "name": "Applications of Derivatives",
      "topics": [],
      "status": "verify",
-     "id": "applications-of-derivatives"
+     "id": "applications-of-derivatives",
+     "weight": 8.0,
+     "weight_src": "Maharashtra Board HSC blueprint, chapter marks (with option)"
     },
     {
      "name": "Indefinite Integration",
      "topics": [],
      "status": "verify",
-     "id": "indefinite-integration"
+     "id": "indefinite-integration",
+     "weight": 8.9,
+     "weight_src": "Maharashtra Board HSC blueprint, chapter marks (with option)"
     },
     {
      "name": "Definite Integration",
      "topics": [],
      "status": "verify",
-     "id": "definite-integration"
+     "id": "definite-integration",
+     "weight": 5.4,
+     "weight_src": "Maharashtra Board HSC blueprint, chapter marks (with option)"
     },
     {
      "name": "Application of Definite Integration",
      "topics": [],
      "status": "verify",
-     "id": "application-of-definite-integration"
+     "id": "application-of-definite-integration",
+     "weight": 3.6,
+     "weight_src": "Maharashtra Board HSC blueprint, chapter marks (with option)"
     },
     {
      "name": "Differential Equations",
      "topics": [],
      "status": "verify",
-     "id": "differential-equations"
+     "id": "differential-equations",
+     "weight": 7.1,
+     "weight_src": "Maharashtra Board HSC blueprint, chapter marks (with option)"
     },
     {
      "name": "Probability Distributions",
      "topics": [],
      "status": "verify",
-     "id": "probability-distributions"
+     "id": "probability-distributions",
+     "weight": 4.5,
+     "weight_src": "Maharashtra Board HSC blueprint, chapter marks (with option)"
     },
     {
      "name": "Binomial Distribution",
      "topics": [],
      "status": "verify",
-     "id": "binomial-distribution"
+     "id": "binomial-distribution",
+     "weight": 4.5,
+     "weight_src": "Maharashtra Board HSC blueprint, chapter marks (with option)"
     }
    ],
    "id": "mathematics"
@@ -393,91 +455,121 @@
      "name": "Reproduction in Lower and Higher Plants",
      "topics": [],
      "status": "verify",
-     "id": "reproduction-in-lower-and-higher-plants"
+     "id": "reproduction-in-lower-and-higher-plants",
+     "weight": 8.1,
+     "weight_src": "Estimate from Maharashtra HSC paper analyses (sources differ slightly) — please verify"
     },
     {
      "name": "Reproduction in Lower and Higher Animals",
      "topics": [],
      "status": "verify",
-     "id": "reproduction-in-lower-and-higher-animals"
+     "id": "reproduction-in-lower-and-higher-animals",
+     "weight": 8.1,
+     "weight_src": "Estimate from Maharashtra HSC paper analyses (sources differ slightly) — please verify"
     },
     {
      "name": "Inheritance and Variation",
      "topics": [],
      "status": "verify",
-     "id": "inheritance-and-variation"
+     "id": "inheritance-and-variation",
+     "weight": 7.0,
+     "weight_src": "Estimate from Maharashtra HSC paper analyses (sources differ slightly) — please verify"
     },
     {
      "name": "Molecular Basis of Inheritance",
      "topics": [],
      "status": "verify",
-     "id": "molecular-basis-of-inheritance"
+     "id": "molecular-basis-of-inheritance",
+     "weight": 7.0,
+     "weight_src": "Estimate from Maharashtra HSC paper analyses (sources differ slightly) — please verify"
     },
     {
      "name": "Origin and Evolution of Life",
      "topics": [],
      "status": "verify",
-     "id": "origin-and-evolution-of-life"
+     "id": "origin-and-evolution-of-life",
+     "weight": 4.7,
+     "weight_src": "Estimate from Maharashtra HSC paper analyses (sources differ slightly) — please verify"
     },
     {
      "name": "Plant Water Relation",
      "topics": [],
      "status": "verify",
-     "id": "plant-water-relation"
+     "id": "plant-water-relation",
+     "weight": 8.1,
+     "weight_src": "Estimate from Maharashtra HSC paper analyses (sources differ slightly) — please verify"
     },
     {
      "name": "Plant Growth and Mineral Nutrition",
      "topics": [],
      "status": "verify",
-     "id": "plant-growth-and-mineral-nutrition"
+     "id": "plant-growth-and-mineral-nutrition",
+     "weight": 4.7,
+     "weight_src": "Estimate from Maharashtra HSC paper analyses (sources differ slightly) — please verify"
     },
     {
      "name": "Respiration and Circulation",
      "topics": [],
      "status": "verify",
-     "id": "respiration-and-circulation"
+     "id": "respiration-and-circulation",
+     "weight": 11.6,
+     "weight_src": "Estimate from Maharashtra HSC paper analyses (sources differ slightly) — please verify"
     },
     {
      "name": "Control and Co-ordination",
      "topics": [],
      "status": "verify",
-     "id": "control-and-co-ordination"
+     "id": "control-and-co-ordination",
+     "weight": 9.3,
+     "weight_src": "Estimate from Maharashtra HSC paper analyses (sources differ slightly) — please verify"
     },
     {
      "name": "Human Health and Diseases",
      "topics": [],
      "status": "verify",
-     "id": "human-health-and-diseases"
+     "id": "human-health-and-diseases",
+     "weight": 4.7,
+     "weight_src": "Estimate from Maharashtra HSC paper analyses (sources differ slightly) — please verify"
     },
     {
      "name": "Enhancement of Food Production",
      "topics": [],
      "status": "verify",
-     "id": "enhancement-of-food-production"
+     "id": "enhancement-of-food-production",
+     "weight": 4.7,
+     "weight_src": "Estimate from Maharashtra HSC paper analyses (sources differ slightly) — please verify"
     },
     {
      "name": "Biotechnology",
      "topics": [],
      "status": "verify",
-     "id": "biotechnology"
+     "id": "biotechnology",
+     "weight": 8.1,
+     "weight_src": "Estimate from Maharashtra HSC paper analyses (sources differ slightly) — please verify"
     },
     {
      "name": "Organisms and Populations",
      "topics": [],
      "status": "verify",
-     "id": "organisms-and-populations"
+     "id": "organisms-and-populations",
+     "weight": 4.7,
+     "weight_src": "Estimate from Maharashtra HSC paper analyses (sources differ slightly) — please verify"
     },
     {
      "name": "Ecosystems and Energy Flow",
      "topics": [],
      "status": "verify",
-     "id": "ecosystems-and-energy-flow"
+     "id": "ecosystems-and-energy-flow",
+     "weight": 4.7,
+     "weight_src": "Estimate from Maharashtra HSC paper analyses (sources differ slightly) — please verify"
     },
     {
      "name": "Biodiversity, Conservation and Environmental Issues",
      "topics": [],
      "status": "verify",
-     "id": "biodiversity-conservation-and-environmental-issues"
+     "id": "biodiversity-conservation-and-environmental-issues",
+     "weight": 4.7,
+     "weight_src": "Estimate from Maharashtra HSC paper analyses (sources differ slightly) — please verify"
     }
    ],
    "id": "biology"
@@ -524,5 +616,6 @@
     }
    ]
   }
- ]
+ ],
+ "weights_note": "Maharashtra Board HSC blueprint (Maths, Chemistry); Biology estimated; Physics units are about equal, so no weights."
 }

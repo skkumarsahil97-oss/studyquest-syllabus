@@ -117,7 +117,7 @@
      "id": "maharashtra-12-science",
      "name": "Maharashtra Board · Class 12 · Science",
      "pack": "packs/board-maharashtra-12-science.v1.json",
-     "version": 3,
+     "version": 4,
      "subjects": 7,
      "chapters": 79
     },

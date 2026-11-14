@@ -1,0 +1,528 @@
+{
+ "id": "board-maharashtra-12-science",
+ "course": "board",
+ "level": "maharashtra-12-science",
+ "name": "Maharashtra Board · Class 12 · Science",
+ "version": 3,
+ "board": "maharashtra",
+ "class": "12",
+ "stream": "science",
+ "subjects": [
+  {
+   "id": "english",
+   "name": "English",
+   "modules": [
+    {
+     "id": "yuvakbharati-section-1-prose-an-astrologer-s-day-on-saying-please",
+     "name": "Yuvakbharati Section 1: Prose (An Astrologer’s Day, On Saying “Please” …)",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "yuvakbharati-section-2-poetry-father-returning-home",
+     "name": "Yuvakbharati Section 2: Poetry (Father Returning Home …)",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "section-3-writing-skills",
+     "name": "Section 3: Writing Skills",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "section-4-genre-drama-novel",
+     "name": "Section 4: Genre (Drama / Novel)",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "grammar",
+     "name": "Grammar",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "reading-unseen-passages",
+     "name": "Reading: Unseen Passages",
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  },
+  {
+   "id": "marathi-hindi-2nd-language",
+   "name": "Marathi / Hindi (2nd language)",
+   "modules": [
+    {
+     "id": "kumarbharati-yuvakbharati-gadya",
+     "name": "Kumarbharati / Yuvakbharati: Gadya",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "padya",
+     "name": "Padya",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "upayojit-lekhan",
+     "name": "Upayojit Lekhan",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "vyakaran",
+     "name": "Vyakaran",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "sthulvachan",
+     "name": "Sthulvachan",
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  },
+  {
+   "name": "Physics",
+   "modules": [
+    {
+     "name": "Rotational Dynamics",
+     "topics": [],
+     "status": "verified",
+     "id": "rotational-dynamics"
+    },
+    {
+     "name": "Mechanical Properties of Fluids",
+     "topics": [],
+     "status": "verified",
+     "id": "mechanical-properties-of-fluids"
+    },
+    {
+     "name": "Kinetic Theory of Gases and Radiation",
+     "topics": [],
+     "status": "verified",
+     "id": "kinetic-theory-of-gases-and-radiation"
+    },
+    {
+     "name": "Thermodynamics",
+     "topics": [],
+     "status": "verified",
+     "id": "thermodynamics"
+    },
+    {
+     "name": "Oscillations",
+     "topics": [],
+     "status": "verified",
+     "id": "oscillations"
+    },
+    {
+     "name": "Superposition of Waves",
+     "topics": [],
+     "status": "verified",
+     "id": "superposition-of-waves"
+    },
+    {
+     "name": "Wave Optics",
+     "topics": [],
+     "status": "verified",
+     "id": "wave-optics"
+    },
+    {
+     "name": "Electrostatics",
+     "topics": [],
+     "status": "verified",
+     "id": "electrostatics"
+    },
+    {
+     "name": "Current Electricity",
+     "topics": [],
+     "status": "verified",
+     "id": "current-electricity"
+    },
+    {
+     "name": "Magnetic Fields due to Electric Current",
+     "topics": [],
+     "status": "verified",
+     "id": "magnetic-fields-due-to-electric-current"
+    },
+    {
+     "name": "Dual Nature of Radiation",
+     "topics": [],
+     "status": "verified",
+     "id": "dual-nature-of-radiation"
+    },
+    {
+     "name": "Structure of Atoms",
+     "topics": [],
+     "status": "verified",
+     "id": "structure-of-atoms"
+    },
+    {
+     "name": "Magnetic Materials",
+     "topics": [],
+     "status": "verify",
+     "id": "magnetic-materials"
+    },
+    {
+     "name": "Electromagnetic Induction",
+     "topics": [],
+     "status": "verify",
+     "id": "electromagnetic-induction"
+    },
+    {
+     "name": "AC Circuits",
+     "topics": [],
+     "status": "verify",
+     "id": "ac-circuits"
+    },
+    {
+     "name": "Semiconductor Devices",
+     "topics": [],
+     "status": "verify",
+     "id": "semiconductor-devices"
+    }
+   ],
+   "id": "physics"
+  },
+  {
+   "name": "Chemistry",
+   "modules": [
+    {
+     "name": "Solid State",
+     "topics": [],
+     "status": "verify",
+     "id": "solid-state"
+    },
+    {
+     "name": "Solutions",
+     "topics": [],
+     "status": "verify",
+     "id": "solutions"
+    },
+    {
+     "name": "Ionic Equilibria",
+     "topics": [],
+     "status": "verify",
+     "id": "ionic-equilibria"
+    },
+    {
+     "name": "Chemical Thermodynamics",
+     "topics": [],
+     "status": "verify",
+     "id": "chemical-thermodynamics"
+    },
+    {
+     "name": "Electrochemistry",
+     "topics": [],
+     "status": "verify",
+     "id": "electrochemistry"
+    },
+    {
+     "name": "Chemical Kinetics",
+     "topics": [],
+     "status": "verify",
+     "id": "chemical-kinetics"
+    },
+    {
+     "name": "Elements of Groups 16, 17 and 18",
+     "topics": [],
+     "status": "verify",
+     "id": "elements-of-groups-16-17-and-18"
+    },
+    {
+     "name": "Transition and Inner Transition Elements",
+     "topics": [],
+     "status": "verify",
+     "id": "transition-and-inner-transition-elements"
+    },
+    {
+     "name": "Coordination Compounds",
+     "topics": [],
+     "status": "verify",
+     "id": "coordination-compounds"
+    },
+    {
+     "name": "Halogen Derivatives",
+     "topics": [],
+     "status": "verify",
+     "id": "halogen-derivatives"
+    },
+    {
+     "name": "Alcohols, Phenols and Ethers",
+     "topics": [],
+     "status": "verify",
+     "id": "alcohols-phenols-and-ethers"
+    },
+    {
+     "name": "Aldehydes, Ketones and Carboxylic Acids",
+     "topics": [],
+     "status": "verify",
+     "id": "aldehydes-ketones-and-carboxylic-acids"
+    },
+    {
+     "name": "Amines",
+     "topics": [],
+     "status": "verify",
+     "id": "amines"
+    },
+    {
+     "name": "Biomolecules",
+     "topics": [],
+     "status": "verify",
+     "id": "biomolecules"
+    },
+    {
+     "name": "Introduction to Polymer Chemistry",
+     "topics": [],
+     "status": "verify",
+     "id": "introduction-to-polymer-chemistry"
+    },
+    {
+     "name": "Green Chemistry and Nanochemistry",
+     "topics": [],
+     "status": "verify",
+     "id": "green-chemistry-and-nanochemistry"
+    }
+   ],
+   "id": "chemistry"
+  },
+  {
+   "name": "Mathematics",
+   "modules": [
+    {
+     "name": "Mathematical Logic",
+     "topics": [],
+     "status": "verify",
+     "id": "mathematical-logic"
+    },
+    {
+     "name": "Matrices",
+     "topics": [],
+     "status": "verify",
+     "id": "matrices"
+    },
+    {
+     "name": "Trigonometric Functions",
+     "topics": [],
+     "status": "verify",
+     "id": "trigonometric-functions"
+    },
+    {
+     "name": "Pair of Straight Lines",
+     "topics": [],
+     "status": "verify",
+     "id": "pair-of-straight-lines"
+    },
+    {
+     "name": "Vectors",
+     "topics": [],
+     "status": "verify",
+     "id": "vectors"
+    },
+    {
+     "name": "Line and Plane",
+     "topics": [],
+     "status": "verify",
+     "id": "line-and-plane"
+    },
+    {
+     "name": "Linear Programming",
+     "topics": [],
+     "status": "verify",
+     "id": "linear-programming"
+    },
+    {
+     "name": "Differentiation",
+     "topics": [],
+     "status": "verify",
+     "id": "differentiation"
+    },
+    {
+     "name": "Applications of Derivatives",
+     "topics": [],
+     "status": "verify",
+     "id": "applications-of-derivatives"
+    },
+    {
+     "name": "Indefinite Integration",
+     "topics": [],
+     "status": "verify",
+     "id": "indefinite-integration"
+    },
+    {
+     "name": "Definite Integration",
+     "topics": [],
+     "status": "verify",
+     "id": "definite-integration"
+    },
+    {
+     "name": "Application of Definite Integration",
+     "topics": [],
+     "status": "verify",
+     "id": "application-of-definite-integration"
+    },
+    {
+     "name": "Differential Equations",
+     "topics": [],
+     "status": "verify",
+     "id": "differential-equations"
+    },
+    {
+     "name": "Probability Distributions",
+     "topics": [],
+     "status": "verify",
+     "id": "probability-distributions"
+    },
+    {
+     "name": "Binomial Distribution",
+     "topics": [],
+     "status": "verify",
+     "id": "binomial-distribution"
+    }
+   ],
+   "id": "mathematics"
+  },
+  {
+   "name": "Biology",
+   "modules": [
+    {
+     "name": "Reproduction in Lower and Higher Plants",
+     "topics": [],
+     "status": "verify",
+     "id": "reproduction-in-lower-and-higher-plants"
+    },
+    {
+     "name": "Reproduction in Lower and Higher Animals",
+     "topics": [],
+     "status": "verify",
+     "id": "reproduction-in-lower-and-higher-animals"
+    },
+    {
+     "name": "Inheritance and Variation",
+     "topics": [],
+     "status": "verify",
+     "id": "inheritance-and-variation"
+    },
+    {
+     "name": "Molecular Basis of Inheritance",
+     "topics": [],
+     "status": "verify",
+     "id": "molecular-basis-of-inheritance"
+    },
+    {
+     "name": "Origin and Evolution of Life",
+     "topics": [],
+     "status": "verify",
+     "id": "origin-and-evolution-of-life"
+    },
+    {
+     "name": "Plant Water Relation",
+     "topics": [],
+     "status": "verify",
+     "id": "plant-water-relation"
+    },
+    {
+     "name": "Plant Growth and Mineral Nutrition",
+     "topics": [],
+     "status": "verify",
+     "id": "plant-growth-and-mineral-nutrition"
+    },
+    {
+     "name": "Respiration and Circulation",
+     "topics": [],
+     "status": "verify",
+     "id": "respiration-and-circulation"
+    },
+    {
+     "name": "Control and Co-ordination",
+     "topics": [],
+     "status": "verify",
+     "id": "control-and-co-ordination"
+    },
+    {
+     "name": "Human Health and Diseases",
+     "topics": [],
+     "status": "verify",
+     "id": "human-health-and-diseases"
+    },
+    {
+     "name": "Enhancement of Food Production",
+     "topics": [],
+     "status": "verify",
+     "id": "enhancement-of-food-production"
+    },
+    {
+     "name": "Biotechnology",
+     "topics": [],
+     "status": "verify",
+     "id": "biotechnology"
+    },
+    {
+     "name": "Organisms and Populations",
+     "topics": [],
+     "status": "verify",
+     "id": "organisms-and-populations"
+    },
+    {
+     "name": "Ecosystems and Energy Flow",
+     "topics": [],
+     "status": "verify",
+     "id": "ecosystems-and-energy-flow"
+    },
+    {
+     "name": "Biodiversity, Conservation and Environmental Issues",
+     "topics": [],
+     "status": "verify",
+     "id": "biodiversity-conservation-and-environmental-issues"
+    }
+   ],
+   "id": "biology"
+  },
+  {
+   "id": "information-technology",
+   "name": "Information Technology",
+   "modules": [
+    {
+     "id": "advanced-web-designing",
+     "name": "Advanced Web Designing",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "introduction-to-seo",
+     "name": "Introduction to SEO",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "advanced-javascript",
+     "name": "Advanced JavaScript",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "emerging-technologies",
+     "name": "Emerging Technologies",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "server-side-scripting-php",
+     "name": "Server Side Scripting (PHP)",
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "e-commerce-and-e-governance",
+     "name": "E-Commerce and E-Governance",
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  }
+ ]
+}
