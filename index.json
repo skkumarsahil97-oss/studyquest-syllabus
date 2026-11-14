@@ -215,7 +215,7 @@
      "id": "prelims",
      "name": "Prelims",
      "pack": "packs/upsc-prelims.v1.json",
-     "version": 1,
+     "version": 2,
      "subjects": 2,
      "chapters": 14
     },

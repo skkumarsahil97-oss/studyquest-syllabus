@@ -1,0 +1,142 @@
+{
+ "id": "upsc-prelims",
+ "course": "upsc",
+ "level": "prelims",
+ "name": "UPSC CSE Prelims",
+ "version": 1,
+ "subjects": [
+  {
+   "id": "upsc-prelims-s1",
+   "name": "General Studies Paper I",
+   "modules": [
+    {
+     "id": "upsc-prelims-s1-m1",
+     "name": "Current Events",
+     "group": null,
+     "topics": [
+      "National & International Importance",
+      "Government Schemes & Policies"
+     ]
+    },
+    {
+     "id": "upsc-prelims-s1-m2",
+     "name": "Ancient History",
+     "group": "History of India",
+     "topics": [
+      "Indus Valley to Gupta Period"
+     ]
+    },
+    {
+     "id": "upsc-prelims-s1-m3",
+     "name": "Medieval History",
+     "group": "History of India",
+     "topics": [
+      "Sultanate, Mughals, Bhakti"
+     ]
+    },
+    {
+     "id": "upsc-prelims-s1-m4",
+     "name": "Modern History & Freedom Struggle",
+     "group": "History of India",
+     "topics": [
+      "1857 to 1947"
+     ]
+    },
+    {
+     "id": "upsc-prelims-s1-m5",
+     "name": "Physical Geography",
+     "group": "Geography",
+     "topics": [
+      "Landforms, Climate, Oceans"
+     ]
+    },
+    {
+     "id": "upsc-prelims-s1-m6",
+     "name": "Social & Economic Geography",
+     "group": "Geography",
+     "topics": [
+      "India & World"
+     ]
+    },
+    {
+     "id": "upsc-prelims-s1-m7",
+     "name": "Constitution & Fundamental Rights",
+     "group": "Indian Polity",
+     "topics": [
+      "Constitution & Amendments",
+      "Preamble, Fundamental Rights & Duties"
+     ]
+    },
+    {
+     "id": "upsc-prelims-s1-m8",
+     "name": "Executive, Legislature & Judiciary",
+     "group": "Indian Polity",
+     "topics": [
+      "Panchayati Raj & Public Policy"
+     ]
+    },
+    {
+     "id": "upsc-prelims-s1-m9",
+     "name": "Economic & Social Development",
+     "group": null,
+     "topics": [
+      "Sustainable Development & Poverty",
+      "Inclusion, Demographics & Social Sector",
+      "Fiscal & Monetary Policy"
+     ]
+    },
+    {
+     "id": "upsc-prelims-s1-m10",
+     "name": "Environment & Climate Change",
+     "group": null,
+     "topics": [
+      "Biodiversity & Ecosystems",
+      "Climate Change Mitigation & Conventions",
+      "Environmental Acts & Sanctuaries"
+     ]
+    },
+    {
+     "id": "upsc-prelims-s1-m11",
+     "name": "General Science & Technology",
+     "group": null,
+     "topics": [
+      "Basic Physics, Chemistry, Biology",
+      "Recent Developments (AI, Space, Biotech)"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "upsc-prelims-s2",
+   "name": "CSAT (Paper II)",
+   "modules": [
+    {
+     "id": "upsc-prelims-s2-m1",
+     "name": "Comprehension",
+     "group": null,
+     "topics": [
+      "Reading Passages & Inference"
+     ]
+    },
+    {
+     "id": "upsc-prelims-s2-m2",
+     "name": "Reasoning & Analytical Ability",
+     "group": null,
+     "topics": [
+      "Logical Reasoning",
+      "General Mental Ability"
+     ]
+    },
+    {
+     "id": "upsc-prelims-s2-m3",
+     "name": "Basic Numeracy & Data Interpretation",
+     "group": null,
+     "topics": [
+      "Class X level Numeracy",
+      "Charts, Graphs, Tables"
+     ]
+    }
+   ]
+  }
+ ]
+}
