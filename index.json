@@ -245,28 +245,68 @@
    "levelLabel": "Domain",
    "levels": [
     {
-     "id": "science",
-     "name": "Science",
-     "pack": "packs/cuetpg-science.v1.json",
+     "id": "mba",
+     "name": "Management (MBA) · COQP12",
+     "pack": "packs/cuetpg-mba.v1.json",
      "version": 1,
-     "subjects": 5,
-     "chapters": 15
+     "subjects": 3,
+     "chapters": 14
     },
     {
-     "id": "management",
-     "name": "Management (MBA)",
-     "pack": "packs/cuetpg-management.v1.json",
+     "id": "msc-chemistry",
+     "name": "MSc Chemistry",
+     "pack": "packs/cuetpg-msc-chemistry.v1.json",
      "version": 1,
-     "subjects": 4,
+     "subjects": 3,
+     "chapters": 18
+    },
+    {
+     "id": "msc-physics",
+     "name": "MSc Physics",
+     "pack": "packs/cuetpg-msc-physics.v1.json",
+     "version": 1,
+     "subjects": 3,
+     "chapters": 14
+    },
+    {
+     "id": "msc-mathematics",
+     "name": "MSc Mathematics",
+     "pack": "packs/cuetpg-msc-mathematics.v1.json",
+     "version": 1,
+     "subjects": 3,
      "chapters": 12
     },
     {
-     "id": "humanities",
-     "name": "Humanities & Social Sciences",
-     "pack": "packs/cuetpg-humanities.v1.json",
+     "id": "msc-life-sciences",
+     "name": "MSc Life Sciences",
+     "pack": "packs/cuetpg-msc-life-sciences.v1.json",
      "version": 1,
-     "subjects": 4,
+     "subjects": 3,
+     "chapters": 14
+    },
+    {
+     "id": "ma-political-science",
+     "name": "MA Political Science · HUQP18",
+     "pack": "packs/cuetpg-ma-political-science.v1.json",
+     "version": 1,
+     "subjects": 3,
+     "chapters": 9
+    },
+    {
+     "id": "ma-history",
+     "name": "MA History",
+     "pack": "packs/cuetpg-ma-history.v1.json",
+     "version": 1,
+     "subjects": 3,
      "chapters": 12
+    },
+    {
+     "id": "ma-economics",
+     "name": "MA Economics",
+     "pack": "packs/cuetpg-ma-economics.v1.json",
+     "version": 1,
+     "subjects": 3,
+     "chapters": 11
     }
    ]
   },

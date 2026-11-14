@@ -1,0 +1,143 @@
+{
+ "id": "cuetpg-msc-life-sciences",
+ "course": "cuetpg",
+ "level": "msc-life-sciences",
+ "name": "CUET PG · MSc Life Sciences",
+ "version": 1,
+ "weights_note": "Chapters from the NTA CUET PG paper syllabus (domain paper, 75 MCQs) — please verify against the NTA PDF for this paper code. No reliable chapter weightage, so the planner treats chapters equally.",
+ "subjects": [
+  {
+   "id": "cuetpg-msc-life-sciences-s1",
+   "name": "Cell and Molecular Biology",
+   "name_hi": "",
+   "modules": [
+    {
+     "id": "cuetpg-msc-life-sciences-s1-cell-biology",
+     "name": "Cell Biology",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "cuetpg-msc-life-sciences-s1-biochemistry",
+     "name": "Biochemistry",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "cuetpg-msc-life-sciences-s1-molecular-biology",
+     "name": "Molecular Biology",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "cuetpg-msc-life-sciences-s1-genetics",
+     "name": "Genetics",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "cuetpg-msc-life-sciences-s1-microbiology",
+     "name": "Microbiology",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  },
+  {
+   "id": "cuetpg-msc-life-sciences-s2",
+   "name": "Plant and Animal Biology",
+   "name_hi": "",
+   "modules": [
+    {
+     "id": "cuetpg-msc-life-sciences-s2-plant-physiology-and-ana",
+     "name": "Plant Physiology and Anatomy",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "cuetpg-msc-life-sciences-s2-animal-physiology",
+     "name": "Animal Physiology",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "cuetpg-msc-life-sciences-s2-developmental-biology",
+     "name": "Developmental Biology",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "cuetpg-msc-life-sciences-s2-immunology",
+     "name": "Immunology",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  },
+  {
+   "id": "cuetpg-msc-life-sciences-s3",
+   "name": "Ecology and Applied Biology",
+   "name_hi": "",
+   "modules": [
+    {
+     "id": "cuetpg-msc-life-sciences-s3-ecology-and-environment",
+     "name": "Ecology and Environment",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "cuetpg-msc-life-sciences-s3-evolution-and-biodiversi",
+     "name": "Evolution and Biodiversity",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "cuetpg-msc-life-sciences-s3-biotechnology-and-geneti",
+     "name": "Biotechnology and Genetic Engineering",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "cuetpg-msc-life-sciences-s3-biological-techniques",
+     "name": "Biological Techniques",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "cuetpg-msc-life-sciences-s3-biostatistics",
+     "name": "Biostatistics",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  }
+ ]
+}

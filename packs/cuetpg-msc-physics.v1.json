@@ -1,0 +1,143 @@
+{
+ "id": "cuetpg-msc-physics",
+ "course": "cuetpg",
+ "level": "msc-physics",
+ "name": "CUET PG · MSc Physics",
+ "version": 1,
+ "weights_note": "Chapters from the NTA CUET PG paper syllabus (domain paper, 75 MCQs) — please verify against the NTA PDF for this paper code. No reliable chapter weightage, so the planner treats chapters equally.",
+ "subjects": [
+  {
+   "id": "cuetpg-msc-physics-s1",
+   "name": "Classical Physics",
+   "name_hi": "",
+   "modules": [
+    {
+     "id": "cuetpg-msc-physics-s1-mathematical-methods-of-",
+     "name": "Mathematical Methods of Physics",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "cuetpg-msc-physics-s1-mechanics-and-rigid-body",
+     "name": "Mechanics and Rigid Body Motion",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "cuetpg-msc-physics-s1-oscillations-and-waves",
+     "name": "Oscillations and Waves",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "cuetpg-msc-physics-s1-electricity-and-magnetis",
+     "name": "Electricity and Magnetism",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "cuetpg-msc-physics-s1-electromagnetic-theory",
+     "name": "Electromagnetic Theory",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "cuetpg-msc-physics-s1-optics",
+     "name": "Optics",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  },
+  {
+   "id": "cuetpg-msc-physics-s2",
+   "name": "Modern and Quantum Physics",
+   "name_hi": "",
+   "modules": [
+    {
+     "id": "cuetpg-msc-physics-s2-thermal-and-statistical-",
+     "name": "Thermal and Statistical Physics",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "cuetpg-msc-physics-s2-quantum-mechanics",
+     "name": "Quantum Mechanics",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "cuetpg-msc-physics-s2-atomic-and-molecular-phy",
+     "name": "Atomic and Molecular Physics",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "cuetpg-msc-physics-s2-solid-state-physics",
+     "name": "Solid State Physics",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "cuetpg-msc-physics-s2-nuclear-and-particle-phy",
+     "name": "Nuclear and Particle Physics",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  },
+  {
+   "id": "cuetpg-msc-physics-s3",
+   "name": "Methods and Electronics",
+   "name_hi": "",
+   "modules": [
+    {
+     "id": "cuetpg-msc-physics-s3-analog-electronics",
+     "name": "Analog Electronics",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "cuetpg-msc-physics-s3-digital-electronics",
+     "name": "Digital Electronics",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "cuetpg-msc-physics-s3-experimental-methods-and",
+     "name": "Experimental Methods and Error Analysis",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  }
+ ]
+}

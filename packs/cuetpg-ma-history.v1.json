@@ -1,0 +1,127 @@
+{
+ "id": "cuetpg-ma-history",
+ "course": "cuetpg",
+ "level": "ma-history",
+ "name": "CUET PG · MA History",
+ "version": 1,
+ "weights_note": "Chapters from the NTA CUET PG paper syllabus (domain paper, 75 MCQs) — please verify against the NTA PDF for this paper code. No reliable chapter weightage, so the planner treats chapters equally.",
+ "subjects": [
+  {
+   "id": "cuetpg-ma-history-s1",
+   "name": "Ancient India",
+   "name_hi": "",
+   "modules": [
+    {
+     "id": "cuetpg-ma-history-s1-sources-and-prehistory",
+     "name": "Sources and Prehistory",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "cuetpg-ma-history-s1-harappan-and-vedic-age",
+     "name": "Harappan and Vedic Age",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "cuetpg-ma-history-s1-mauryas-and-post-mauryan",
+     "name": "Mauryas and Post-Mauryan India",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "cuetpg-ma-history-s1-guptas-and-early-medieva",
+     "name": "Guptas and Early Medieval India",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  },
+  {
+   "id": "cuetpg-ma-history-s2",
+   "name": "Medieval India",
+   "name_hi": "",
+   "modules": [
+    {
+     "id": "cuetpg-ma-history-s2-delhi-sultanate",
+     "name": "Delhi Sultanate",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "cuetpg-ma-history-s2-vijayanagara-bahmani-and",
+     "name": "Vijayanagara, Bahmani and Regional Kingdoms",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "cuetpg-ma-history-s2-mughal-empire-bhakti-and",
+     "name": "Mughal Empire, Bhakti and Sufi",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  },
+  {
+   "id": "cuetpg-ma-history-s3",
+   "name": "Modern India and World History",
+   "name_hi": "",
+   "modules": [
+    {
+     "id": "cuetpg-ma-history-s3-colonial-economy-and-soc",
+     "name": "Colonial Economy and Society",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "cuetpg-ma-history-s3-1857-and-the-national-mo",
+     "name": "1857 and the National Movement",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "cuetpg-ma-history-s3-gandhian-era-and-indepen",
+     "name": "Gandhian Era and Independence",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "cuetpg-ma-history-s3-world-history-renaissanc",
+     "name": "World History: Renaissance to Revolutions",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "cuetpg-ma-history-s3-world-history-20th-centu",
+     "name": "World History: 20th Century",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,119 @@
+{
+ "id": "cuetpg-ma-economics",
+ "course": "cuetpg",
+ "level": "ma-economics",
+ "name": "CUET PG · MA Economics",
+ "version": 1,
+ "weights_note": "Chapters from the NTA CUET PG paper syllabus (domain paper, 75 MCQs) — please verify against the NTA PDF for this paper code. No reliable chapter weightage, so the planner treats chapters equally.",
+ "subjects": [
+  {
+   "id": "cuetpg-ma-economics-s1",
+   "name": "Microeconomics and Mathematics",
+   "name_hi": "",
+   "modules": [
+    {
+     "id": "cuetpg-ma-economics-s1-consumer-and-producer-th",
+     "name": "Consumer and Producer Theory",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "cuetpg-ma-economics-s1-market-structures-and-we",
+     "name": "Market Structures and Welfare",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "cuetpg-ma-economics-s1-mathematical-economics",
+     "name": "Mathematical Economics",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  },
+  {
+   "id": "cuetpg-ma-economics-s2",
+   "name": "Macroeconomics and Money",
+   "name_hi": "",
+   "modules": [
+    {
+     "id": "cuetpg-ma-economics-s2-national-income-and-macr",
+     "name": "National Income and Macro Models",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "cuetpg-ma-economics-s2-money-banking-and-moneta",
+     "name": "Money, Banking and Monetary Policy",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "cuetpg-ma-economics-s2-public-finance",
+     "name": "Public Finance",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "cuetpg-ma-economics-s2-international-economics",
+     "name": "International Economics",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  },
+  {
+   "id": "cuetpg-ma-economics-s3",
+   "name": "Indian Economy, Development and Statistics",
+   "name_hi": "",
+   "modules": [
+    {
+     "id": "cuetpg-ma-economics-s3-indian-economy",
+     "name": "Indian Economy",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "cuetpg-ma-economics-s3-growth-and-development-e",
+     "name": "Growth and Development Economics",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "cuetpg-ma-economics-s3-statistics",
+     "name": "Statistics",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "cuetpg-ma-economics-s3-econometrics",
+     "name": "Econometrics",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,175 @@
+{
+ "id": "cuetpg-msc-chemistry",
+ "course": "cuetpg",
+ "level": "msc-chemistry",
+ "name": "CUET PG · MSc Chemistry",
+ "version": 1,
+ "weights_note": "Chapters from the NTA CUET PG paper syllabus (domain paper, 75 MCQs) — please verify against the NTA PDF for this paper code. No reliable chapter weightage, so the planner treats chapters equally.",
+ "subjects": [
+  {
+   "id": "cuetpg-msc-chemistry-s1",
+   "name": "Physical Chemistry",
+   "name_hi": "",
+   "modules": [
+    {
+     "id": "cuetpg-msc-chemistry-s1-atomic-structure-and-qua",
+     "name": "Atomic Structure and Quantum Chemistry",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "cuetpg-msc-chemistry-s1-states-of-matter-and-sol",
+     "name": "States of Matter and Solutions",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "cuetpg-msc-chemistry-s1-chemical-thermodynamics",
+     "name": "Chemical Thermodynamics",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "cuetpg-msc-chemistry-s1-chemical-and-ionic-equil",
+     "name": "Chemical and Ionic Equilibrium",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "cuetpg-msc-chemistry-s1-chemical-kinetics-and-ca",
+     "name": "Chemical Kinetics and Catalysis",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "cuetpg-msc-chemistry-s1-electrochemistry",
+     "name": "Electrochemistry",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "cuetpg-msc-chemistry-s1-surface-chemistry-and-co",
+     "name": "Surface Chemistry and Colloids",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  },
+  {
+   "id": "cuetpg-msc-chemistry-s2",
+   "name": "Inorganic Chemistry",
+   "name_hi": "",
+   "modules": [
+    {
+     "id": "cuetpg-msc-chemistry-s2-periodic-properties-and-",
+     "name": "Periodic Properties and Chemical Bonding",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "cuetpg-msc-chemistry-s2-s-and-p-block-elements",
+     "name": "s- and p-Block Elements",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "cuetpg-msc-chemistry-s2-transition-and-inner-tra",
+     "name": "Transition and Inner Transition Elements",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "cuetpg-msc-chemistry-s2-coordination-chemistry",
+     "name": "Coordination Chemistry",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "cuetpg-msc-chemistry-s2-organometallics-and-bioi",
+     "name": "Organometallics and Bioinorganic Chemistry",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  },
+  {
+   "id": "cuetpg-msc-chemistry-s3",
+   "name": "Organic and Analytical Chemistry",
+   "name_hi": "",
+   "modules": [
+    {
+     "id": "cuetpg-msc-chemistry-s3-stereochemistry-and-reac",
+     "name": "Stereochemistry and Reaction Mechanisms",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "cuetpg-msc-chemistry-s3-hydrocarbons-and-aromati",
+     "name": "Hydrocarbons and Aromaticity",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "cuetpg-msc-chemistry-s3-functional-group-chemist",
+     "name": "Functional Group Chemistry",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "cuetpg-msc-chemistry-s3-spectroscopy-uv-ir-nmr-m",
+     "name": "Spectroscopy (UV, IR, NMR, Mass)",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "cuetpg-msc-chemistry-s3-biomolecules-and-polymer",
+     "name": "Biomolecules and Polymers",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "cuetpg-msc-chemistry-s3-analytical-methods-and-i",
+     "name": "Analytical Methods and Instrumentation",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  }
+ ]
+}

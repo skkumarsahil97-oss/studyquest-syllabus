@@ -1,0 +1,196 @@
+{
+ "id": "cuetpg-mba",
+ "course": "cuetpg",
+ "level": "mba",
+ "name": "CUET PG · Management (MBA) · COQP12",
+ "version": 1,
+ "weights_note": "Chapters from the NTA CUET PG paper syllabus (domain paper, 75 MCQs) — please verify against the NTA PDF for this paper code. No reliable chapter weightage, so the planner treats chapters equally.",
+ "subjects": [
+  {
+   "id": "cuetpg-mba-s1",
+   "name": "Language Comprehension",
+   "name_hi": "",
+   "modules": [
+    {
+     "id": "cuetpg-mba-s1-reading-comprehension",
+     "name": "Reading Comprehension",
+     "name_hi": "",
+     "group": null,
+     "topics": [
+      "Passages",
+      "Inference",
+      "Main idea"
+     ],
+     "status": "verify"
+    },
+    {
+     "id": "cuetpg-mba-s1-grammar-and-sentence-cor",
+     "name": "Grammar and Sentence Correction",
+     "name_hi": "",
+     "group": null,
+     "topics": [
+      "Errors",
+      "Fill in the blanks"
+     ],
+     "status": "verify"
+    },
+    {
+     "id": "cuetpg-mba-s1-vocabulary",
+     "name": "Vocabulary",
+     "name_hi": "",
+     "group": null,
+     "topics": [
+      "Synonyms and antonyms",
+      "Idioms",
+      "One-word substitution"
+     ],
+     "status": "verify"
+    },
+    {
+     "id": "cuetpg-mba-s1-hindi-comprehension-if-c",
+     "name": "Hindi Comprehension (if chosen)",
+     "name_hi": "",
+     "group": null,
+     "topics": [
+      "पाठ बोधन",
+      "व्याकरण"
+     ],
+     "status": "verify"
+    }
+   ]
+  },
+  {
+   "id": "cuetpg-mba-s2",
+   "name": "Quantitative Ability",
+   "name_hi": "",
+   "modules": [
+    {
+     "id": "cuetpg-mba-s2-percentages-profit-and-l",
+     "name": "Percentages, Profit and Loss",
+     "name_hi": "",
+     "group": null,
+     "topics": [
+      "Percentages",
+      "Profit and loss",
+      "Discount"
+     ],
+     "status": "verify"
+    },
+    {
+     "id": "cuetpg-mba-s2-interest-ratio-and-avera",
+     "name": "Interest, Ratio and Averages",
+     "name_hi": "",
+     "group": null,
+     "topics": [
+      "Simple and compound interest",
+      "Ratio and proportion",
+      "Averages",
+      "Mixtures"
+     ],
+     "status": "verify"
+    },
+    {
+     "id": "cuetpg-mba-s2-time-work-speed-and-dist",
+     "name": "Time, Work, Speed and Distance",
+     "name_hi": "",
+     "group": null,
+     "topics": [
+      "Time and work",
+      "Pipes and cisterns",
+      "Speed, time and distance"
+     ],
+     "status": "verify"
+    },
+    {
+     "id": "cuetpg-mba-s2-number-system-and-algebr",
+     "name": "Number System and Algebra",
+     "name_hi": "",
+     "group": null,
+     "topics": [
+      "Numbers",
+      "Equations",
+      "Progressions"
+     ],
+     "status": "verify"
+    },
+    {
+     "id": "cuetpg-mba-s2-geometry-and-mensuration",
+     "name": "Geometry and Mensuration",
+     "name_hi": "",
+     "group": null,
+     "topics": [
+      "Lines and triangles",
+      "Areas and volumes"
+     ],
+     "status": "verify"
+    }
+   ]
+  },
+  {
+   "id": "cuetpg-mba-s3",
+   "name": "Reasoning and Data Interpretation",
+   "name_hi": "",
+   "modules": [
+    {
+     "id": "cuetpg-mba-s3-series-coding-and-analog",
+     "name": "Series, Coding and Analogies",
+     "name_hi": "",
+     "group": null,
+     "topics": [
+      "Number and letter series",
+      "Coding-decoding"
+     ],
+     "status": "verify"
+    },
+    {
+     "id": "cuetpg-mba-s3-direction-blood-relation",
+     "name": "Direction, Blood Relations and Ranking",
+     "name_hi": "",
+     "group": null,
+     "topics": [
+      "Directions",
+      "Blood relations",
+      "Order and ranking"
+     ],
+     "status": "verify"
+    },
+    {
+     "id": "cuetpg-mba-s3-seating-arrangement-and-",
+     "name": "Seating Arrangement and Puzzles",
+     "name_hi": "",
+     "group": null,
+     "topics": [
+      "Linear",
+      "Circular",
+      "Puzzles"
+     ],
+     "status": "verify"
+    },
+    {
+     "id": "cuetpg-mba-s3-statements-assumptions-a",
+     "name": "Statements, Assumptions and Syllogisms",
+     "name_hi": "",
+     "group": null,
+     "topics": [
+      "Syllogism",
+      "Statement-conclusion"
+     ],
+     "status": "verify"
+    },
+    {
+     "id": "cuetpg-mba-s3-data-interpretation",
+     "name": "Data Interpretation",
+     "name_hi": "",
+     "group": null,
+     "topics": [
+      "Tables",
+      "Bar and line graphs",
+      "Pie charts",
+      "Caselets"
+     ],
+     "status": "verify"
+    }
+   ]
+  }
+ ]
+}

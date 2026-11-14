@@ -1,0 +1,103 @@
+{
+ "id": "cuetpg-ma-political-science",
+ "course": "cuetpg",
+ "level": "ma-political-science",
+ "name": "CUET PG · MA Political Science · HUQP18",
+ "version": 1,
+ "weights_note": "Chapters from the NTA CUET PG paper syllabus (domain paper, 75 MCQs) — please verify against the NTA PDF for this paper code. No reliable chapter weightage, so the planner treats chapters equally.",
+ "subjects": [
+  {
+   "id": "cuetpg-ma-political-science-s1",
+   "name": "Political Theory and Thought",
+   "name_hi": "",
+   "modules": [
+    {
+     "id": "cuetpg-ma-political-science-s1-political-theory-concept",
+     "name": "Political Theory: Concepts",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "cuetpg-ma-political-science-s1-western-political-though",
+     "name": "Western Political Thought",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "cuetpg-ma-political-science-s1-indian-political-thought",
+     "name": "Indian Political Thought",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  },
+  {
+   "id": "cuetpg-ma-political-science-s2",
+   "name": "Indian Politics",
+   "name_hi": "",
+   "modules": [
+    {
+     "id": "cuetpg-ma-political-science-s2-indian-constitution-and-",
+     "name": "Indian Constitution and Government",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "cuetpg-ma-political-science-s2-indian-politics-parties-",
+     "name": "Indian Politics: Parties, Elections and Movements",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "cuetpg-ma-political-science-s2-public-administration",
+     "name": "Public Administration",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  },
+  {
+   "id": "cuetpg-ma-political-science-s3",
+   "name": "IR and Comparative Politics",
+   "name_hi": "",
+   "modules": [
+    {
+     "id": "cuetpg-ma-political-science-s3-comparative-politics",
+     "name": "Comparative Politics",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "cuetpg-ma-political-science-s3-international-relations-",
+     "name": "International Relations: Theories and Issues",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    },
+    {
+     "id": "cuetpg-ma-political-science-s3-india-s-foreign-policy",
+     "name": "India's Foreign Policy",
+     "name_hi": "",
+     "group": null,
+     "topics": [],
+     "status": "verify"
+    }
+   ]
+  }
+ ]
+}
